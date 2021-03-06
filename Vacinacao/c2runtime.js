@@ -20467,10 +20467,10 @@ cr.behaviors.custom = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function,
-	cr.plugins_.LocalStorage,
 	cr.plugins_.Mouse,
-	cr.plugins_.Touch,
+	cr.plugins_.LocalStorage,
 	cr.plugins_.Text,
+	cr.plugins_.Touch,
 	cr.plugins_.Sprite,
 	cr.behaviors.Bullet,
 	cr.behaviors.Pathfinding,
