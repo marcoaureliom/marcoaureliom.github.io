@@ -22339,9 +22339,9 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Arr,
 	cr.plugins_.Audio,
 	cr.plugins_.Function,
-	cr.plugins_.Text,
 	cr.plugins_.Sprite,
 	cr.plugins_.Touch,
+	cr.plugins_.Text,
 	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject,
 	cr.plugins_.Function.prototype.acts.CallFunction,
 	cr.plugins_.Sprite.prototype.exps.AnimationFrame,
@@ -22374,5 +22374,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.cnds.CompareFrame,
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.system_object.prototype.exps.min,
-	cr.system_object.prototype.exps.max
+	cr.system_object.prototype.exps.max,
+	cr.plugins_.Arr.prototype.acts.Insert,
+	cr.plugins_.Text.prototype.cnds.PickInstVarHiLow
 ];};
