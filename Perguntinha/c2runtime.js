@@ -22658,10 +22658,10 @@ cr.behaviors.DragnDrop = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio,
 	cr.plugins_.Mouse,
+	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.plugins_.Text,
 	cr.plugins_.TextBox,
-	cr.plugins_.Touch,
-	cr.plugins_.Sprite,
 	cr.behaviors.DragnDrop,
 	cr.behaviors.Bullet,
 	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
