@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1625075299,
+	"version": 1625540438,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,6 +7,7 @@
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
 		"images/caixaapps-sheet0.png",
+		"images/caixaapps-sheet1.png",
 		"images/sprite3-sheet0.png",
 		"images/pesquisa-sheet0.png",
 		"images/fundotopo-sheet0.png",
@@ -36,6 +37,8 @@
 		"images/sprite7-sheet0.png",
 		"images/sprite7-sheet1.png",
 		"images/sprite8-sheet0.png",
+		"images/btncontroleapps-sheet0.png",
+		"images/btncontroleapps-sheet1.png",
 		"media/cliquelapis.m4a",
 		"media/cliquelapis.ogg",
 		"icon-16.png",
