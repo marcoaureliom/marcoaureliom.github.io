@@ -1,0 +1,182 @@
+﻿{
+	"c2array": true,
+	"size": [25,5,1],
+	"data":
+	[
+		[
+			["Qual é a utilização correta do verbo To Be?"],
+			["It is"],
+			["You is"],
+			["I are"],
+			["He are"]
+		],
+		[
+			["Tradução das palavras: Cat - Dog - Fish"],
+			["Gato - Cachorro - Peixe"],
+			["Rato - Cachorro - Peixe"],
+			["Morcego - Gato - Rato"],
+			["Gato - Cachorro - Pássaro"]
+		],
+		[
+			["Modo correto de cumprimentar alguém no período da manhã:"],
+			["Good morning!"],
+			["Good night!"],
+			["Good evening!"],
+			["Good afternoon!"]
+		],
+		[
+			["Quais desses países têm o inglês como primeiro idioma?"],
+			["Estados Unidos, Reino Unido e Austrália"],
+			["Estados Unidos, Canadá e Dinamarca"],
+			["Reino Unido, Canadá e Suíça"],
+			["Groenlândia, Rússia e Luxemburgo"]
+		],
+		[
+			["Qual é a utilização errada do verbo To Be?"],
+			["They is"],
+			["You are"],
+			["I am"],
+			["She is"]
+		],
+		[
+			["Quantos países têm o inglês como língua oficial?"],
+			["54"],
+			["105"],
+			["12"],
+			["42"]
+		],
+		[
+			["Quantas letras compõem o alfabeto da língua inglesa?"],
+			["26"],
+			["23"],
+			["24"],
+			["25"]
+		],
+		[
+			["Qual a resposta correta para a pergunta: 'How old are you?'"],
+			["I am nine years old."],
+			["I am from Taipei."],
+			["I am not an old person."],
+			["My name is Nelson."]
+		],
+		[
+			["Qual a resposta correta para a pergunta: 'Do you have any animal?'"],
+			["Yes, I've a dog."],
+			["No, I'm not an animal."],
+			["Yes, I'm an animal."],
+			["No, I aren't."]
+		],
+		[
+			["Qual a resposta correta para a pergunta: 'What kind of music do you prefer?'"],
+			["I like jazz and soul."],
+			["I'm like blues."],
+			["You are jazz and soul."],
+			["This is jazz."]
+		],
+		[
+			["Qual alternativa representa na ordem correta as cores: azul, verde, vermelho e amarelo?"],
+			["Blue, green, red, yellow"],
+			["Green, blue, white, yellow"],
+			["Blue, green, red, white"],
+			["Black, blue, crimson, yellow"]
+		],
+		[
+			["Como é a palavra senhor em inglês?"],
+			["Mister"],
+			["Sister"],
+			["Miss"],
+			["Ma'am"]
+		],
+		[
+			["Qual alternativa representa corretamente os seguintes termos: 'Sr. Wilson'; 'Sra. Robinson'; 'Srta. Alice'?"],
+			["Mr. Wilson; Mrs. Robinson; Miss Alice"],
+			["Mrs. Wilson; Ms. Robinson; Mss. Alice"],
+			["Ms. Wilson; Mra. Robinson; Miss Alice"],
+			["M. Wilson; Mss. Robinson; Ms. Alice"]
+		],
+		[
+			["O que significa push?"],
+			["Empurrar"],
+			["Quebrar"],
+			["Puxar"],
+			["Por"]
+		],
+		[
+			["Significado da expressão 'Nice to meet you!':"],
+			["Prazer em conhecê-lo!"],
+			["Prazer em comparecer!"],
+			["Prazer em ajudá-lo!"],
+			["Prazer em vê-lo!"]
+		],
+		[
+			["Significado da expressão 'May I help you?':"],
+			["Posso te ajudar?"],
+			["Posso te ligar?"],
+			["Posso te buscar?"],
+			["Posso te acompanhar?"]
+		],
+		[
+			["Significado de 'Parents':"],
+			["Pais"],
+			["Primos"],
+			["Parentes"],
+			["Próximos"]
+		],
+		[
+			["Significado de 'College':"],
+			["Faculdade"],
+			["Universidade"],
+			["Colégio"],
+			["Escola"]
+		],
+		[
+			["Clique na alternativa com a ordem crescente correta de números:"],
+			["Three, four, five, six, seven"],
+			["One, three, five, six, four"],
+			["Six, seven, eight, one, ten"],
+			["Five, three, six, eight, ten"]
+		],
+		[
+			["O que significam as palavras 'of' e 'off'?"],
+			["De e desligar"],
+			["Desligar e de"],
+			["De e oferecer"],
+			["Oferecer e de"]
+		],
+		[
+			["Significado de 'Résumé':"],
+			["Currículo"],
+			["Resumo"],
+			["Reunião"],
+			["Entrevista"]
+		],
+		[
+			["Significado da expressão 'I am sorry':"],
+			["Eu sinto muito"],
+			["Eu estou sorridente"],
+			["Eu estou sonolento"],
+			["Eu estou só"]
+		],
+		[
+			["As quatro estações do ano em inglês são:"],
+			["Spring, summer, fall, winter"],
+			["Spring, sunny, fall, winter"],
+			["Spring, summer, fall, windy"],
+			["Prime, very, autumn, inverse"]
+		],
+		[
+			["São meses do ano em inglês:"],
+			["January, June, September, December"],
+			["Janery, Juno, Septiembre, Dezember"],
+			["Janiere, Juny, Setember, December"],
+			["January, Juny, September, Dezember"]
+		],
+		[
+			["Como se lê o número 122 em inglês?"],
+			["One hundred twenty-two"],
+			["One thousand twenty-two"],
+			["One cent twenty-two"],
+			["One hundred thirty-two"]
+		]
+	]
+}
