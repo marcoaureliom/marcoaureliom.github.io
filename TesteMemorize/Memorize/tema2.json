@@ -1,0 +1,182 @@
+﻿{
+	"c2array": true,
+	"size": [25,5,1],
+	"data":
+	[
+		[
+			["O terceiro planeta em volta do sol é:"],
+			["Terra"],
+			["Mercúrio"],
+			["Marte"],
+			["Netuno"]
+		],
+		[
+			["O planeta Marte também pode ser chamado de:"],
+			["Planeta vermelho"],
+			["Planeta pequeno"],
+			["Planeta grande"],
+			["Planeta maior"]
+		],
+		[
+			["Qual é o planeta mais próximo do sol?"],
+			["Mercúrio"],
+			["Netuno"],
+			["Marte"],
+			["Saturno"]
+		],
+		[
+			["O sol é:"],
+			["Uma estrela"],
+			["Um cometa"],
+			["Um meteoro"],
+			["Uma galáxia"]
+		],
+		[
+			["Dois países não fazem fronteira com o Brasil:"],
+			["Chile e Equador"],
+			["Peru e Argentina"],
+			["Argentina e Bolívia"],
+			["Chile e Peru"]
+		],
+		[
+			["Fazem parte da região sudeste:"],
+			["São Paulo, Minas Gerais, Rio de Janeiro"],
+			["São Paulo, Paraná, Goiás"],
+			["São Paulo, Rio de Janeiro, Mato Grosso"],
+			["Rio de Janeiro, Minas Gerais, Pará"]
+		],
+		[
+			["Fortaleza, Belém e Manaus são as capitais dos estados:"],
+			["Ceará; Pará; Amazonas"],
+			["Ceará; Goiás; Amazonas"],
+			["Ceará; Rondônia; Amazonas"],
+			["Pará; Ceará; Amazonas"]
+		],
+		[
+			["Os paralelos que cortam o território brasileiro são:"],
+			["Equador e Trópico de Capricórnio"],
+			["Equador e Meridiano de Greenwich"],
+			["Meridiano de Greenwich e Trópico de Capricórnio"],
+			["Equador e Trópico de Câncer"]
+		],
+		[
+			["'Ordem e Progresso' está escrito na bandeira brasileira na cor:"],
+			["Verde"],
+			["Preta"],
+			["Cinza"],
+			["Azul"]
+		],
+		[
+			["Os símbolos do Brasil são:"],
+			["Bandeira, Armas, Hino e Selo"],
+			["Bandeira, Estados, Hino e Selo"],
+			["Bandeira, Hino, Presidente e Selo"],
+			["Bandeira, Hino, Ministros e Selo"]
+		],
+		[
+			["O nome do Brasil é:"],
+			["República Federativa do Brasil"],
+			["Estados Unidos do Brasil"],
+			["Império do Brasil"],
+			["Brasil"]
+		],
+		[
+			["O Trópico de Capricórnio passa pelos estados brasileiros:"],
+			["Mato Grosso do Sul; Paraná; São Paulo"],
+			["Goiás; Paraná; São Paulo"],
+			["Mato Grosso do Sul; Paraná; Santa Catarina"],
+			["Mato Grosso do Sul; Paraná; Rio de Janeiro"]
+		],
+		[
+			["Os pinguins vivem principalmente no:"],
+			["Pólo Sul"],
+			["Pólo Norte"],
+			["Oceano Índico"],
+			["Oceano Pacífico"]
+		],
+		[
+			["Não são animais brasileiros:"],
+			["Girafa; Hiena; Camelo"],
+			["Arara Azul; Tucano; Anta"],
+			["Capivara; Mico-Leão-Dourado"],
+			["Onça Pintada; Paca; Tatu"]
+		],
+		[
+			["Com 8.514.876 Km², o Brasil é o quinto maior país do planeta em extensão territorial. Os países que possuem área maior que a do Brasil são:"],
+			["Rússia, Canadá, China e Estados Unidos"],
+			["Rússia, China, Índia e Austrália"],
+			["Estados Unidos, Canadá, África do Sul e Indonésia"],
+			["Canadá, Índia, México e China"]
+		],
+		[
+			["O Brasil possui ___ regiões e ___ Distrito Federal."],
+			["5; 1"],
+			["6; 1"],
+			["7; 2"],
+			["5; 2"]
+		],
+		[
+			["Nome da linha imaginária que corta a Terra em dois hemisférios (norte e sul):"],
+			["Equador"],
+			["Trópico de Capricórnio"],
+			["Trópico de Câncer"],
+			["Meridiano de Greenwich"]
+		],
+		[
+			["Oceano que banha o litoral brasileiro:"],
+			["Atlântico"],
+			["Índico"],
+			["Pacífico"],
+			["Glacial Ártico"]
+		],
+		[
+			["De acordo com a constituição de 1988, o Brasil passou a ter:"],
+			["26 Estados e 1 Distrito Federal"],
+			["25 Estados e 1 Distrito Federal"],
+			["26 Estados e 2 Distritos Federais"],
+			["24 Estados e 1 Distrito Federal"]
+		],
+		[
+			["Quem governa o país, administra os estados e cuida das cidades são:"],
+			["Presidente, Governadores, Prefeitos"],
+			["Presidente, Ministros, Prefeitos"],
+			["Presidente, Governadores, Senadores"],
+			["Senadores, Ministros, Prefeitos"]
+		],
+		[
+			["O Brasil localiza-se no continente _________ na ____________ ."],
+			["Americano; América do Sul"],
+			["Americano; América Central"],
+			["Americano; América do Norte"],
+			["Asiático; América do Sul"]
+		],
+		[
+			["No movimento de rotação a Terra gira ____________ e dura __________ ."],
+			["em volta de si mesma; 24 horas"],
+			["em volta do sol; 365 dias"],
+			["em volta de si mesma; 24 dias"],
+			["em volta do sol; 24 horas"]
+		],
+		[
+			["No movimento de rotação acontecem:"],
+			["os dias e as noites"],
+			["as estações do ano"],
+			["os dias"],
+			["as noites"]
+		],
+		[
+			["No movimento de translação a Terra gira ____________ e acontecem ____________ ."],
+			["em torno do sol; as estações do ano"],
+			["em torno do sol; os dias e as noites"],
+			["em torno do sol; os dias"],
+			["em torno de si mesma; as noites"]
+		],
+		[
+			["As indústrias de bens de consumo transformam a __________ em produtos de consumo:"],
+			["matéria prima"],
+			["exportação"],
+			["importação"],
+			["reciclagem"]
+		]
+	]
+}

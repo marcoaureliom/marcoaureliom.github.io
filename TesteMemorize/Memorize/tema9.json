@@ -1,0 +1,182 @@
+﻿{
+	"c2array": true,
+	"size": [25,5,1],
+	"data":
+	[
+		[
+			["Um dos cuidados para ir à praia:"],
+			["Beber bastante líquido."],
+			["Comer muito antes de entrar na água."],
+			["Ir à praia das 10:00 às 16:00 Horas."],
+			["Não passar protetor solar."]
+		],
+		[
+			["O Frevo é uma dança popular"],
+			["Pernambucana"],
+			["Baiana"],
+			["Carioca"],
+			["Goiana"]
+		],
+		[
+			["O que são folguedos?"],
+			["Festas populares"],
+			["Danças populares"],
+			["Ensaios de danças"],
+			["Pessoas que dançam"]
+		],
+		[
+			["Fazem parte da festa do carnaval:"],
+			["Confete e serpentina"],
+			["Água e bolinha de sabão"],
+			["Talco e água"],
+			["Talco e perfume"]
+		],
+		[
+			["As fases da corrida são:"],
+			["Largada, percurso, chegada"],
+			["Largada, percurso, corrida"],
+			["Chegada, pular, percurso"],
+			["Corrida, salto, chegada"]
+		],
+		[
+			["A bicicleta chegou ao Brasil em:"],
+			["1898"],
+			["1900"],
+			["1800"],
+			["1896"]
+		],
+		[
+			["Clique na alternativa com 3 modalidades de natação:"],
+			["Costas, peito, borboleta"],
+			["Costas, pernas, braços"],
+			["Costas, peito, pernas"],
+			["Pernas, braços, mãos"]
+		],
+		[
+			["São nomes de algumas peças do xadrez:"],
+			["Rei, Rainha, Bispo"],
+			["Cavalo, Rei, Galo"],
+			["Rei, Rainha, Papa"],
+			["Rainha, Bispo, Papa"]
+		],
+		[
+			["As peças de xadrez têm duas cores, tradicionalmente:"],
+			["Branca e Preta"],
+			["Branca e Cinza"],
+			["Branca e Amarela"],
+			["Preta e Cinza"]
+		],
+		[
+			["Qual a maior distância que um atleta masculino já conseguiu saltar?"],
+			["8,95m"],
+			["10,50m"],
+			["6,20m"],
+			["8,50m"]
+		],
+		[
+			["O salto com vara é praticado:"],
+			["Pelo sexo masculino e feminino"],
+			["Somente pelo sexo masculino"],
+			["Somente pelo sexo feminino"],
+			["Somente por adolescentes"]
+		],
+		[
+			["Clique em 3 tipos de arremessos efetuados no basquete:"],
+			["Bandeja, Jump, Com as duas mãos"],
+			["Saque, Cortada, Jump"],
+			["Bandeja, Cortada, Saque"],
+			["Saque, Jump, Bandeja"]
+		],
+		[
+			["Existem, no basquete, arremessos de:"],
+			["1 ponto, 2 pontos, 3 pontos"],
+			["2 pontos, 1 ponto, 4 pontos"],
+			["1 ponto, 2 pontos, 5 pontos"],
+			["1 ponto, 3 pontos, 0 pontos"]
+		],
+		[
+			["Para manter a coluna saudável, a mochila deve pesar:"],
+			["10% do seu peso"],
+			["30% do seu peso"],
+			["20% do seu peso"],
+			["40% do seu peso"]
+		],
+		[
+			["A capoeira surgiu entre os:"],
+			["Africanos"],
+			["Japoneses"],
+			["Chineses"],
+			["Coreanos"]
+		],
+		[
+			["Instrumento usado na capoeira:"],
+			["Berimbau"],
+			["Afoxé"],
+			["Saxofone"],
+			["Baixo"]
+		],
+		[
+			["Canção bastante conhecida e cantada nas rodas de capoeira:"],
+			["Marinheiro Só"],
+			["Areia do Mar"],
+			["A Onda Rolou na Praia"],
+			["A Roda Vai Começar"]
+		],
+		[
+			["O Doping esportivo é:"],
+			["A utilização de substâncias não naturais ao corpo para melhorar o desempenho."],
+			["A utilização de remédios para dor de cabeça"],
+			["A utilização de substâncias naturais ao corpo para melhorar o desempenho"],
+			["A utilização de tonificantes"]
+		],
+		[
+			["No jogo de basquete, quando a equipe adversária está marcando muito bem, você e sua equipe deverão:"],
+			["Fazer passes e deslocamentos para livrarem-se da marcação."],
+			["Desistir e sair do campo"],
+			["Tentar somente jogadas individuais"],
+			["Segurar o jogo e deixar o tempo acabar"]
+		],
+		[
+			["O gol é feito com as mãos nesse tipo de esporte:"],
+			["Handebol"],
+			["Futebol"],
+			["Basquete"],
+			["Voleibol"]
+		],
+		[
+			["São esportes coletivos:"],
+			["Futebol, Vôlei"],
+			["Golfe, Natação"],
+			["Natação, Esgrima"],
+			["Basquete, Xadrez"]
+		],
+		[
+			["O jogo de futebol possui ____ atletas e tem duração de ____ minutos."],
+			["22 - 90"],
+			["22 - 45"],
+			["11 - 45"],
+			["11 - 90"]
+		],
+		[
+			["Quando há prorrogação em um jogo de futebol a duração é de:"],
+			["30 minutos"],
+			["40 minutos"],
+			["15 minutos"],
+			["20 minutos"]
+		],
+		[
+			["São lutas:"],
+			["Tai Chi Chuan; Aiki Do; Judô"],
+			["Basquete; Esgrima; Vôlei"],
+			["Judô; Karatê; Basquete"],
+			["Tai Chi Chuan; Natação; Aiki Do"]
+		],
+		[
+			["Arte japonesa, fundada em 1940, onde a vitória e a derrota não são relevantes e prevalece um grande sentimento de amor, companheirismo e integridade física dos parceiros de treino:"],
+			["Aiki Do"],
+			["Judô"],
+			["Karatê"],
+			["Kendô"]
+		]
+	]
+}
