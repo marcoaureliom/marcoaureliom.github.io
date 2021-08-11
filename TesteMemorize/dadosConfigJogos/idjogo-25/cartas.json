@@ -1,8 +1,8 @@
 {
     "c2dictionary": true,
     "data": {
-        "carta1": "img1.png",
-        "carta2": "img2.png",
+        "carta1": "../dadosConfigJogos/idjogo-25/img1.png",
+        "carta2": "../dadosConfigJogos/idjogo-25/img2.png",
         "carta3": "https://image.flaticon.com/icons/png/256/5020/5020356.png",
         "carta4": "https://image.flaticon.com/icons/png/256/5020/5020356.png",
         "carta5": "https://image.flaticon.com/icons/png/256/5020/5020364.png",
