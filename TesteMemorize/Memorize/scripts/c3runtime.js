@@ -3927,7 +3927,7 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 		() => "TemaEscolhido",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
-			return () => (and("../dadosConfigJogos/idjogo-", v0.GetValue()) + "/perguntas.json");
+			return () => (and("../dadosconfigjogos/idjogo-", v0.GetValue()) + "/perguntas.json");
 		},
 		p => {
 			const v0 = p._GetNode(0).GetVar();
