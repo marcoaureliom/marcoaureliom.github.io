@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["O tabaco é uma planta que contém uma substância denominada nicotina. Pertence à família das Solanáceas assim como:"],
+            ["tomate, berinjela e batata"],
+            ["mandioca, tomate e abobrinha"],
+            ["tomate, batata e couve"]
+        ],
+        [
+            ["Princípio ativo do tabaco, responsável por seu efeito estimulante. É uma substância que age sobre o sistema nervoso e gera dependência:"],
+            ["nicotina"],
+            ["amônia"],
+            ["formol"]
+        ],
+        [
+            ["É o nome científico da planta do fumo:"],
+            ["Nicotiana tabacum"],
+            ["Tabacum fumus"],
+            ["Nicotiana fumus"]
+        ],
+        [
+            ["São algumas das muitas substâncias tóxicas encontradas no tabaco:"],
+            ["terebentina, amônia, formol e naftalina"],
+            ["éter e cobalto"],
+            ["chumbo e amilase"]
+        ],
+        [
+            ["Qual a porcentagem dos estudantes que dão o primeiro trago com idade entre 10 e 12 anos, baseado em um estudo feito pelo CEBRID (UNIFESP) no ano de 1997?"],
+            ["11%"],
+            ["25%"],
+            ["6%"]
+        ],
+        [
+            ["O efeito que ocorre de imediato após fumar um cigarro como o aumento dos batimentos cardíacos, da pressão arterial, da freqüência respiratória e da atividade motora:"],
+            ["físico agudo"],
+            ["físico crônico"],
+            ["relâmpago"]
+        ],
+        [
+            ["O efeito de evolução lenta, resultante do uso do tabaco, que aumenta a probabilidade da ocorrência de infarto, enfisema pulmonar, derrame cerebral e úlcera de estômago:"],
+            ["físico crônico"],
+            ["retardado"],
+            ["físico agudo"]
+        ],
+        [
+            ["Quanto tempo aproximadamente leva para a nicotina chegar ao cérebro após uma tragada?"],
+            ["de seis a dez segundos"],
+            ["um minuto"],
+            ["trinta a quarenta segundos"]
+        ],
+        [
+            ["São duas das 60 substâncias cancerígenas encontradas no tabaco:"],
+            ["benzopireno e nitrozamina"],
+            ["nicotina e formol"],
+            ["naftalina e amônia"]
+        ],
+        [
+            ["A dependência do tabaco pode causar a síndrome:"],
+            ["de abstinência e a tolerância"],
+            ["do pânico"],
+            ["da incontinência urinária"]
+        ],
+        [
+            ["Como denominamos a necessidade de fumar cada vez mais cigarros para manter o mesmo nível de satisfação?"],
+            ["tolerância"],
+            ["intolerância"],
+            ["dependência"]
+        ],
+        [
+            ["Síndrome caracterizada por fissura, irritabilidade, agitação, sudorese, tontura, insônia e dores de cabeça que surgem quando o fumante suspende repentinamente o consumo de cigarros:"],
+            ["de abstinência"],
+            ["de Down"],
+            ["do pânico"]
+        ],
+        [
+            ["Quanto tempo, aproximadamente, dura a Síndrome da Abstinência do tabaco?"],
+            ["três semanas"],
+            ["dois meses"],
+            ["quatro meses"]
+        ],
+        [
+            ["Alem de baixa estatura, baixo peso ao nascer e aumento do batimento cardíaco que outra conseqüência do uso do tabaco que pode se manifestar no bebê? Alterações:"],
+            ["neurológicas"],
+            ["musculares"],
+            ["na cor da pele"]
+        ],
+        [
+            ["Que fator durante a gravidez aumenta o risco de aborto espontâneo, nascimento prematuro, morte fetal, complicações com a placenta e episódios de hemorragia?"],
+            ["consumo de tabaco"],
+            ["prática do sexo"],
+            ["atividade física"]
+        ],
+        [
+            ["É um resíduo do tabaco que irrita as vias respiratórias depositando substâncias químicas que reduz a capacidade de manter os pulmões limpos:"],
+            ["a fumaça"],
+            ["o cheiro"],
+            ["a cinza"]
+        ],
+        [
+            ["Em que populações o uso do tabaco iniciou-se por volta do ano 1000 A.C.?"],
+            ["indígenas da América Central"],
+            ["egípcios"],
+            ["romanos"]
+        ],
+        [
+            ["De que maneira o tabaco foi usado inicialmente pelos indígenas da América Central?"],
+            ["em rituais mágicos - religiosos"],
+            ["em rituais de caça"],
+            ["em rituais depois do sexo"]
+        ],
+        [
+            ["Por volta de que período surgiram as primeiras descrições de pessoas fumando cigarros de papel?"],
+            ["1840-1850"],
+            ["1630-1640"],
+            ["1900-1910"]
+        ],
+        [
+            ["Os fumantes precisam de uma quantidade maior de morfina para controlar a dor e sentem menos o efeito sedativo de alguns tranqüilizantes. O que a nicotina faz com relação a outros remédios?"],
+            ["reduz a eficiência"],
+            ["aumenta a eficiência"],
+            ["anula o efeito"]
+        ],
+        [
+            ["Situação em que a pessoa tem muita dificuldade para deixar de fumar:"],
+            ["dependência"],
+            ["tolerância"],
+            ["intolerância"]
+        ],
+        [
+            ["Efeitos imediatos causados no cérebro como leve estimulação e diminuição do apetite após o uso de um cigarro:"],
+            ["psíquicos agudos"],
+            ["psíquicos crônicos"],
+            ["colaterais"]
+        ],
+        [
+            ["Como são chamados os indivíduos não fumantes que permanecem próximos aos fumantes, inalando também substâncias tóxicas da fumaça do cigarro dispersada no ambiente? Fumantes:"],
+            ["passivos"],
+            ["ativos"],
+            ["compulsivos"]
+        ],
+        [
+            ["Povo indígena que, provavelmente, pela sua migração trouxe o tabaco para o Brasil"],
+            ["tupi guarani"],
+            ["Incas"],
+            ["maias"]
+        ],
+        [
+            ["A associação do cigarro com que imagens nos meios de comunicação pretendem e conseguem promover o seu consumo?"],
+            ["fumantes bem sucedidos"],
+            ["hospitais"],
+            ["poluição"]
+        ],
+        [
+            ["Tipo de dependência em que o indivíduo após suspender o consumo de cigarros tem dificuldade de exercer suas atividades por tê-las associado ao uso do cigarro:"],
+            ["psicológica"],
+            ["química"],
+            ["física"]
+        ],
+        [
+            ["Efeito causado pelo uso crônico do cigarro que diminui o calibre dos vasos sanguíneos de todo o organismo, inclusive do pênis:"],
+            ["impotência sexual"],
+            ["inibição da libido"],
+            ["desinteresse sexual"]
+        ],
+        [
+            ["As drogas lícitas são substâncias tóxicas comercializadas livremente com autorização governamental. Como exemplo:"],
+            ["cigarro e álcool"],
+            ["maconha e álcool"],
+            ["cigarro e LSD"]
+        ],
+        [
+            ["Custos financeiros aumentados e pouco visíveis, que os não fumantes arcam devido aos fumantes:"],
+            ["gastos com saúde pública"],
+            ["taxa de poluição"],
+            ["gastos com propaganda"]
+        ],
+        [
+            ["Em que década iniciaram as pesquisas que relacionaram o cigarro ao adoecimento dos fumantes e dos não fumantes expostos à fumaça do cigarro?"],
+            ["1960"],
+            ["1910"],
+            ["1930"]
+        ],
+        [
+            ["É uma substância encontrada no leite de uma mãe que fuma:"],
+            ["nicotina"],
+            ["alcatrão"],
+            ["amônia"]
+        ],
+        [
+            ["Designação genérica para um conjunto de doenças relacionadas ao crescimento celular desordenado. O consumo de tabaco aumenta a sua incidência:"],
+            ["câncer"],
+            ["infarte"],
+            ["derrame"]
+        ],
+        [
+            ["Em quanto aumenta a incidência de infecções respiratórias (bronquite, pneumonia e sinusite) de filhos de pais fumantes?"],
+            ["300%"],
+            ["20%"],
+            ["100%"]
+        ],
+        [
+            ["São substâncias que quando absorvidas pela pele, por ingestão ou inalação levam à produção de mutações que provocam a transformação celular. O cigarro contem 60 dessas substâncias:"],
+            ["carcinogênicas"],
+            ["genéticas"],
+            ["tóxicas"]
+        ],
+        [
+            ["Das mortes por câncer de pulmão que porcentagem são causadas diretamente pelo tabagismo?"],
+            ["80 – 90%"],
+            ["20 – 30%"],
+            ["50 – 60%"]
+        ],
+        [
+            ["Produto vendido livremente, que causa mais mortes do que a cocaína, heroína, álcool, incêndios, suicídios e AIDS, juntos:"],
+            ["cigarro"],
+            ["lança perfume"],
+            ["cola de sapateiro"]
+        ],
+        [
+            ["São dois tipos de doenças infecciosas que os fumantes tem maior chance de contrair devido à diminuição de suas defesas orgânicas"],
+            ["tuberculose e gripe"],
+            ["toxoplasmose e dengue"],
+            ["sífilis e sinusite"]
+        ],
+        [
+            ["Segundo a Organização Mundial de Saúde quantos são os fumantes no mundo?"],
+            ["um bilhão"],
+            ["500 milhões"],
+            ["3 bilhões e meio"]
+        ],
+        [
+            ["Quantas pessoas morrem por ano em todo o mundo por doenças relacionadas ao tabaco?"],
+            ["três milhões e meio"],
+            ["um milhão"],
+            ["dois milhões e quatrocentos"]
+        ],
+        [
+            ["Quantos são os fumantes no Brasil?"],
+            ["trinta e três milhões"],
+            ["onze milhões"],
+            ["vinte e dois milhões"]
+        ],
+        [
+            ["Aproximadamente quantas pessoas morrem por ano no Brasil por doenças relacionadas ao tabaco?"],
+            ["oitenta mil"],
+            ["quarenta mil"],
+            ["cento e vinte mil"]
+        ],
+        [
+            ["Que outra conseqüência estética o fumante pode apresentar alem de dentes e dedos amarelados?"],
+            ["mau hálito"],
+            ["carie"],
+            ["manchas na pele"]
+        ],
+        [
+            ["Aproximadamente quantas substâncias tóxicas diferentes estão presentes na fumaça do cigarro?"],
+            ["quatro mil"],
+            ["quinhentas"],
+            ["duzentas"]
+        ],
+        [
+            ["Que porcentagem dos incêndios são causados por pontas de cigarro no mundo?"],
+            ["15 – 25 %"],
+            ["8 – 10 %"],
+            ["40 – 50 %"]
+        ],
+        [
+            ["São tipos de doenças pulmonares causadas pelo fumo e que dificultam a troca de gases no pulmão:"],
+            ["bronquite crônica e enfisema pulmonar"],
+            ["bronquite e cirrose"],
+            ["silicose e enfisema pulmonar"]
+        ],
+        [
+            ["As mulheres fumantes tem risco aumentado de menopausa precoce, infertilidade e osteoporose porque a nicotina provoca:"],
+            ["deficiência de hormônio (estrógeno)"],
+            ["disfunção renal"],
+            ["danos ao pulmão"]
+        ],
+        [
+            ["Doença como bronquite, que tem sua incidência aumentada nas crianças expostas à fumaça de cigarros:"],
+            ["asma"],
+            ["brucelose"],
+            ["hiperglicemia"]
+        ],
+        [
+            ["Dispositivo para fornecer a droga nicotina, que comercializado rende enormes lucros às empresas e maiores prejuízos às pessoas e aos governos:"],
+            ["cigarro"],
+            ["cachaça"],
+            ["cerveja"]
+        ],
+        [
+            ["Qual o efeito do fumo na taxa de fertilidade de mulheres jovens? Redução da fertilidade em:"],
+            ["50%"],
+            ["10%"],
+            ["5%"]
+        ],
+        [
+            ["Qual o único agente que não sendo bactéria nem vírus adquiriu características epidêmicas segundo a Organização Mundial de Saúde - OMS?"],
+            ["tabaco"],
+            ["álcool"],
+            ["maconha"]
+        ],
+        [
+            ["É uma situação em que uma doença ataca muitos indivíduos ao mesmo tempo e na mesma região:"],
+            ["epidemia"],
+            ["epiderme"],
+            ["endemia"]
+        ],
+        [
+            ["Que posição o Brasil ocupa entre os países exportadores de tabaco?"],
+            ["1º lugar"],
+            ["3º lugar"],
+            ["2º lugar"]
+        ],
+        [
+            ["Que posição o Brasil ocupa entre os países produtores de tabaco?"],
+            ["4º lugar"],
+            ["7º lugar"],
+            ["1º lugar"]
+        ],
+        [
+            ["Em 1560 um diplomata francês popularizou o uso do tabaco na Europa como um tipo de planta com que utilidade?"],
+            ["planta medicinal"],
+            ["planta alucinógena"],
+            ["incenso"]
+        ],
+        [
+            ["Qual o tempo necessário para que a pressão sanguínea e a freqüência do pulso voltem ao normal após a ausência do efeito da fumaça do cigarro?"],
+            ["vinte minutos"],
+            ["cinco minutos"],
+            ["uma hora"]
+        ],
+        [
+            ["Qual o tempo necessário para que o nível do oxigênio no sangue aumente e o de gás carbônico volte ao normal após a ausência do efeito da fumaça do cigarro?"],
+            ["oito horas"],
+            ["três horas"],
+            ["dezesseis horas"]
+        ],
+        [
+            ["Qual o tempo necessário para que uma pessoa volte a perceber melhor o gosto e o cheiro dos alimentos após a ausência do efeito da fumaça do cigarro?"],
+            ["quarenta e oito horas"],
+            ["doze horas"],
+            ["oito horas"]
+        ],
+        [
+            ["Qual o tempo necessário para que os brônquios relaxem e a respiração fique mais fácil após a ausência do efeito da fumaça do cigarro?"],
+            ["setenta e duas horas"],
+            ["quarenta e oito horas"],
+            ["trinta e seis horas"]
+        ],
+        [
+            ["Qual o tempo necessário para que o sistema imunológico (responsável pelas defesas do organismo) fique mais ativo e a circulação do sangue aumente após a ausência do efeito da fumaça do cigarro?"],
+            ["de duas semanas a três meses"],
+            ["de dois dias a uma semana"],
+            ["seis meses"]
+        ],
+        [
+            ["Sistema orgânico responsável pelas defesas do organismo e que é afetado pela presença de nicotina:"],
+            ["imunológico"],
+            ["circulatório"],
+            ["renal"]
+        ],
+        [
+            ["Tipo de atividade essencial que orienta e sensibiliza as pessoas para que tenham condições para tomar decisões conscientes com relação ao tabagismo:"],
+            ["educação em saúde"],
+            ["proibição do tabaco"],
+            ["tratamento médico"]
+        ],
+        [
+            ["Dia Nacional de Controle do Fumo instituído pela Lei 7488 de 1986"],
+            ["29 de agosto"],
+            ["1 de abril"],
+            ["7 de julho"]
+        ],
+        [
+            ["Ano em que foi publicada a Lei 9294 que regulamenta a propaganda do tabaco e proíbe fumar em locais públicos, oficiais e privados:"],
+            ["1996"],
+            ["1989"],
+            ["1998"]
+        ],
+        [
+            ["Qual a porcentagem de alunos do Ensino Fundamental que são fumantes no Quênia (país do leste da África)?"],
+            ["40%"],
+            ["10%"],
+            ["25%"]
+        ],
+        [
+            ["Qual órgão que centraliza as políticas de prevenção ao tabagismo no governo federal?"],
+            ["INCA"],
+            ["INAC"],
+            ["INSC"]
+        ],
+        [
+            ["Qual o número estimado de pessoas que se tornam fumantes a cada dia no mundo?"],
+            ["vinte mil"],
+            ["quinze mil"],
+            ["trinta mil"]
+        ],
+        [
+            ["Qual a substância presente no cigarro que potencializa a ação da nicotina, ao alcalinizar o tabaco?"],
+            ["amônia"],
+            ["alcatrão"],
+            ["magnésio"]
+        ],
+        [
+            ["Qual o percentual de casos de câncer relacionados ao tabagismo?"],
+            ["30%"],
+            ["10%"],
+            ["50%"]
+        ],
+        [
+            ["Quantas vezes é mais provável que um fumante tenha câncer de pulmão em comparação a um não fumante?"],
+            ["quinze vezes"],
+            ["cinco vezes"],
+            ["dez vezes"]
+        ],
+        [
+            ["Número médio de anos de vida estimados perdidos por um fumante que tenha começado a fumar aos 25 anos e fume 1 maço de cigarros por dia:"],
+            ["seis anos"],
+            ["três anos"],
+            ["oito anos"]
+        ],
+        [
+            ["Quantas vezes é mais provável que um fumante tenha câncer de laringe em comparação a um não fumante?"],
+            ["nove vezes"],
+            ["quinze vezes"],
+            ["quatro vezes"]
+        ],
+        [
+            ["É um efeito fisiológico do tabagismo em mulheres:"],
+            ["antecipação da menopausa"],
+            ["retardo da menopausa"],
+            ["suspensão da menstruação"]
+        ],
+        [
+            ["A freqüência de tosse em fumantes (por mais de 3 meses ao ano) ao compararmos com os não – fumantes é:"],
+            ["três vezes maior"],
+            ["cinco vezes maior"],
+            ["duas vezes maior"]
+        ],
+        [
+            ["Substância produzida pela glândula supra-renal. Quando estimulada pela nicotina provoca aumento do batimento cardíaco sobrecarregando o coração:"],
+            ["adrenalina"],
+            ["melanina"],
+            ["serotonina"]
+        ],
+        [
+            ["Esporte que atualmente vem sofrendo uma campanha progressiva e forte para parar com propaganda de cigarros:"],
+            ["formula 1"],
+            ["futebol"],
+            ["voleibol"]
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+
+{
+    "c2array": true,
+    "size": [1,4,1],
+    "data":
+    [
+        [
+            ["Insira aqui o enunciado da questão"],
+            ["Insisra aqui a resposta correta"],
+            ["Insira aqui uma resposta incorreta"],
+            ["Insira aqui uma resposta incorreta"]
+        ]
+        
+    ]
+}

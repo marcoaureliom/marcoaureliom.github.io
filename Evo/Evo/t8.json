@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["É o conjunto de fatores físicos, químicos, biológicos e socioeconômicos que atuam sobre um indivíduo ou a comunidade e suas transformações artificiais, assim como seu desdobramento espacial. Podemos considerá-lo como o espaço em que vivemos e nos desenvolvemos."],
+            ["meio ambiente"],
+            ["ecologia"],
+            ["recursos naturais"]
+        ],
+        [
+            ["É a área da Ciência que estuda as relações entre os seres vivos e deles com o meio ambiente."],
+            ["ecologia"],
+            ["queimada"],
+            ["geologia"]
+        ],
+        [
+            ["É a prática agrícola rudimentar proibida pelo artigo 27 do Código florestal que consiste na queima da vegetação natural para utilização do solo na agricultura prejudicando a fertilidade do solo."],
+            ["queimada"],
+            ["nutrientes"],
+            ["erosão"]
+        ],
+        [
+            ["Destruição ou desgaste do solo pela ação de águas correntes ou do vento. O homem pode acelerar esse processo com técnicas impróprias de cultivo, pastoreio excessivo e corte ou queima de vegetação."],
+            ["erosão"],
+            ["queimada"],
+            ["impacto ambiental"]
+        ],
+        [
+            ["Elementos obtidos da natureza que se usados adequadamente podem durar para sempre."],
+            ["recursos naturais renováveis"],
+            ["nutrientes"],
+            ["recursos naturais não renováveis"]
+        ],
+        [
+            ["Tudo que o homem aproveita da natureza, mas que se esgotam após um tempo de exploração."],
+            ["recursos naturais não renováveis"],
+            ["nutrientes"],
+            ["recursos naturais renováveis"]
+        ],
+        [
+            ["São elementos ou compostos essenciais que não fornecem energia, mas servem de matéria prima para o crescimento e desenvolvimento de organismos."],
+            ["nutrientes"],
+            ["oxigênio"],
+            ["recursos naturais renováveis"]
+        ],
+        [
+            ["É o elemento fundamental para a respiração. Esse gás surgiu na atmosfera com o aparecimento dos vegetais. É um elemento comburente, ou seja, participa das queima liberando energia."],
+            ["oxigênio"],
+            ["nitrogênio"],
+            ["monóxido de carbono"]
+        ],
+        [
+            ["É o gás mais abundante do ar atmosférico (78% do total)."],
+            ["nitrogênio"],
+            ["monóxido de carbono"],
+            ["oxigênio"]
+        ],
+        [
+            ["Aumento da temperatura atmosférica decorrente do aumento do gás carbônico derivado da queima de combustíveis fósseis por veículos e usinas termoelétricas."],
+            ["efeito estufa"],
+            ["fotossíntese"],
+            ["erosão"]
+        ],
+        [
+            ["È um gás não prejudicial para a saúde do homem em concentrações normais, e indispensável para a fotossíntese. No entanto, sua presença crescente na atmosfera provocada pelo homem poderá provocar problemas no futuro."],
+            ["dióxido de carbono"],
+            ["nitrogênio"],
+            ["monóxido de carbono"]
+        ],
+        [
+            ["É um gás inodoro e incolor resultante da queima incompleta de combustíveis que originalmente não existia na atmosfera. Ao ser inspirado passa para o sangue e impede a hemoglobina de transportar oxigênio para as células."],
+            ["monóxido de carbono"],
+            ["nitrogênio"],
+            ["benzopireno"]
+        ],
+        [
+            ["Agente que pode provocar alteração dos nossos genes. Podem ser classificados em agentes físicos (raios X e raios ultravioleta) e químicos (gás mostarda, e o benzopireno presente na fumaça do cigarro):"],
+            ["mutagênico"],
+            ["genético"],
+            ["biológico"]
+        ],
+        [
+            ["É um instrumento legal gratuito que qualquer cidadão eleitor dispõe para defender o meio ambiente, previsto no artigo 5o da Constituição Federal."],
+            ["ação popular"],
+            ["voto"],
+            ["plebiscito"]
+        ],
+        [
+            ["É o espaço ocupado por um organismo no ecossistema, incluindo o seu papel na comunidade e a sua posição em gradientes ambientais de temperatura, umidade, pH, solo e outras condições de existência."],
+            ["nicho ecológico"],
+            ["ecossistema"],
+            ["comunidade"]
+        ],
+        [
+            ["Agente (físico, químico ou biológico), externo ao embrião, que pode afetar o desenvolvimento normal dos órgãos, provocando malformações. O vírus da rubéola, os raios X e a talidomida são exemplos desses agentes:"],
+            ["teratogênicos"],
+            ["gênicos"],
+            ["biológicos"]
+        ],
+        [
+            ["É o conjunto de organismos de uma mesma espécie, vivendo em um mesmo espaço, em uma mesma época:"],
+            ["população"],
+            ["reino"],
+            ["comunidade"]
+        ],
+        [
+            ["É um conjunto de populações que vivem em uma determinada região e que se relacionam entre si:"],
+            ["comunidade"],
+            ["população"],
+            ["nicho ecológico"]
+        ],
+        [
+            ["É o processo pelo qual as plantas verdes obtém sua energia a partir da luz e da absorção de água, nutrientes minerais e o gás carbônico. O processo resulta no acumulo de glicose e eliminação do oxigênio:"],
+            ["fotossíntese"],
+            ["respiração"],
+            ["absorção"]
+        ],
+        [
+            ["É um agregado (conjunto) de substâncias naturais que se formam na crosta terrestre:"],
+            ["rocha"],
+            ["solo"],
+            ["superfície erosional"]
+        ],
+        [
+            ["É uma fina camada da crosta terrestre que junto com a água, o ar e a luz solar mantém a vida:"],
+            ["solo"],
+            ["argila"],
+            ["atmosfera"]
+        ],
+        [
+            ["Reação de hipersensibilidade do sistema de defesa do corpo à invasão de substâncias estranhas como pólen, poeira e alguns alimentos:"],
+            ["alergia"],
+            ["intoxicação"],
+            ["exposição"]
+        ],
+        [
+            ["Organismos em geral microscópicos, como bactérias e fungos capazes de desintegrar a matéria orgânica morta e retornar separada em seus elementos à natureza:"],
+            ["degradadores"],
+            ["fixadores"],
+            ["aeróbicos "]
+        ],
+        [
+            ["É a camada de ar que envolve a Terra mantendo as condições adequadas para o desenvolvimento da vida:"],
+            ["atmosfera"],
+            ["biosfera"],
+            ["litosfera"]
+        ],
+        [
+            ["É o conjunto integrado formado pelos seres vivos (meio biótico) e pelos fatores físicos e químicos (meio abiótico) que caracterizam um determinado lugar:"],
+            ["ecossistema"],
+            ["flora"],
+            ["assoreamento"]
+        ],
+        [
+            ["Seqüência de organismos em uma comunidade, na qual cada membro se alimenta do membro inferior. Por exemplo: cobra-sapo-inseto-planta:"],
+            ["cadeia alimentar"],
+            ["parasitismo "],
+            ["canibalismo"]
+        ],
+        [
+            ["São organismos que tem a capacidade de produzir seu próprio alimento (matéria orgânica) a partir de matéria inorgânica.Como exemplo temos as algas e as plantas verdes."],
+            ["produtores"],
+            ["consumidores"],
+            ["decompositores"]
+        ],
+        [
+            ["São organismos que não produzem seu próprio alimento a partir de substâncias inorgânicas. Nenhum animal é capaz de produzir seu próprio alimento."],
+            ["consumidores"],
+            ["decompositores"],
+            ["produtores"]
+        ],
+        [
+            ["São organismos que se alimentam de organismos mortos ou restos orgânicos transformando-os em matéria inorgânica. Como exemplo temos as bactérias e os fungos."],
+            ["decompositores"],
+            ["produtores"],
+            ["consumidores"]
+        ],
+        [
+            ["É a parte do ambiente constituída pelo conjunto dos seres vivos."],
+            ["meio biótico"],
+            ["meio abiótico"],
+            ["meio ambiente"]
+        ],
+        [
+            ["É o conjunto de fatores físico-químicos (ar, luz, água, calor, pressão, solo, entre outros) que constitui uma parte do ambiente."],
+            ["meio abiótico"],
+            ["meio ambiente"],
+            ["meio biótico"]
+        ],
+        [
+            ["Nome dado aos materiais que podem ser decompostos pela ação de microrganismos do solo e da água:"],
+            ["biodegradáveis"],
+            ["biocidas"],
+            ["agente biológico"]
+        ],
+        [
+            ["Não jogar o lixo nas ruas e bueiros é uma medida eficiente para evitar que tipo de incidente?"],
+            ["enchentes"],
+            ["assoreamento"],
+            ["erosão"]
+        ],
+        [
+            ["Que processo é utilizado para a disposição de resíduos sólidos no solo com o devido controle da poluição ambiental e proteção do meio ambiente?"],
+            ["aterro sanitário"],
+            ["decomposição"],
+            ["assoreamento"]
+        ],
+        [
+            ["A compostagem é a mistura de material orgânico (dejetos, folhas e restos vegetais) resultante da decomposição, é utilizado para:"],
+            ["enriquecimento do solo"],
+            ["correção do ph do solo"],
+            ["assoreamento"]
+        ],
+        [
+            ["Como se chama o processo industrial que reaproveita o lixo descartado para a produção de novos bens diminuindo assim o consumo de matéria virgem?"],
+            ["reciclagem"],
+            ["triagem"],
+            ["usinagem"]
+        ],
+        [
+            ["Processo onde ocorre uma profunda perda de água no ambiente pela ausência de vegetação causando um impacto no solo que reduz a possibilidade de vida no meio."],
+            ["desertificação"],
+            ["assoreamento"],
+            ["queimada"]
+        ],
+        [
+            ["Um dos maiores problemas ambientais é o excessivo número de pessoas vivendo numa determinada área. Esse valor referente à população é chamado:"],
+            ["densidade"],
+            ["tamanho"],
+            ["intensidade"]
+        ],
+        [
+            ["Nome dado às plantas ou animais modificados geneticamente, usando técnicas de Biologia Molecular, com a inserção de um ou poucos genes (características) de organismos diferentes com a finalidade de obter características desejáveis."],
+            ["transgênicos"],
+            ["mutagênicos"],
+            ["clones"]
+        ],
+        [
+            ["Como poderíamos substituir os fertilizantes químicos por uma técnica menos agressiva ao solo (excessos de nutrientes e metais pesados)?"],
+            ["adubação com esterco"],
+            ["adubação com calcário"],
+            ["não há alternativa"]
+        ],
+        [
+            ["Nome técnico dado ao arsenal de inseticidas, fungicidas e herbicidas que contendo mercúrio e/ou organoclorados pode ocasionar acúmulo no solo e afetar ou mesmo exterminar organismos ecologicamente importantes no equilíbrio dos ambientes atingidos."],
+            ["biocidas"],
+            ["formicidas"],
+            ["pesticidas"]
+        ],
+        [
+            ["É a ciência que nos permite prever os modos em que os tamanhos das populações vão se alterar no futuro:"],
+            ["demografia"],
+            ["dermatologia"],
+            ["gemologia"]
+        ],
+        [
+            ["Processo em que lagos, rios, baías e estuários vão sendo aterrados pelos solos e outros sedimentos neles depositados pelas águas das enxurradas, ou por outros processos."],
+            ["assoreamento"],
+            ["decomposição"],
+            ["decantação"]
+        ],
+        [
+            ["É a camada protetora da atmosfera exterior que filtra uma grande quantidade da radiação ultravioleta do Sol e se localiza a 25 Km de altura do solo?"],
+            ["camada de ozônio"],
+            ["camada de oxigênio "],
+            ["biosfera"]
+        ],
+        [
+            ["Como se denomina a água própria para o consumo humano?"],
+            ["água potável"],
+            ["água doce"],
+            ["água salobra"]
+        ],
+        [
+            ["Processo de conversão de organismos mortos, ou parte destes, em substâncias orgânicas e inorgânicas, através da ação escalonada de um conjunto de organismos (necrófagos, detritóvoros, saprófagos decompositores e saprófitos própriamente ditos)."],
+            ["decomposição"],
+            ["solidificação"],
+            ["alimentação"]
+        ],
+        [
+            ["Devido à ação do homem, o planeta Terra está sofrendo uma mudança climática. Estima-se que em 100 anos a temperatura média do planeta aumentará entre:"],
+            ["1,4º C a 5,8º C"],
+            ["12º C a 20º C"],
+            ["0,2ºC a 1,6º C"]
+        ],
+        [
+            ["Palavra que deriva do latim e significa macular, manchar. É considerada juridicamente como a inclusão de qualquer fator ao ambiente que provoque alteração de suas qualidades naturais, impondo ao vizinho condições modificadas de seu meio."],
+            ["poluição"],
+            ["contaminação"],
+            ["degradação"]
+        ],
+        [
+            ["Cerca de 97,5% da água do planeta, não pode ser bebida, usada para cozinhar e nem ser usada na irrigação. Onde encontramos essa água?"],
+            ["mares e oceanos"],
+            ["rios e lagos"],
+            ["represas e córregos"]
+        ],
+        [
+            ["Sem considerar a água destinada a produção de energia e de alimentos, cada morador da região metropolitana de São Paulo consome por dia, em media em litros:"],
+            ["350"],
+            ["500"],
+            ["200"]
+        ],
+        [
+            ["É o total aproximado de água doce que o planeta dispõe para manter a vida dos seres humanos, encontrada em rios, lagos e chuva:"],
+            ["1%"],
+            ["10%"],
+            ["5%"]
+        ],
+        [
+            ["Segundo a Organização Mundial de Saúde, as causas de 80% das doenças e 65% das internações hospitalares são causadas pela falta de:"],
+            ["água potável e saneamento"],
+            ["alimentação e educação"],
+            ["remédios"]
+        ],
+        [
+            ["Técnica para combater as pragas e as doenças agrícolas utilizando outros organismos vivos (predadores, parasitas e competidores) ou de produtos como hormônios."],
+            ["controle biológico"],
+            ["lixiviação"],
+            ["pulverização aérea"]
+        ],
+        [
+            ["O desmatamento de florestas para a utilização de terras na agricultura é a principal causa da:"],
+            ["degradação ambiental"],
+            ["erosão"],
+            ["desertificação"]
+        ],
+        [
+            ["Na tentativa de aumento do lucro da produção, os agricultores usam que substancia de forma abusiva no combate as pragas contaminando assim o solo?"],
+            ["agrotóxicos"],
+            ["fertilizantes"],
+            ["adubos orgânicos"]
+        ],
+        [
+            ["Área da Ciência que estuda o efeito de substâncias tóxicas no organismo:"],
+            ["Toxicologia"],
+            ["Microbiologia"],
+            ["Parasitologia"]
+        ],
+        [
+            ["Nome dado à presença de uma substância tóxica no sangue, urina ou secreções de uma pessoa."],
+            ["contaminação"],
+            ["intoxicação"],
+            ["poluição"]
+        ],
+        [
+            ["Nome dado ao evento em que um indivíduo entra em contato com uma substância tóxica."],
+            ["exposição"],
+            ["intoxicação"],
+            ["absorção"]
+        ],
+        [
+            ["Absorção de substância tóxica numa dose suficiente para gerar uma alteração no organismo."],
+            ["intoxicação"],
+            ["contaminação"],
+            ["exposição"]
+        ],
+        [
+            ["Elemento (possibilidade) que pode comprometer a saúde física ou mental da pessoa."],
+            ["risco"],
+            ["doença"],
+            ["alérgeno"]
+        ],
+        [
+            ["É o movimento do planeta Terra em torno de si mesmo e que produz o efeito do dia e da noite."],
+            ["rotação"],
+            ["translação"],
+            ["rota elíptica"]
+        ],
+        [
+            ["É o movimento que o planeta Terra realiza em torno do Sol:"],
+            ["translação"],
+            ["rotação"],
+            ["retilíneo uniforme"]
+        ],
+        [
+            ["É o sistema onde vivemos, formado por planetas, satélites naturais, meteoritos, asteróides e cometas."],
+            ["sistema solar"],
+            ["planetóide"],
+            ["cinturão de asteróides"]
+        ],
+        [
+            ["São movimentos periódicos e contínuos de subida e descida das águas do mar. Esses movimentos ocorrem pela atração que a Lua e o Sol exercem sobre as águas oceânicas."],
+            ["marés"],
+            ["maremotos"],
+            ["maresia"]
+        ],
+        [
+            ["São linhas imaginárias traçadas em um mapa para localizar qualquer ponto na superfície da Terra sendo que o primeiro indica a latitude (N - S) e o segundo a longitude (O - E)."],
+            ["paralelos e meridianos"],
+            ["hipotenusa e cateto"],
+            ["ordenada e abscissa"]
+        ],
+        [
+            ["Metais como o cobre, zinco, cádmio, níquel e chumbo, comumente utilizados na indústria e podem, se presentes em elevadas concentrações, retardar ou inibir o processo biológico aeróbico ou anaeróbico e serem tóxicos aos organismos vivos:"],
+            ["metais pesados"],
+            ["ametais"],
+            ["minerais"]
+        ],
+        [
+            ["Característica de um elemento de estar numa forma que permita ser aproveitado por organismos."],
+            ["biodisponibilidade"],
+            ["evapotranspiração"],
+            ["volatilidade"]
+        ],
+        [
+            ["Forma gráfica de representar uma população definindo sua composição com base na idade e sexo:"],
+            ["pirâmide populacional"],
+            ["triângulo populacional"],
+            ["gargalo populacional"]
+        ],
+        [
+            ["Forma planejada de interferir no ambiente que minimiza a dinâmica das populações e o impacto ambiental:"],
+            ["manejo sustentável"],
+            ["oncologia"],
+            ["reciclagem"]
+        ],
+        [
+            ["Junto com a queima de combustíveis fósseis, é uma das duas das principais atividades responsáveis pelo aumento de dióxido de carbono (CO2)."],
+            ["queimadas"],
+            ["chuva ácida"],
+            ["erosão"]
+        ],
+        [
+            ["Junto com desmatamento, é uma das duas das principais atividades responsáveis pelo aumento de dióxido de carbono (CO2)."],
+            ["queima de combustíveis fósseis"],
+            ["chuva ácida"],
+            ["uso de CFC"]
+        ],
+        [
+            ["É a chuva formada a partir da reação da água com gases tóxicos lançados na atmosfera pelas atividades desenvolvidas pelo homem (principalmente gases de enxofre)."],
+            ["chuva ácida"],
+            ["tromba d’água"],
+            ["chuva de granizo"]
+        ],
+        [
+            ["Ecossistema situado na região Norte do Brasil. É o local onde há maior variedade de espécies vegetais do planeta Terra"],
+            ["Floresta Amazônica"],
+            ["Mata Atlântica"],
+            ["Cerrados"]
+        ],
+        [
+            ["São substâncias potencialmente danosas, disseminadas nos ecossistemas. Conhecem-se hoje cerca de 100.000 tipos e dentre eles estão os contaminantes atmosféricos, lodos, metais pesados, fertilizantes e resíduos sólidos,"],
+            ["tóxicos ambientais"],
+            ["carcinogênicos"],
+            ["biocidas"]
+        ],
+        [
+            ["É uma situação em que o número de indivíduos de uma espécie aumenta ou diminui ameaçando a existência de outra espécie. É chamado de desequilíbrio:"],
+            ["ecológico"],
+            ["ambiental"],
+            ["químico"]
+        ]
+    ]
+}

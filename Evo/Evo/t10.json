@@ -1,0 +1,452 @@
+
+{
+    "c2array": true,
+    "size": [74,4,1],
+    "data":
+    [
+        [
+            ["Palavra derivada do latim que significa “cinza”. É o que resulta das atividades do ser humano e aparentemente, deixou de ter utilidade."],
+            ["lixo"],
+            ["poluição"],
+            ["resíduo"]
+        ],
+        [
+            ["Tecnicamente, é usado como sinônimo para lixo. Pode transformado em nova matéria-prima para retornar ao ciclo produtivo de forma saudável."],
+            ["resíduo sólido"],
+            ["resíduo líquido"],
+            ["rejeitos"]
+        ],
+        [
+            ["Qualquer alteração desfavorável produzida nas características naturais do meio ambiente, capazes de prejudicar a saúde, o bem estar ou a segurança da população."],
+            ["poluição"],
+            ["lixo"],
+            ["composto"]
+        ],
+        [
+            ["Elemento introduzido num ambiente, que direta ou indiretamente contribuem para a degradação ambiental, alterando de forma negativa o meio ambiente."],
+            ["poluente"],
+            ["diluente"],
+            ["afluente"]
+        ],
+        [
+            ["Esgoto, resíduos sólidos, emissões industriais, lixo radioativo, agrotóxicos, extração e tratamento de minerais, veículos automotores, entre outros são fontes de que?"],
+            ["de poluição"],
+            ["de energia"],
+            ["de produção"]
+        ],
+        [
+            ["Duas formas de classificar o lixo em função de sua composição química."],
+            ["orgânico ou inorgânico"],
+            ["seco ou molhado"],
+            ["industrial ou hospitalar"]
+        ],
+        [
+            ["Produção média aproximada de lixo por habitante em cidades com até 200.000 habitantes (segundo IBGE 2000):"],
+            ["600 gramas"],
+            ["1 quilograma"],
+            ["220 gramas"]
+        ],
+        [
+            ["Resíduos perigosos ou especiais, ou seja, que apresentam risco à saúde pública e ao meio ambiente, por sua inflamabilidade, corrosividade, toxicidade, radioatividade ou patogenicidade (Segundo a Norma Técnica Brasileira)."],
+            ["classe I"],
+            ["classe II"],
+            ["classe III"]
+        ],
+        [
+            ["Resíduos não inertes, ou seja, que apresentam propriedades como biodegradabilidade, solubilidade ou combustibilidade (Segundo a Norma Técnica Brasileira)."],
+            ["classe II"],
+            ["classe IV"],
+            ["classe III"]
+        ],
+        [
+            ["Resíduos inertes, ou seja, que não são decompostos prontamente no meio ambiente e não apresentam perigo a saúde e ao meio ambiente (Segundo a Norma Técnica Brasileira)."],
+            ["classe III"],
+            ["classe II"],
+            ["classe IV"]
+        ],
+        [
+            ["Porção de espaço constituída por elementos físicos, químicos e biológicos. Podemos considera-lo como o espaço em que vivemos e nos desenvolvemos."],
+            ["meio ambiente"],
+            ["condomínio"],
+            ["comunidade"]
+        ],
+        [
+            ["É a parte do lixo que é reabsorvida pela natureza e pode ser aproveitada para fazer adubo orgânico. Este tipo de lixo atrai animais incômodos e nocivos à saúde, além de ser um meio propicio para o desenvolvimento de bactérias e fungos."],
+            ["lixo orgânico"],
+            ["lixo inorgânico"],
+            ["lixo doméstico"]
+        ],
+        [
+            ["O lixo pode ser usado como fonte de energia. Quais são dois gases principais que ele pode produzir?"],
+            ["metano (CH4) e dióxido de carbono (CO2)"],
+            ["metano(CO2) e hélio(He)"],
+            ["dióxido de carbono(CH4) e oxigênio(O2)"]
+        ],
+        [
+            ["É a parte do lixo que não é reabsorvida pela natureza e pode ser reaproveitada para fabricar novos produtos pela reciclagem."],
+            ["lixo inorgânico"],
+            ["lixo orgânico"],
+            ["lixo biológico"]
+        ],
+        [
+            ["Material a partir do qual se faz ou fabrica alguma coisa."],
+            ["matéria-prima"],
+            ["petróleo"],
+            ["recursos renováveis"]
+        ],
+        [
+            ["São matéria e energia que a natureza coloca á nossa disposição para que, transformando-os ou usando-os diretamente, possamos sobreviver e ter qualidade de vida."],
+            ["recursos naturais"],
+            ["recursos renováveis"],
+            ["recursos artificiais"]
+        ],
+        [
+            ["Recursos que a natureza é capaz de repor:"],
+            ["renováveis"],
+            ["naturais"],
+            ["não renováveis"]
+        ],
+        [
+            ["Recursos que a natureza não é capaz de repor:"],
+            ["não renováveis"],
+            ["inviáveis"],
+            ["irremovíveis"]
+        ],
+        [
+            ["É o conjunto de elementos que compõe determinada matéria. Chamada de composição:"],
+            ["química"],
+            ["elementar"],
+            ["física"]
+        ],
+        [
+            ["É a capacidade que o resíduo possui de destruir ou danificar outros materiais:"],
+            ["de corrosão"],
+            ["química"],
+            ["de combustão"]
+        ],
+        [
+            ["É a capacidade que uma substância possui de se diluir num solvente:"],
+            ["de dissolver"],
+            ["tóxica"],
+            ["de resolver"]
+        ],
+        [
+            ["É a capacidade que uma substância possui de queimar:"],
+            ["de combustão"],
+            ["de corrosão"],
+            ["tóxica"]
+        ],
+        [
+            ["É a capacidade de uma substância de envenenar organismos."],
+            ["capacidade tóxica"],
+            ["capacidade de combustão"],
+            ["capacidade de corrosão"]
+        ],
+        [
+            ["Liberação de partículas com muita energia. Dependendo da intensidade e do tipo de radiação, as partículas conseguem penetrar nos seres vivos e podem provocar queimaduras ou alterações celulares."],
+            ["radioatividade"],
+            ["corrosividade"],
+            ["toxidade"]
+        ],
+        [
+            ["Nome dado ao agente que transmite uma doença (rato, barata, mosquito)."],
+            ["vetor"],
+            ["transportador"],
+            ["disseminador"]
+        ],
+        [
+            ["É o tipo de material que sofre decomposição a partir da atividade biológica, isto é, que “servem de alimento” para microorganismos. Por exemplo: restos de alimentos e papel. É chamado composto:"],
+            ["biodegradável"],
+            ["não biodegradável"],
+            ["digerível"]
+        ],
+        [
+            ["Produtos que devido a sua composição química não conseguem ser decompostos pela atividade de microorganismos. Tendem a permanecer onde foram jogados, a não ser que sejam destruídos por outros processos. Por exemplo: borracha, plástico, isopor. É chamado composto:"],
+            ["não-biodegradável"],
+            ["digerível"],
+            ["biodegradável"]
+        ],
+        [
+            ["As baratas, mosquitos, pernilongos, moscas são exemplos desse grupo de animais que se desenvolvem no lixo e podem ser vetores de doenças."],
+            ["insetos"],
+            ["aracnídeos"],
+            ["anelídeos"]
+        ],
+        [
+            ["São seres vivos muito pequenos que podemos ver somente através do microscópio. São essenciais na produção do vinho, cerveja, queijo e muitas outras substancias e remédios mas, sua importância fundamental reside no fato de serem as únicas criaturas que conseguem reciclar os nutrientes e permitir o processo de decomposição."],
+            ["microorganismos"],
+            ["micronutrientes"],
+            ["macroorganismos"]
+        ],
+        [
+            ["É o processo realizado por microorganismos para reciclar a matéria orgânica no meio ambiente. Os compostos químicos são transformados em compostos mais simples que podem ser absorvidos pelos vegetais, compondo o ciclo de nutrientes da natureza."],
+            ["decomposição"],
+            ["saturação"],
+            ["decantação"]
+        ],
+        [
+            ["Processo que identifica os vários tipos de resíduos e define o tipo de tratamento recomendável para cada um."],
+            ["classificação do lixo"],
+            ["catação de lixo"],
+            ["confinação de lixo"]
+        ],
+        [
+            ["Tipo de lixo gerados em cidades, incluindo resíduos domésticos, industriais, comerciais e hospitalares:"],
+            ["urbano"],
+            ["biodegradável"],
+            ["tóxico"]
+        ],
+        [
+            ["Tipo de lixo produzido nos domicílios e empresas que contém muita quantidade de matéria orgânica, plástico, lata, vidro e papel:"],
+            ["doméstico e comercial"],
+            ["ambiental"],
+            ["perigoso"]
+        ],
+        [
+            ["É a ação, em geral conduzida pelo poder público, que consiste em recolher o lixo das ruas e formado por resíduos sólidos (areia, papéis, folhagem, poda de árvores)."],
+            ["varrição"],
+            ["aspiração"],
+            ["remoção"]
+        ],
+        [
+            ["Material normalmente proveniente de indústrias ou dos serviços de saúde, que pode colocar em risco a saúde, os recursos hídricos, o ar e o solo, sendo explosível, inflamável, infecto-contagioso, tóxico, corrosivos ou radioativo. Exigem maiores cuidados no seu acondicionamento, transporte, tratamento e destino final."],
+            ["lixo especial ou perigoso"],
+            ["lixo espacial"],
+            ["lixo comercial"]
+        ],
+        [
+            ["Resíduo tóxico formado por substâncias radioativas resultantes do funcionamento de reatores nucleares ou outras fontes. Seu maior problema é a persistência da emissão de por milhares de anos. A radioatividade constitui um grave perigo à saúde da população, por isso deve ser mantido em local próprio, inacessível."],
+            ["lixo atômico"],
+            ["lixo reciclável"],
+            ["lixo orgânico"]
+        ],
+        [
+            ["Resíduos produzidos por clínicas médicas e veterinárias, farmácias, centros de saúde, centros de zoonoses e consultórios odontológicos, e que são perigosos devido à sua patogenicidade potencial, devendo, de modo geral, ser destinado à incineração. É chamado lixo:"],
+            ["hospitalar"],
+            ["industrial"],
+            ["patogênico"]
+        ],
+        [
+            ["Porcentagem do lixo no Brasil que não recebe tratamento adequado:"],
+            ["cinquenta e dois"],
+            ["trinta e sete "],
+            ["setenta e três"]
+        ],
+        [
+            ["Restos provenientes dos objetos lançados pelo homem fora da atmosfera, que circulam ao redor da Terra com a velocidade de cerca de 28 mil quilômetros por hora. São estágios completos de foguetes, satélites desativados, tanques de combustível e fragmentos de aparelhos que explodiram normalmente por acidente ou foram destruídos pela ação das armas anti-satélites. É chamado lixo:"],
+            ["espacial"],
+            ["especial"],
+            ["alienígena"]
+        ],
+        [
+            ["Resíduos gerados pelos diversos tipos de processos produtivos. É chamado lixo:"],
+            ["industrial"],
+            ["doméstico"],
+            ["urbano"]
+        ],
+        [
+            ["Declarações que dão ao consumidor informação acurada a respeito do impacto ambiental de produto ou serviço. Tem por objetivo promover a redução dos impactos ambientais negativos relacionados a produtos e serviços através da conscientização de fabricantes, consumidores e instituições públicas mostrando a vantagem de adotar produtos que causem o menor impacto ambiental possível durante o seu ciclo de vida."],
+            ["rotulagem ambiental"],
+            ["informações nutricionais"],
+            ["redução ambiental"]
+        ],
+        [
+            ["Substância gerada pela ação dos microorganismos ao decompor a matéria orgânica. Tem uma capacidade aumentada de retenção de água e nutrientes para a planta, além de deixar o solo fofo, permitindo a entrada de ar até as raízes da planta."],
+            ["adubo orgânico"],
+            ["adubo inorgânico"],
+            ["adubo espacial"]
+        ],
+        [
+            ["Adubo orgânico gerado pela compostagem dos resíduos orgânicos, processo que permite que parte do lixo acumulado nas cidades volte para a terra, em forma de alimento ou matéria-prima."],
+            ["composto"],
+            ["rejeitos"],
+            ["adubo inorgânico"]
+        ],
+        [
+            ["Processo de decomposição da matéria orgânica que pode acontecer na presença (aeróbia) ou ausência (anaeróbia) de oxigênio. É a reciclagem da matéria de origem vegetal e animal, uma forma de tratar a matéria orgânica contida no lixo gerando um produto chamada composto. Esta processo diminui o volume do lixo contribuindo para aumentar a vida útil dos aterros sanitários."],
+            ["compostagem"],
+            ["varrição"],
+            ["incineração"]
+        ],
+        [
+            ["Fábricas, simples ou sofisticadas, que produzem compostos a partir de resíduos orgânicos degradáveis. Para produzirem um composto de boa qualidade dependem de uma boa coleta seletiva."],
+            ["usinas de compostagem"],
+            ["aterro controlado"],
+            ["aterro desordenado"]
+        ],
+        [
+            ["Processo que emprega a queima a altas temperaturas, cerca de 900º C para destruir a fração orgânica dos resíduos do lixo gerando gases, material particulado, cinzas, escória, etc. Neste processo, o volume do lixo pode ser reduzido em até 90% se o sistema for bom e estiver nas condições ideais. Indicado para os resíduos especiais contaminados por patógenos, pelo seu poder de eliminar microorganismos."],
+            ["incineração"],
+            ["compostagem"],
+            ["chorume"]
+        ],
+        [
+            ["Área onde é depositado o lixo, a céu aberto sem nenhum tipo de controle."],
+            ["lixão"],
+            ["aterro controlado"],
+            ["chorume"]
+        ],
+        [
+            ["Processo de disposição no solo do lixo coletado, de forma planejada, levando-se em consideração os métodos de engenharia e de acordo com as normas técnicas para se confinar os despejos em uma área através da impermeabilização do solo, compactação dos resíduos, drenagem e tratamento do chorume e coleta dos gases produzidos."],
+            ["aterro sanitário"],
+            ["lixão"],
+            ["chorume"]
+        ],
+        [
+            ["Depósito de lixo que é periodicamente coberto com terra."],
+            ["aterro controlado"],
+            ["usinas de compostagem"],
+            ["aterro reciclavel"]
+        ],
+        [
+            ["Trata-se do conjunto articulado de ações normativas, operacionais, financeiras e de planejamento que uma administração municipal desenvolve (com base em critérios sanitários, ambientais e econômicos) para coletar, transportar, separar, tratar e dispor o lixo de sua cidade."],
+            ["gerenciamento integrado do lixo"],
+            ["consumo indiscriminado"],
+            ["aterro sanitário"]
+        ],
+        [
+            ["É uma opção de utilização controlada da quantidade e qualidade de materiais empregados nas várias atividades humanas de modo a garantir as condições necessárias para a vida humana para a atual e futuras gerações. Para ser efetiva deve respeitar a capacidade da natureza de suportar a absorver os resíduos gerados."],
+            ["consumo sustentável"],
+            ["consumo garantido"],
+            ["consumo indiscriminado"]
+        ],
+        [
+            ["Conceito utilizado para identificar redução, reutilização e reciclagem do lixo."],
+            ["os três 'Rs'"],
+            ["os três 'Ls'"],
+            ["usinagem"]
+        ],
+        [
+            ["'Profissão' criada pela crise econômica crescente, aliada ao consumo crescente de produtos, que consiste da coleta informal de papel e outros materiais achados nas ruas e lixões. Eles vivem ao redor do local, separam e vendem o lixo coletado."],
+            ["catadores"],
+            ["lixeiros"],
+            ["coletores"]
+        ],
+        [
+            ["Águas subterrâneas que podem ser contaminadas pelo chorume derivado de depósitos de lixo."],
+            ["lençóis freáticos"],
+            ["aterro sanitário"],
+            ["aterro freático"]
+        ],
+        [
+            ["É um líquido escuro, com alto potencial poluidor, de cheiro forte e desagradável, produzido pela decomposição de matéria orgânica existente no lixo. Com seu volume aumentado por água de chuvas e nascentes, pode arrastar substâncias perigosas até rios e lençóis freáticos, contaminando-os."],
+            ["chorume"],
+            ["petróleo"],
+            ["rejeitos"]
+        ],
+        [
+            ["Combustível que pode ser gerado a partir do lixo orgânico num biodigestor."],
+            ["biogás"],
+            ["etanol"],
+            ["chorume"]
+        ],
+        [
+            ["Medida a ser tomada evitando a geração, diminuindo o desperdício, utilizando embalagens retornáveis, etc., o que envolve mudanças de atitude Em termos de produção geral, significa minimizar a geração de resíduos em todas as etapas do ciclo de vida dos produtos, desde a extração da matéria-prima."],
+            ["redução do lixo"],
+            ["remoção do lixo"],
+            ["renovação do lixo"]
+        ],
+        [
+            ["É um processo industrial que converte o lixo descartado (matéria prima) em produto semelhante ao inicial ou outro. As grandes vantagens são diminuir o consumo de matéria virgem e a quantidade de lixo a ser tratado."],
+            ["reciclagem"],
+            ["rejeitos"],
+            ["remanejamento"]
+        ],
+        [
+            ["Utilização do material para o mesmo fim (ex. garrafas retornáveis), para outros fins (ex. artesanato), como matéria prima para reciclagem (ex. alumínio), para recuperação energética (ex. pneus) ou para recuperação de parte dos componentes (ex. mercúrio de lâmpadas), visando a redução do volume de lixo e a poluição ambiental."],
+            ["reaproveitamento ou reutilização"],
+            ["reaproveitamento ou rejeitos"],
+            ["reutilização ou revitalização"]
+        ],
+        [
+            ["Significa 'óleo de pedra', por ser uma substância encontrada no interior das rochas, nas camadas subterrâneas do solo. Sua formação ocorre lentamente, durante milhões de anos, a partir de restos vegetais e animais. Tem valor econômico muito grande, seja como fonte de energia, gasolina, lubrificantes, adubos químicos, borrachas sintéticas e plásticos."],
+            ["petróleo"],
+            ["chorume"],
+            ["carvão"]
+        ],
+        [
+            ["Processo de separação dos resíduos sólidos iniciando na sua origem, passando pelo transporte até o seu reaproveitamento. É o processo mais importante quando se quer administrar de verdade o problema de resíduos sólidos. Coleta:"],
+            ["seletiva"],
+            ["intensiva"],
+            ["manual"]
+        ],
+        [
+            ["A reciclagem de uma tonelada destes materiais, representa a economia de matéria-prima fornecida, por 15 eucaliptos. Esse processo reduz ainda o consumo de energia elétrica. Eles podem ser reciclados de 5 a 6 vezes antes de perder suas características!"],
+            ["papel e papelão"],
+            ["reciclagem de alumínio"],
+            ["compensado e tábuas"]
+        ],
+        [
+            ["Como podemos considerar o alumínio, metal, plástico, vidros e papéis jogados no lixo? Materiais:"],
+            ["recicláveis"],
+            ["biodegradáveis"],
+            ["cirúrgicos"]
+        ],
+        [
+            ["Tudo o que vai para o lixo e não pode ser reaproveitado."],
+            ["rejeitos"],
+            ["remendos"],
+            ["refeitos"]
+        ],
+        [
+            ["Tipo de plástico usado nas garrafas de refrigerantes, de água e de remédios. Abreviação de polietileno tereftalato."],
+            ["PET"],
+            ["PCB"],
+            ["PVC"]
+        ],
+        [
+            ["O dióxido de carbono e o metano produzidos pelo lixo e liberados na atmosfera absorvem radiação infravermelha e, portanto calor. Esse fenômeno contribui para o aquecimento do planeta, o também chamado efeito:"],
+            ["estufa"],
+            ["infravermelho"],
+            ["radioativo"]
+        ],
+        [
+            ["É a abreviação de Conselho Municipal do Meio Ambiente:"],
+            ["CONDEMA"],
+            ["CONAMA"],
+            ["COMUMA"]
+        ],
+        [
+            ["Processo de geração de informações e orientação que permitem que o homem atue efetivamente no processo de manutenção do equilíbrio ambiental, garantindo uma boa qualidade de vida para a sua e as próximas gerações."],
+            ["educação ambiental"],
+            ["equilíbrio ambiental"],
+            ["manutenção de processo"]
+        ],
+        [
+            ["É a abreviação de Conselho Nacional do Meio Ambiente:"],
+            ["CONAMA"],
+            ["CONDEMA"],
+            ["CONMA"]
+        ],
+        [
+            ["Produção média diária, aproximada, de lixo por habitante em cidades com mais de 500.000 habitantes (segundo IBGE 2000) em quilogramas:"],
+            ["um"],
+            ["dois"],
+            ["cinco"]
+        ],
+        [
+            ["Segundo a Organização Mundial de Saúde, a definição “Um completo bem-estar físico, psicológico e social” é relativo ao conceito de:"],
+            ["saúde"],
+            ["alegria"],
+            ["felicidade"]
+        ],
+        [
+            ["São animais que proliferam no lixo não processado e transmitem a leptospirose, peste bubônica e o tifo murino:"],
+            ["rato e pulga"],
+            ["mosca e mosquito"],
+            ["barata e pulga"]
+        ],
+        [
+            ["Na coleta seletiva cada recipiente se destina a um tipo de material e é identificado por uma cor. São as cores padronizadas respectivamente para metais, papel e biolixo (cozinha e jardim)."],
+            ["amarelo, azul e marrom"],
+            ["amarelo, verde e marrom"],
+            ["azul, amarelo e preto"]
+        ],
+        [
+            ["Na coleta seletiva cada recipiente se destina a um tipo de material e é identificado por uma cor. São as cores padronizadas respectivamente para vidro e plástico."],
+            ["verde e vermelho"],
+            ["azul e vermelho"],
+            ["amarelo e preto"]
+        ]
+    ]
+}

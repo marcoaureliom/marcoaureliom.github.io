@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["Atividade profissional prestada através de um contrato envolvendo um gasto de energia física e intelectual."],
+            ["trabalho"],
+            ["emprego"],
+            ["serviço"]
+        ],
+        [
+            ["Relação entre o empregado e o empregador que envolve o trabalho continuado e assalariado."],
+            ["emprego"],
+            ["trabalho"],
+            ["contrato"]
+        ],
+        [
+            ["Trabalho realizado pela pessoa menor de 14 anos ou entre 14 e 16 anos e que não trabalhe como aprendiz. É proibido por lei."],
+            ["infantil"],
+            ["perigoso"],
+            ["precário"]
+        ],
+        [
+            ["É um tipo de trabalho que coloca em risco a segurança pessoal do trabalhador. Segundo a CLT em seu artigo 193, são consideradas atividades deste tipo, aquelas que impliquem no contato permanente com inflamáveis ou explosivos em condições de risco acentuado. Nessas condições, o empregado deve receber um adicional de 30% sobre o salário."],
+            ["perigoso"],
+            ["pernicioso"],
+            ["precário"]
+        ],
+        [
+            ["É o trabalho realizado fora das normas de segurança e contrariando o que a lei prevê."],
+            ["precário"],
+            ["perigoso"],
+            ["informal"]
+        ],
+        [
+            ["É uma atividade profissional caracterizada por um empenho diferenciado do trabalhador. Chamado de trabalho:"],
+            ["empreendedor"],
+            ["precário"],
+            ["formal"]
+        ],
+        [
+            ["Documento que, segundo o Art. 13 da CLT é obrigatório para o exercício de qualquer emprego, inclusive de natureza rural, ainda que em caráter temporário, e para o exercício por conta própria de atividade profissional remunerada."],
+            ["carteira de trabalho e previdência social"],
+            ["cédula de identidade"],
+            ["cartão de identificação"]
+        ],
+        [
+            ["O empregador tem um prazo de 48 para fazê-lo, segundo a lei. Ele é composto por: data de admissão, valor da remuneração e cargo. Sua falta, no entanto, não priva o trabalhador de seus direitos, nem deixa de comprovar a relação de emprego."],
+            ["registro em carteira"],
+            ["contrato"],
+            ["acordo coletivo"]
+        ],
+        [
+            ["Tipo de trabalho que não é reconhecido pelo Ministério do Trabalho nem pela Previdência Social."],
+            ["não formal"],
+            ["formal"],
+            ["temporário"]
+        ],
+        [
+            ["Tipo de trabalho que tem direitos adquiridos, sendo reconhecido pelo Ministério do Trabalho. É aquele derivado de relação de emprego."],
+            ["formal"],
+            ["não formal"],
+            ["precário"]
+        ],
+        [
+            ["É um conjunto de leis que garantem os direitos trabalhistas. Constitui o texto legislativo básico do Direito do Trabalho no Brasil (vigente desde 1943)."],
+            ["CLT"],
+            ["CUT"],
+            ["ICMS"]
+        ],
+        [
+            ["Um grupo de pessoas que reciprocamente se obrigam a contribuir com bens ou serviços para o exercício de uma atividade econômica de proveito comum."],
+            ["cooperativa"],
+            ["sindicato"],
+            ["empresa"]
+        ],
+        [
+            ["É uma tarefa desempenhada por período determinado para atender uma necessidade transitória. Esse trabalho pode ser desenvolvido nesse caráter por um prazo máximo de 90 dias."],
+            ["temporário"],
+            ["horário"],
+            ["insalubre"]
+        ],
+        [
+            ["Oportunidade de trabalho extra que propicia aumento de renda."],
+            ["alternativo"],
+            ["formal"],
+            ["perigoso"]
+        ],
+        [
+            ["É um acordo tácito (subentendido) ou expresso, correspondente à relação de emprego."],
+            ["contrato"],
+            ["declaração"],
+            ["atestado"]
+        ],
+        [
+            ["Órgão do governo federal diretamente ligado a Presidência da República que fiscaliza e regulamenta o trabalho em todos seus aspectos."],
+            ["Ministério do Trabalho"],
+            ["INPS"],
+            ["Central Única dos Trabalhadores"]
+        ],
+        [
+            ["Medida da quantidade e qualidade do trabalho desempenhado."],
+            ["produtividade"],
+            ["assiduidade"],
+            ["ergonomia"]
+        ],
+        [
+            ["Elemento (possibilidade) que pode comprometer a saúde física ou mental do trabalhador."],
+            ["risco"],
+            ["ergonomia"],
+            ["precaução"]
+        ],
+        [
+            ["É a condição de estar ou não vulnerável a riscos:"],
+            ["exposição"],
+            ["precaução"],
+            ["contaminação"]
+        ],
+        [
+            ["Trabalho realizado entre as 22 horas de um dia e às 5 horas do dia seguinte. Para o trabalhador rural esse período vai das 21 às 4 horas:"],
+            ["noturno"],
+            ["insalubre"],
+            ["precário"]
+        ],
+        [
+            ["Trabalho que prejudica a saúde do trabalhador. É aquele em que o trabalhador sofre agressões de agentes físicos, químicos e biológicos acima dos níveis de tolerância fixados pelo Ministério do Trabalho (inclui critérios quantitativos e qualitativos)."],
+            ["insalubre"],
+            ["precário"],
+            ["noturno"]
+        ],
+        [
+            ["Direito a um benefício adquirido pelo trabalhador contribuinte que lhe garante um rendimento após um período de trabalho. Pode ser de quatro espécies distintas: por invalidez, por idade, por tempo de contribuição e especial."],
+            ["aposentadoria"],
+            ["dispensa"],
+            ["pensão"]
+        ],
+        [
+            ["Direito adquirido pelo trabalhador formal com carteira assinada, após no mínimo 6 meses de contribuição. Envolve o recebimento de salário para a pessoa desempregada por um período que varia de 3 a 5 meses."],
+            ["seguro desemprego"],
+            ["pensão"],
+            ["aposentadoria"]
+        ],
+        [
+            ["Condições físicas, mentais e ambientais que permitem ao trabalhador exercer seu trabalho."],
+            ["saúde"],
+            ["higiene"],
+            ["segurança"]
+        ],
+        [
+            ["Evento que ocorre pelo exercício do trabalho provocando lesão corporal perturbação funcional ou doença que cause a morte ou redução permanente ou temporária da capacidade para o trabalho. Pode ocorrer no local de trabalho ou a caminho deste; no período efetivo de trabalho ou nos intervalos."],
+            ["acidente de trabalho"],
+            ["dispensa"],
+            ["ergonomia"]
+        ],
+        [
+            ["Cuidado que se toma para evitar situações de perigo individual ou coletivo:"],
+            ["precaução"],
+            ["contravenção"],
+            ["risco"]
+        ],
+        [
+            ["É um exemplo de Equipamento de Proteção Individual (EPI):"],
+            ["capacete"],
+            ["ventilação adequada"],
+            ["sinalização de segurança"]
+        ],
+        [
+            ["Tudo o que agride o trabalhador do ponto de vista psíquico, físico e moral."],
+            ["violência"],
+            ["ofensa"],
+            ["conflito"]
+        ],
+        [
+            ["É um exemplo de Equipamento de Proteção Coletiva (EPC):"],
+            ["ventilação adequada"],
+            ["capacete"],
+            ["óculos de segurança"]
+        ],
+        [
+            ["Estudo técnico da relação entre o trabalhador e o equipamento de trabalho ou o meio em que ocorre esse trabalho, visando reduzir danos à saúde do trabalhador."],
+            ["ergonomia"],
+            ["economia"],
+            ["etologia"]
+        ],
+        [
+            ["É um meio encontrado para verificar se o trabalho está sendo exercido dentro das normas de segurança e leis. Deve ser exercida pelo Ministério do Trabalho."],
+            ["fiscalização"],
+            ["precaução"],
+            ["prevenção"]
+        ],
+        [
+            ["São condições de limpeza necessárias para desenvolvimento do trabalho, pessoal e/ou coletiva."],
+            ["higiene"],
+            ["segurança"],
+            ["ergonomia"]
+        ],
+        [
+            ["Medidas que evitam expor o trabalhador a riscos na sua atividade de trabalho:"],
+            ["segurança"],
+            ["ergonomia"],
+            ["higiene"]
+        ],
+        [
+            ["Acordo feito entre empregador e organização dos empregados visando estabelecer relações mais desejáveis para os dois lados."],
+            ["acordo coletivo"],
+            ["contrato"],
+            ["seguro de saúde"]
+        ],
+        [
+            ["É uma organização social constituída por pessoas da mesma categoria trabalhista, visando defender seus interesses trabalhistas e econômicos."],
+            ["sindicato"],
+            ["cooperativa"],
+            ["SENAI"]
+        ],
+        [
+            ["É um benefício na forma de pagamento de um salário adquirido em caso de morte ou separação conjugal."],
+            ["pensão"],
+            ["dispensa"],
+            ["aposentadoria"]
+        ],
+        [
+            ["É um benefício que garante ao trabalhador um rendimento em caso de doença ou acidentes de trabalho:"],
+            ["seguro de saúde"],
+            ["contrato"],
+            ["carteira profissional"]
+        ],
+        [
+            ["Sigla do sistema criado para ser o sistema destinado a promover a saúde de toda pessoa que esteja em território brasileiro:"],
+            ["SUS"],
+            ["SENAI"],
+            ["CPF"]
+        ],
+        [
+            ["É um registro geral que identifica a pessoa nacionalmente."],
+            ["carteira de identidade"],
+            ["cadastro de pessoa física"],
+            ["carteira de trabalho"]
+        ],
+        [
+            ["Cadastro utilizado para fins de recolhimento de impostos. Substituiu o CIC - Cadastro individual do Contribuinte."],
+            ["cadastro de pessoa física"],
+            ["carteira de trabalho"],
+            ["carteira de identidade"]
+        ],
+        [
+            ["É um documento que confirma a existência de vínculo empregatício."],
+            ["atestado de trabalho"],
+            ["carteira de identidade"],
+            ["cadastro de pessoa física"]
+        ],
+        [
+            ["É uma autorização para o funcionário não cumprir determinada tarefa."],
+            ["dispensa"],
+            ["pensão"],
+            ["atestado de trabalho"]
+        ],
+        [
+            ["O não comparecimento no local de trabalho, podendo ser justificada ou não, é chamado:"],
+            ["falta"],
+            ["dispensa"],
+            ["licença"]
+        ],
+        [
+            ["É um benefício previdenciário que tem direito a mulher segurada, por ocasião do parto. No caso de parto inclui um período de 120 dias e no caso de adoção pode ser de 30, 60 ou 120 dias."],
+            ["licença maternidade"],
+            ["dispensa"],
+            ["direito de amamentação"]
+        ],
+        [
+            ["É uma dispensa de parte do horário de trabalho para que a mãe possa amamentar seu bebê:"],
+            ["direito de amamentação"],
+            ["dispensa"],
+            ["licença maternidade"]
+        ],
+        [
+            ["É uma instituição pública ou privada que acolhe crianças para que seus pais possam trabalhar:"],
+            ["creche"],
+            ["asilo"],
+            ["berçário"]
+        ],
+        [
+            ["É a atividade que é realizada pelo funcionário em locais públicos, seu ingresso é feito através de concurso público. É chamado de emprego:"],
+            ["público"],
+            ["formal"],
+            ["privado"]
+        ],
+        [
+            ["É o trabalho realizado em empresas particulares, não necessitando de concurso, porém, em geral exige conhecimentos, habilidades e em alguns casos experiência em empregos anteriores. É chamado de emprego:"],
+            ["privado"],
+            ["público"],
+            ["formal"]
+        ],
+        [
+            ["Atividade proibida pela lei, contrária a suas disposições:"],
+            ["ilícita"],
+            ["formal"],
+            ["informal"]
+        ],
+        [
+            ["Atividade informal exercida que pode ser uma fonte de renda ou complementação para a mesma:"],
+            ["bico"],
+            ["Ilícita"],
+            ["privada"]
+        ],
+        [
+            ["É uma exigência para conseguir um emprego e pode ser também uma maneira de se manter atualizado."],
+            ["qualificação"],
+            ["indicação"],
+            ["contravenção"]
+        ],
+        [
+            ["Situação que formaliza a relação entre empregado e empregador derivado do contrato individual de trabalho."],
+            ["vinculo empregatício"],
+            ["pensão"],
+            ["carteira de trabalho"]
+        ],
+        [
+            ["Trabalhador sem emprego formal:"],
+            ["desempregado"],
+            ["temporário"],
+            ["autônomo"]
+        ],
+        [
+            ["Condição obtida pela pessoa junto ao sistema educacional que é cada vez mais exigida no campo profissional:"],
+            ["escolaridade"],
+            ["experiência"],
+            ["habilidade"]
+        ],
+        [
+            ["O Serviço Nacional de Aprendizagem Industrial é uma entidade que oferece cursos técnicos profissionalizantes, também conhecido como:"],
+            ["SENAI"],
+            ["SESI"],
+            ["SESC"]
+        ],
+        [
+            ["É algo que se adquire ao longo do desempenho de uma tarefa. É exigida na maioria dos trabalhos. Faz parte da história profissional do indivíduo."],
+            ["experiência"],
+            ["escolaridade"],
+            ["formalidade"]
+        ],
+        [
+            ["Pessoa contratada pelo Serviço de Saúde local para identificar e auxiliar no desenvolvimento de ações para promover a saúde do trabalhador na comunidade. É preferencialmente membro da comunidade local."],
+            ["agente comunitário de saúde"],
+            ["professor"],
+            ["padre"]
+        ],
+        [
+            ["É o percurso que se faz da residência do indivíduo para o local de trabalho e vice-versa. Pode ser feito através de transporte público, privado ou a pé."],
+            ["deslocamento"],
+            ["transferência"],
+            ["alocação"]
+        ],
+        [
+            ["É a realização de uma tarefa diferente daquela para a qual o indivíduo foi contratado, capacitado e qualificado:"],
+            ["desvio de função"],
+            ["qualificação"],
+            ["adaptação"]
+        ],
+        [
+            ["É a capacidade que o indivíduo possui para desempenhar adequadamente a sua função:"],
+            ["competência"],
+            ["escolaridade"],
+            ["treinamento"]
+        ],
+        [
+            ["É a capacidade natural e/ou adquirida pelo indivíduo para desenvolver uma função:"],
+            ["habilidade"],
+            ["escolaridade"],
+            ["adaptação"]
+        ],
+        [
+            ["É a experiência adquirida pelo indivíduo no próprio trabalho:"],
+            ["treinamento"],
+            ["escolaridade"],
+            ["transferência"]
+        ],
+        [
+            ["Situação em que o tempo dedicado ao trabalho começa a trazer sofrimento ao trabalhador."],
+            ["sobrecarga"],
+            ["desvio"],
+            ["hora extra"]
+        ],
+        [
+            ["É a idade até a qual existe a obrigatoriedade dos pais de manter os filhos na escola. É a idade mínima para a pessoa poder trabalhar:"],
+            ["16 anos"],
+            ["14 anos"],
+            ["18 anos"]
+        ],
+        [
+            ["É a idade mínima após a qual a criança pode trabalhar como aprendiz, com a condição de que esteja matriculada numa escola:"],
+            ["14 anos"],
+            ["12 anos"],
+            ["16 anos"]
+        ],
+        [
+            ["Forma de trabalho desenvolvido junto a empresas públicas:"],
+            ["1º setor"],
+            ["2º setor"],
+            ["3º setor"]
+        ],
+        [
+            ["Situação em que se confere ao trabalhador, através da informação e do conhecimento, o poder que permita a ele próprio promover a melhoria de suas condições de vida."],
+            ["apoderamento"],
+            ["escolaridade"],
+            ["controle"]
+        ],
+        [
+            ["Nome dado a rendimentos que não atingem as necessidades básicas do trabalhador."],
+            ["subrendimento"],
+            ["salário mínimo"],
+            ["poupança"]
+        ],
+        [
+            ["Trabalhador do campo (rural) que trabalha só em períodos de safras:"],
+            ["sazonal"],
+            ["regional"],
+            ["autônomo"]
+        ],
+        [
+            ["Trabalhador que trabalha por conta própria, sendo contribuinte do INSS."],
+            ["autônomo"],
+            ["precário"],
+            ["sazonal"]
+        ],
+        [
+            ["Documento utilizado para efetuar o registro do trabalhador formal. A sua emissão é gratuita e vale como documento de identidade."],
+            ["carteira de trabalho"],
+            ["título de eleitor"],
+            ["atestado de saúde ocupacional"]
+        ],
+        [
+            ["É um ato que vai contra as leis e normas estabelecidas. A penal é considerada menos grave que um crime."],
+            ["contravenção"],
+            ["intervenção"],
+            ["inflação"]
+        ],
+        [
+            ["Forma de trabalho que prejudica a comunidade em geral (sem contato social):"],
+            ["4º setor"],
+            ["2º setor"],
+            ["3º setor"]
+        ],
+        [
+            ["Forma de trabalho desenvolvido junto às organizações não governamentais sem fins lucrativos:"],
+            ["3º setor"],
+            ["2º setor"],
+            ["4º setor"]
+        ],
+        [
+            ["Forma de trabalho desenvolvido junto a empresas privadas:"],
+            ["2º setor"],
+            ["1º setor"],
+            ["3º setor"]
+        ]
+    ]
+}

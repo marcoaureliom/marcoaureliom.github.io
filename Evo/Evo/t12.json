@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["Espécie de mosquito de hábitos diurnos, pequeno, pretinho com listras brancas e semelhante ao pernilongo, que transmite o vírus da Dengue e o da Febre Amarela:"],
+            ["Aedes"],
+            ["Anopheles"],
+            ["Culex"]
+        ],
+        [
+            ["Nome dado ao agente que transmite uma doença:"],
+            ["vetor"],
+            ["parasita"],
+            ["predador"]
+        ],
+        [
+            ["Quantas são as fases do ciclo de vida do mosquito Aedes aegypti?"],
+            ["4"],
+            ["2"],
+            ["3"]
+        ],
+        [
+            ["É a primeira fase do ciclo de vida do Aedes aegypti e aquela que pode durar até dois anos:"],
+            ["ovo"],
+            ["adulto"],
+            ["larva"]
+        ],
+        [
+            ["Qual a fase do ciclo de vida do Aedes aegypti (fase aquática) que se segue logo após a de ovo?"],
+            ["larva"],
+            ["adulto"],
+            ["pupa"]
+        ],
+        [
+            ["Qual a fase do ciclo de vida do Aedes aegypti (fase aquática) que antecede a de adulto?"],
+            ["pupa"],
+            ["ovo"],
+            ["larva"]
+        ],
+        [
+            ["É a fase do ciclo de vida do Aedes aegypti que ocorre fora d’água e a única que transmite a Dengue e é chamada alada."],
+            ["adulto"],
+            ["larva"],
+            ["pupa"]
+        ],
+        [
+            ["Nome científico dado ao mosquito que zune nos ouvidos durante a noite:"],
+            ["Culex"],
+            ["Aedes"],
+            ["Anopheles"]
+        ],
+        [
+            ["Qual o período do dia mais comum para a fêmea do Aedes aegypti fecundada picar as pessoas?"],
+            ["diurno"],
+            ["noturno"],
+            ["indiferente"]
+        ],
+        [
+            ["De que se alimenta o macho do Aedes aegypti?"],
+            ["seiva de plantas"],
+            ["sangue"],
+            ["não se alimenta"]
+        ],
+        [
+            ["Qual o alimento preferido do Aedes aegypti fêmea fecundada?"],
+            ["sangue"],
+            ["seiva de plantas"],
+            ["não se alimenta"]
+        ],
+        [
+            ["São 'caroços' externos que se apresentam mais comumente nas mãos, pés, pernas, braços e face de um individuo com hanseníase."],
+            ["tubérculos"],
+            ["espinhas"],
+            ["placas"]
+        ],
+        [
+            ["Qual é o tempo de vida máximo aproximado do mosquito Aedes aegypti em dias?"],
+            ["35"],
+            ["180"],
+            ["7"]
+        ],
+        [
+            ["Quantos dias aproximadamente o Aedes aegypti demora para se desenvolver da fase de ovo até a forma alada (adulto)?"],
+            ["12"],
+            ["3"],
+            ["30"]
+        ],
+        [
+            ["Ao longo da vida, aproximadamente quantos ovos a fêmea de Aedes aegypti deposita?"],
+            ["500"],
+            ["150"],
+            ["1.000 "]
+        ],
+        [
+            ["Até um por cento dos ovos depositados pela fêmea contaminada do Aedes aegypti nasce contaminada pelo vírus da Dengue. De que outra forma o mosquito pode se contaminar?"],
+            ["em contato com um indivíduo contaminado"],
+            ["por alterações genéticas"],
+            ["relação com macho infectado"]
+        ],
+        [
+            ["Um exemplo de ambiente em que o Aedes aegypti não costuma se reproduzir:"],
+            ["água salgada"],
+            ["água de chuva"],
+            ["água limpa"]
+        ],
+        [
+            ["Aproximadamente, quantas pessoas uma fêmea de Aedes pode picar por dia?"],
+            ["vinte"],
+            ["uma"],
+            ["cem"]
+        ],
+        [
+            ["Por até quanto tempo uma fêmea de Aedes aegypti pode continuar infectando pessoas?"],
+            ["trinta dias"],
+            ["uma semana"],
+            ["três dias"]
+        ],
+        [
+            ["Qual é um dos problemas que o uso contínuo de inseticidas químicos pode gerar?"],
+            ["mosquito resistente ao inseticida"],
+            ["agravamento da dengue"],
+            ["aumento do número de ovos"]
+        ],
+        [
+            ["Até quanto tempo o ovo do Aedes aegypti resiste no ambiente sem a presença de água?"],
+            ["dois anos"],
+            ["um mês"],
+            ["um ano"]
+        ],
+        [
+            ["Segundo Fundação Nacional de Saúde do Ministério da Saúde aproximadamente quantos reais o Governo Federal investiu no combate à dengue no período de 1996 até o final de 2001?"],
+            ["dois bilhões"],
+            ["500 milhões"],
+            ["um bilhão"]
+        ],
+        [
+            ["É uma doença viral febril aguda transmitida pelo mosquito Aedes aegypti:"],
+            ["dengue"],
+            ["malária"],
+            ["encefalite"]
+        ],
+        [
+            ["Quais as doenças transmitidas pelo Aedes aegypti no Brasil?"],
+            ["febre amarela e dengue"],
+            ["dengue e malária"],
+            ["febre amarela e malária"]
+        ],
+        [
+            ["É a forma mais grave da dengue e pode levar a morte:"],
+            ["dengue hemorrágica"],
+            ["dengue clássica"],
+            ["febre amarela"]
+        ],
+        [
+            ["Quais são as duas formas de manifestação clínica da Dengue?"],
+            ["clássica e hemorrágica"],
+            ["febre amarela e dengue"],
+            ["malária e dengue"]
+        ],
+        [
+            ["Febre, náuseas, manchas avermelhadas pelo corpo, dor nos olhos, dor de cabeça e nas articulações e falta de apetite são exemplos de:"],
+            ["sintomas da dengue"],
+            ["sintomas da hanseníase"],
+            ["sinais de malária"]
+        ],
+        [
+            ["Além de sangramentos, são sintomas típicos da dengue hemorrágica:"],
+            ["queda de pressão e lábios roxos"],
+            ["tosse e rouquidão"],
+            ["vômito e diarréia"]
+        ],
+        [
+            ["Trabalho realizado pelos profissionais da saúde na procura de pessoas possivelmente infectadas pelo vírus da Dengue numa região:"],
+            ["busca ativa"],
+            ["fiscalização"],
+            ["campanha"]
+        ],
+        [
+            ["Qual a maneira de transmissão da Dengue para humanos?"],
+            ["picada de mosquito"],
+            ["transfusão de sangue"],
+            ["relação sexual"]
+        ],
+        [
+            ["Qual é um exemplo de material industrializado utilizado em grande quantidade e que contribuiu para o aumento do mosquito da dengue?"],
+            ["embalagens descartáveis"],
+            ["lenços de papel"],
+            ["pilhas e baterias"]
+        ],
+        [
+            ["Tipo de agente que causa doenças como Dengue, Febre Amarela, gripe, AIDS, herpes e sarampo e não são tratáveis com antibióticos:"],
+            ["vírus"],
+            ["bactérias"],
+            ["fungos"]
+        ],
+        [
+            ["Atualmente, quantos tipos (sorotipos) do vírus da Dengue são conhecidos?"],
+            ["quatro"],
+            ["dois"],
+            ["três"]
+        ],
+        [
+            ["É o tempo (uma semana) que demoram a aparecer os primeiros sintomas após a pessoa ter sido picada pelo Aedes aegypti contaminado, chamado de período de:"],
+            ["incubação"],
+            ["transmissão"],
+            ["acomodação"]
+        ],
+        [
+            ["Os remédios disponíveis, no caso de pacientes com Dengue, em geral, são usados apenas para combater:"],
+            ["a dor e a febre"],
+            ["os vírus"],
+            ["os fungos"]
+        ],
+        [
+            ["De que forma os medicamentos que contem Ácido Acetil-Salicílico (como AAS, Aspirina e Melhoral) podem provocar o agravamento em pessoas com dengue? Provocando:"],
+            ["hemorragias"],
+            ["febre"],
+            ["dor nos olhos"]
+        ],
+        [
+            ["Durante quanto tempo, aproximadamente, uma pessoa infectada transmite o vírus da Dengue para o Aedes?"],
+            ["seis dias"],
+            ["seis horas"],
+            ["seis semanas"]
+        ],
+        [
+            ["São fatores ambientais que favorecem a reprodução do Aedes aegypti:"],
+            ["calor e chuvas abundantes"],
+            ["vegetação densa"],
+            ["presença de rios e lagoas"]
+        ],
+        [
+            ["Em qual desses continentes existe a Dengue?"],
+            ["Ásia"],
+            ["Oceania"],
+            ["Europa"]
+        ],
+        [
+            ["O seu uso indiscriminado pode prejudicar a saúde das pessoas e pode selecionar mosquitos resistentes, comprometendo o controle da epidemia:"],
+            ["inseticidas químicos"],
+            ["aspirina"],
+            ["antibióticos"]
+        ],
+        [
+            ["Ano em que ocorreu a primeira epidemia de dengue no Brasil:"],
+            ["1846"],
+            ["1916"],
+            ["1996"]
+        ],
+        [
+            ["Alem de febre quebra ossos, como foi chamada a Dengue, pela população, durante a epidemia de 1916 em São Paulo?"],
+            ["urucubaca"],
+            ["gripe espanhola"],
+            ["febre terçã"]
+        ],
+        [
+            ["Uma pessoa passou um mês numa região infestada por Aedes aegypti, recebeu muitas picadas e não contraiu dengue. Qual seria uma causa possível de não ter contraído a doença?"],
+            ["ausência de pessoas infectadas"],
+            ["uso de antibióticos"],
+            ["uso de inseticidas"]
+        ],
+        [
+            ["Os repelentes podem ser usados para evitar a picada do Aedes. Qual um problema decorrente de seu uso inadequado?"],
+            ["intoxicação"],
+            ["resistência do inseto"],
+            ["hemorragia"]
+        ],
+        [
+            ["Quem pode pegar a dengue?"],
+            ["qualquer pessoa"],
+            ["crianças"],
+            ["idosos"]
+        ],
+        [
+            ["Qual o remédio mais eficiente contra a dengue?"],
+            ["não existe"],
+            ["antibiótico"],
+            ["antiinflamatório"]
+        ],
+        [
+            ["Produto utilizado em piscinas, que evita a reprodução do Aedes, quando utilizado na diluição recomendada:"],
+            ["cloro"],
+            ["inseticida"],
+            ["repelente"]
+        ],
+        [
+            ["Repelente natural muito usado contra o Aedes aegypti:"],
+            ["citronela"],
+            ["aspirina"],
+            ["geraniol"]
+        ],
+        [
+            ["Devido a maior concentração populacional e grande número de criadouros em que tipo de ambiente existe a maior ocorrência de Dengue?"],
+            ["cidades"],
+            ["áreas rurais"],
+            ["litoral"]
+        ],
+        [
+            ["Pneus, caixas d’água abertas, calhas, garrafas, latas, potes, prato de plantas e lixo são alguns exemplos do que para o mosquito da dengue?"],
+            ["criadouro"],
+            ["abrigo"],
+            ["refúgio"]
+        ],
+        [
+            ["É um dos abrigos preferidos das fêmeas do Aedes aegypti:"],
+            ["interior das casas"],
+            ["lagoas"],
+            ["copa das árvores"]
+        ],
+        [
+            ["Como as garrafas, copos e vasilhames vazios devem ser guardados para prevenir a procriação do mosquito da Dengue?"],
+            ["de boca para baixo"],
+            ["deitados"],
+            ["em engradados"]
+        ],
+        [
+            ["No Brasil duas espécies de mosquito do gênero Aedes podem atuar como transmissores do vírus da Dengue. Quais são elas?"],
+            ["aegypti e albopictus"],
+            ["aegypty e japonicus"],
+            ["japonicus e albopictus"]
+        ],
+        [
+            ["Tipo de exame de sangue realizado para verificar a presença do anticorpo contra o vírus da Dengue:"],
+            ["sorologia"],
+            ["microscopia"],
+            ["seqüenciamento"]
+        ],
+        [
+            ["Ação conjunta entre o Poder Público e a comunidade para limpeza e retirada de criadouros de mosquitos:"],
+            ["arrastão"],
+            ["notificação"],
+            ["vigilância"]
+        ],
+        [
+            ["Bromélias, bananeiras, folhas de coqueiros constituem exemplos do que para o Aedes aegypti?"],
+            ["criadouros naturais"],
+            ["repelentes naturais"],
+            ["alimentos preferidos"]
+        ],
+        [
+            ["Qual a cidade onde o calor, as chuvas abundantes e a alta densidade populacional ajudaram a causar uma epidemia de Dengue que atingiu 10% da força de trabalho privado em 2002?"],
+            ["Rio de Janeiro"],
+            ["São Paulo"],
+            ["Fortaleza"]
+        ],
+        [
+            ["Quais os procedimentos essenciais para evitar mortes por Dengue Hemorrágica?"],
+            ["diagnóstico precoce e hidratação"],
+            ["antibióticos e hospitalização"],
+            ["aspirina e repouso"]
+        ],
+        [
+            ["Quando reciclado pode ser usado como sola de sapato, asfalto, balanço e enfeites. Se jogado no ambiente é o criadouro preferido do Aedes:"],
+            ["pneu"],
+            ["rodas"],
+            ["couro"]
+        ],
+        [
+            ["Ações de que setor da sociedade, além do governamental, é fundamental para o combate eficaz à Dengue?"],
+            ["comunidade"],
+            ["ONGs"],
+            ["empresários"]
+        ],
+        [
+            ["Qual a principal medida de combate à dengue que facilmente e sem risco pode ser realizada pela população?"],
+            ["eliminação de criadouros"],
+            ["medicação caseira"],
+            ["aplicação de inseticidas"]
+        ],
+        [
+            ["Quando uma pessoa apresenta febre, dor, náusea ou qualquer outro sintoma da Dengue que atitude não deve tomar?"],
+            ["auto-medicação"],
+            ["procurar o serviço de saúde"],
+            ["evitar uso de aspirina"]
+        ],
+        [
+            ["Quando uma pessoa apresenta febre, dor, náusea ou qualquer outro sintoma da dengue que atitude deve tomar?"],
+            ["procurar o serviço de saúde"],
+            ["auto-medicação "],
+            ["aplicar repelente"]
+        ],
+        [
+            ["Qual a melhor época para realizar trabalhos de prevenção à Dengue?"],
+            ["fora da época da epidemia"],
+            ["férias escolares"],
+            ["início da epidemia"]
+        ],
+        [
+            ["Quais são os principais criadouros do Aedes aegypti em áreas sem água encanada (abastecimento de água)?"],
+            ["tambores e galões abertos"],
+            ["hortas"],
+            ["rios"]
+        ],
+        [
+            ["São criadouros do Aedes aegypti que esquecemos de tratar porque são de difícil acesso:"],
+            ["calhas e caixas d’água"],
+            ["rios e lagos"],
+            ["pratos de vasos"]
+        ],
+        [
+            ["Recursos utilizados pela Vigilância Sanitária como forma de orientação e punição, respectivamente, aos cidadãos que não eliminam ou dificultam a eliminação de criadouros em suas propriedades:"],
+            ["notificação e multa"],
+            ["arrastão e notificação"],
+            ["busca ativa e prisão"]
+        ],
+        [
+            ["Profissional contratado pelo serviço de saúde local que trabalha para garantir a manutenção de uma comunidade saudável:"],
+            ["agente comunitário de saúde"],
+            ["professor"],
+            ["policial"]
+        ],
+        [
+            ["Atividade do Estado voltada a proteção, promoção e preservação da saúde e do meio ambiente:"],
+            ["vigilância sanitária"],
+            ["arrastão"],
+            ["busca ativa"]
+        ],
+        [
+            ["Representantes da comunidade, eleitos pela própria comunidade, para discutir e definir ações relativas à saúde:"],
+            ["Conselho Local de Saúde"],
+            ["Secretaria da Saúde"],
+            ["Ministério da Saúde"]
+        ],
+        [
+            ["Tipo de atividade essencial para orientar e sensibilizar a comunidade para que tenha uma participação ativa, consciente e efetiva na prevenção de doenças:"],
+            ["educação em saúde"],
+            ["fiscalização"],
+            ["repressão ao infrator"]
+        ],
+        [
+            ["Na década de 1940 a dengue e a febre amarela foram considerados problemas superados. Qual a causa do retorno da dengue?"],
+            ["aumento da população do Aedes"],
+            ["nova linhagem do vírus"],
+            ["efeito estufa"]
+        ],
+        [
+            ["A dengue voltou a ser um problema sério devido à explosão da população do Aedes aegypti. Que outra doença transmitida pelo mesmo inseto pode voltar a ser um problema?"],
+            ["febre amarela"],
+            ["AIDS"],
+            ["malária"]
+        ],
+        [
+            ["Qual a maneira mais eficiente e segura para promover o controle do Aedes aegypti e da Dengue?"],
+            ["eliminação dos criadouros"],
+            ["aplicação de inseticidas"],
+            ["aumento de leitos hospitalares"]
+        ],
+        [
+            ["Que risco corre uma pessoa que já teve dengue clássica se picada novamente pelo Aedes infectado?"],
+            ["contrair dengue hemorrágica"],
+            ["choque alérgico"],
+            ["contrair hepatite"]
+        ]
+    ]
+}

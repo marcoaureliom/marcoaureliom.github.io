@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["Vírus que causa uma DST chamada condiloma acuminado e pode causar câncer de colo de útero:"],
+            ["HPV – humano de papiloma"],
+            ["HIV – humano da imunodeficîencia humana"],
+            ["HSV- hespes simplex"]
+        ],
+        [
+            ["Doenças que desde sempre afetaram a humanidade e são responsáveis por muitas mortes. Também conhecidas como doença venérea (Vênus, deusa do amor), tem como característica comum à transmissão durante a atividade sexual e são determinantes de doenças crônicas como infertilidade, impotência e frigidez."],
+            ["doenças sexualmente transmitidas"],
+            ["doenças auto imune"],
+            ["doenças crônicas"]
+        ],
+        [
+            ["Estruturas que aparecem na pessoa portadora do HPV na região ano-genital na forma de couve-flor, apesar da aparência são indolores."],
+            ["verrugas genitais"],
+            ["bolhas genitais"],
+            ["espinhas genitais"]
+        ],
+        [
+            ["Popularmente o HPV é conhecido por outro nome, por causar verrugas genitais na região ano-genital."],
+            ["crista de galo"],
+            ["rabo de gato"],
+            ["asa de ganso"]
+        ],
+        [
+            ["Como a investigação do HPV em muitas mulheres é muito difícil e complicada, ou seja, é uma doença assintomática, ela é comumente chamada de:"],
+            ["infecção silenciosa"],
+            ["infecção inofensiva"],
+            ["infecção dolorosa"]
+        ],
+        [
+            ["Qual o tipo de câncer que o HPV pode causar em mulheres?"],
+            ["câncer de colo uterino"],
+            ["câncer de mama"],
+            ["câncer de próstata"]
+        ],
+        [
+            ["É o exame preventivo para o câncer de colo de útero"],
+            ["Papanicolau"],
+            ["Mantoux"],
+            ["PSA"]
+        ],
+        [
+            ["O principal método de prevenção das DST’s é a utilização do (a):"],
+            ["camisinha"],
+            ["coito interrompido"],
+            ["pílula"]
+        ],
+        [
+            ["Além da secreção purulenta, quais são os principais sintomas da gonorréia que aparecem geralmente após 2 a 10 dias do contágio."],
+            ["coceira e ardência nos genitais"],
+            ["verrugas doloridas"],
+            ["verrugas indolores"]
+        ],
+        [
+            ["As DST’s como gonorréia, sífilis, cancro mole, linfogranuloma venéreo, granuloma ingual e uretrites são causadas por:"],
+            ["bactérias"],
+            ["vírus"],
+            ["protozoários"]
+        ],
+        [
+            ["As DST’s como a AIDS, herpes genitais, hepatite B, e condiloma acuminado são causadas por:"],
+            ["vírus"],
+            ["bactérias"],
+            ["insetos"]
+        ],
+        [
+            ["A candidíase é uma DST causada por:"],
+            ["fungos"],
+            ["vírus"],
+            ["bactérias"]
+        ],
+        [
+            ["A tricomoníase é uma DST causada por:"],
+            ["protozoários"],
+            ["fungos"],
+            ["vírus"]
+        ],
+        [
+            ["As DST’s como pediculose ou chato e a escabióse ou sarna são causadas por:"],
+            ["artrópodes"],
+            ["protozoários"],
+            ["fungos"]
+        ],
+        [
+            ["Qual DST causa lesões (bolinhas) dolorosas que aparecem nos genitais masculino ou feminino e que duram de um a três dias, desaparecem e depois de um certo tempo voltam?"],
+            ["herpes genital"],
+            ["Tricomoníase"],
+            ["hepatite B"]
+        ],
+        [
+            ["Quem corre maior risco de contrair DST’s?"],
+            ["ambos os sexos"],
+            ["mulheres"],
+            ["homens"]
+        ],
+        [
+            ["Qual o local a ser procurado em caso de suspeita de ter contraído uma DST?"],
+            ["posto de saúde"],
+            ["hospital"],
+            ["farmácia"]
+        ],
+        [
+            ["Ao entrar no corpo da pessoa, o Vírus da Imunodeficiência Humana vai pouco a pouco enfraquecendo seu sistema de defesa podendo provocar o aparecimento de doenças. Nem toda pessoa que tem o HIV apresenta sintomas da doença, porém poderá transmiti-la, sendo considerada uma:"],
+            ["portadora HIV"],
+            ["doadora HIV"],
+            ["aidética"]
+        ],
+        [
+            ["A doença só ocorre em pessoas infectadas com o HIV. Caracteriza-se pelo aparecimento de diversas outras doenças e pelo enfraquecimento do sistema de defesa do organismo causado pela infecção do retrovírus:"],
+            ["AIDS ou SIDA"],
+            ["príon"],
+            ["herpes"]
+        ],
+        [
+            ["Doença causada pela bactéria do gênero Neisseria, a blenorragia provoca uma inflamação na uretra causando no homem ardência e secreção leitosa ao urinar. Já na mulher, 80% dos casos são assintomáticos facilitando a disseminação da doença."],
+            ["gonorréia"],
+            ["candidíase"],
+            ["sífilis"]
+        ],
+        [
+            ["Programa que tem como característica comum agir na modificação do comportamento de risco, promoção do uso de preservativos, tratamento dos casos sintomáticos, detecção dos casos assintomáticos e investigação dos contatos sexuais das pessoas. É considerado um(a):"],
+            ["controle de DST"],
+            ["distribuição de DST"],
+            ["erradicação de DST"]
+        ],
+        [
+            ["DST causada pela bactéria Haemophilus ducreyi que causa feridas dolorosas com a base mole e avermelhada e com fundo purulento. Apresenta a forma irregular e costuma aparecer na genitália externa, no anus e mais raramente nos lábios, na boca e na garganta. Essas feridas são muito contagiosas."],
+            ["cancro mole"],
+            ["HPV"],
+            ["herpes genital"]
+        ],
+        [
+            ["Doença que pode causar deformidades ósseas e dentárias e comprometimento neurológico no recém nascido de mãe portadora de sífilis. Pode causar também aborto e morte fetal:"],
+            ["sífilis congênita"],
+            ["sífilis paterna"],
+            ["sífilis fetal"]
+        ],
+        [
+            ["Doença que tem como causador um fungo provocando corrimento branco (como a nata do leite) e irritação nos órgãos externos da vagina, sendo considerada uma das causas mais freqüentes de infecção genital. Não é uma doença exclusivamente de transmissão sexual. O tratamento é feito com antimicóticos."],
+            ["candidíase"],
+            ["linfogranuloma"],
+            ["blenorragia"]
+        ],
+        [
+            ["DST causada pela bactéria Climydia trachomatis, è conhecida também como bulbão ou mula. Seu principal sintoma é o aparecimento de uma lesão genital de uma forma repentina e discreta na primeira fase da doença, que mais tarde evolui para um bulbão ingual (íngua), que é a inflamação dos gânglios na virilha. Quando não tratada pode evoluir para elefantíase do pênis e da vagina."],
+            ["linfogranuloma"],
+            ["cancro duro"],
+            ["vaginite"]
+        ],
+        [
+            ["Ocorre após 3 a 6 semanas do contágio. A infecção caracteriza-se por lesão pequena com aspecto duro e de coloração rósea que evolui para uma forma (ulcerosa) papulosa, desaparecendo após 4 a 6 semanas, mesmo sem qualquer tratamento. São freqüentes nos órgãos genitais, podendo ser também atingidos os lábios, a língua, os dedos, a região anal e os mamilos. Sífilis:"],
+            ["primária"],
+            ["secundária"],
+            ["terciária"]
+        ],
+        [
+            ["Doença causada pela bactéria Treponema pallidum. Sua transmissão se dá pelo contato ou relação sexual, pelo uso de objetos da pessoa contaminada (transmissão indireta), pela transmissão congênita e pela transfusão de sangue. Sua manifestação ocorre em 3 etapas."],
+            ["sífilis"],
+            ["gonorréia"],
+            ["amebíase"]
+        ],
+        [
+            ["Aparece de 4 a 8 semanas após o período primário, sendo caracterizado pela ocorrência de múltiplas manchas semelhantes, feridas, pústulas e manifestações nas mucosas. Além disto, podem ocorrer sintomas como fadiga, dores de cabeça e febre. Novamente, neste período, entre 2 a 6 semanas os sintomas desaparecem espontaneamente, com ou sem tratamento. Sífilis:"],
+            ["secundária"],
+            ["primária"],
+            ["terciária"]
+        ],
+        [
+            ["É a fase da sífilis de latência que pode levar de meses a anos para se manifestar. Nesta fase podem se desenvolver lesões graves em qualquer parte do corpo, sendo atingidos principalmente a pele, mucosas, ossos, articulações, fígado, coração, olhos (cegueira) e sistema nervoso (demência)."],
+            ["terciária"],
+            ["primária"],
+            ["secundária"]
+        ],
+        [
+            ["O uso de preservativos em todo e qualquer tipo de relação sexual, a redução e seleção de parceiros (evitando se relacionar com pessoas promíscuas) e evitar o uso compartilhado de seringas são formas de:"],
+            ["prevenção das DST’s"],
+            ["prevenção de verminoses"],
+            ["prevenção de gravidez"]
+        ],
+        [
+            ["Relação sexual em que a pessoa mantém contato da boca com a genital de seu parceiro:"],
+            ["sexo oral"],
+            ["sexo genital"],
+            ["sexo anal"]
+        ],
+        [
+            ["Quando não há troca de líquidos ou fluidos corporais (sangue, esperma, saliva), como por exemplo, num beijo ou um abraço, o contato pode ser considerado:"],
+            ["sem risco"],
+            ["medianamente perigoso"],
+            ["perigoso"]
+        ],
+        [
+            ["Região que abrange o monte pubiano, grandes lábios, clitóris, orifício uretral, pequenos lábios e orifício vaginal:"],
+            ["vulva"],
+            ["uvula"],
+            ["cópula"]
+        ],
+        [
+            ["DST que causa verrugas em homens e mulheres:"],
+            ["condiloma acuminado"],
+            ["cancro duro"],
+            ["gonorréia"]
+        ],
+        [
+            ["A herpes genital, o cancro mole, linfogranuloma venéreo, granuloma inguinal, e a sífilis são DST que causam:"],
+            ["feridas em homens e mulheres"],
+            ["Inchaço no abdômen"],
+            ["dores de cabeça"]
+        ],
+        [
+            ["Canal que se estende entre o colo do útero e a vulva:"],
+            ["vagina"],
+            ["clitóris"],
+            ["tuba uterina"]
+        ],
+        [
+            ["Na mulher é a parte homóloga à glande no homem, localizada acima da uretra. É um dos pontos principais responsáveis pelo prazer sexual da mulher:"],
+            ["clitóris"],
+            ["vulva"],
+            ["lábios maiores"]
+        ],
+        [
+            ["Se uma mãe tiver gonorréia assintomática, poderá transmiti-la ao seu filho durante o parto causando oftalmite. Essa infecção não tratada pode causar ao recém nascido:"],
+            ["cegueira"],
+            ["deformidade dos órgãos sexuais"],
+            ["aumento do fígado"]
+        ],
+        [
+            ["A gonorréia provoca uma secreção amarelada na uretra do homem e da mulher. Apesar de ser raro, o corrimento na mulher pode ocorrer alem da uretra, através:"],
+            ["da vagina"],
+            ["do clitóris"],
+            ["do ânus"]
+        ],
+        [
+            ["São medicamentos usados para o tratamento de HPV, herpes e HIV:"],
+            ["antivirais"],
+            ["antibióticos"],
+            ["antimicóticos"]
+        ],
+        [
+            ["São medicamentos usados para o tratamento de bactérias:"],
+            ["antibióticos"],
+            ["antimicóticos"],
+            ["antivirais"]
+        ],
+        [
+            ["São medicamentos usados para o tratamento de fungos como no caso da candidíase:"],
+            ["antimicóticos"],
+            ["antibióticos"],
+            ["antivirais"]
+        ],
+        [
+            ["DST causada pela Clamidia trachomatis que pode apresentar uma secreção translúcida e escassa pela manhã. Essa secreção raramente é abundante e purulenta. Um ardor vaginal pode ser a única manifestação. No homem pode ocorrer elefantíase escrotal:"],
+            ["linfogranuloma"],
+            ["candidíase"],
+            ["giardíase"]
+        ],
+        [
+            ["Relação sexual em que o parceiro ativo pode entrar em contato com as fezes contaminadas pela hepatite B do parceiro passivo havendo assim grande possibilidade infecção:"],
+            ["sexo anal"],
+            ["sexo oral"],
+            ["sexo vaginal"]
+        ],
+        [
+            ["É importante saber que mesmo a pessoa portadora da doença, mas sem sintomas pode transmitir DST’s, sendo considerada uma pessoa:"],
+            ["assintomática"],
+            ["sintomática"],
+            ["sistemática"]
+        ],
+        [
+            ["Método contraceptivo usado na prevenção de DST, sendo considerado seguro se usado corretamente e se aprovado pelo IMETRO (órgão que avalia se o produto está em plenas condições de ser utilizado)."],
+            ["camisinha"],
+            ["diafragma"],
+            ["DIU"]
+        ],
+        [
+            ["Deixar a camisinha exposta ao Sol, usá-la fora do prazo de validade, abrir a embalagem com os dentes ou objetos cortantes, não retirar o ar do espaço na ponta da camisinha e usar lubrificantes que não são a base de água pode:"],
+            ["prejudicar a eficiência da camisinha"],
+            ["tornar o sexo seguro"],
+            ["prejudicar a performance sexual"]
+        ],
+        [
+            ["É o tipo de relacionamento sexual que, quando se conhece a história do parceiro, pode ser bastante seguro:"],
+            ["sexo monogâmico"],
+            ["sexo poligâmico"],
+            ["sexo endogâmico"]
+        ],
+        [
+            ["Algumas doenças podem persistir apesar da sensação de melhora relatada pelo paciente, por isso é importante a reavaliação clínica e laboratorial após o término do tratamento. Esse processo é chamado de"],
+            ["controle de cura"],
+            ["tratamento"],
+            ["prognóstico"]
+        ],
+        [
+            ["Órgão que desenvolve políticas de tratamento que visam melhorar a qualidade do atendimento aos pacientes nos serviços de saúde pública dando acesso ao tratamento gratuito de todas as pessoas que comprovadamente são acometidas por qualquer DST."],
+            ["Coordenação Nacional de DST e Aids"],
+            ["INPS"],
+            ["INAMPS"]
+        ],
+        [
+            ["A gonorréia se caracteriza principalmente pela presença de abundante secreção purulenta amarelada que sai pela uretra no homem e pela uretra ou vagina na mulher. Na mulher mais de 50 % dos indivíduos infectados não apresentam sintomas. No entanto no homem essa freqüência é de aproximadamente:"],
+            ["20%"],
+            ["zero"],
+            ["5%"]
+        ],
+        [
+            ["Na mulher a gonorréia pode ter conseqüências graves ao infectar locais pouco comuns como:"],
+            ["tuba uterina"],
+            ["ouvido"],
+            ["garganta"]
+        ],
+        [
+            ["Segundo a Organização Mundial de Saúde, no Brasil ocorrem ao ano cerca de quantos casos de DST? :"],
+            ["10 milhões"],
+            ["1 milhão"],
+            ["6 milhões"]
+        ],
+        [
+            ["Na mulher, mais de 50% dos casos de gonorréia não exibem sintomas ou eles são mais brandos. O risco de transmissão da doença na relação sexual é de mais de:"],
+            ["90%"],
+            ["20%"],
+            ["50%"]
+        ],
+        [
+            ["A infecção por Clamídia é causada por um (a):"],
+            ["bactéria"],
+            ["vírus"],
+            ["espiroqueta"]
+        ],
+        [
+            ["Problema caracterizado aumento do volume da secreção vaginal, muitas vezes anormalmente amarelada ou esverdeada, podendo ter odor fétido. É provocado principalmente por Candida albicans, Trichomonas vaginalis."],
+            ["vaginite"],
+            ["cistite"],
+            ["uretrite"]
+        ],
+        [
+            ["O que a infecção por Clamídia pode causar em recém nascidos?"],
+            ["conjuntivite"],
+            ["deformação nos órgãos sexuais"],
+            ["perda de audição"]
+        ],
+        [
+            ["O que a infecção por Clamídia pode causar nas mulheres? "],
+            ["doença pélvica inflamatória"],
+            ["câncer cervical"],
+            ["verrugas genitais"]
+        ],
+        [
+            ["Qual é o novo tipo de teste disponível para determinar se o indivíduo possui infecção por Clamídia?"],
+            ["de urina"],
+            ["de pele"],
+            ["de sangue"]
+        ],
+        [
+            ["Que faixa etária de mulheres sexualmente ativas deve ser testada anualmente para a infecção de Clamídia?"],
+            ["todas"],
+            ["16 a 24 anos"],
+            ["25 a 35 anos"]
+        ],
+        [
+            ["A gonorréia é uma DST causada por um (a):"],
+            ["bactéria"],
+            ["vírus"],
+            ["espiroqueta"]
+        ],
+        [
+            ["O que a gonorréia pode causar em mulheres?"],
+            ["doença inflamatória pélvica"],
+            ["diabetes tipo II"],
+            ["câncer cervical"]
+        ],
+        [
+            ["Qual desses sintomas não é característica da gonorréia?"],
+            ["verrugas genitais"],
+            ["dor pélvica"],
+            ["ardência ao urinar"]
+        ],
+        [
+            ["Doença da inflamação pélvica é a maior causa da:"],
+            ["ambas"],
+            ["infertilidade"],
+            ["gravidez ectópica"]
+        ],
+        [
+            ["Qual é a porcentagem de pessoas infectada com herpes genital não apresentam sintomas?"],
+            ["50%"],
+            ["25%"],
+            ["90%"]
+        ],
+        [
+            ["Após a infecção, o vírus herpes se esconde em que parte do corpo?"],
+            ["nervos terminados na base da espinha"],
+            ["testículos"],
+            ["pêlos da área púbica"]
+        ],
+        [
+            ["Qual das opções abaixo não é um modo de transmisssão do HIV?"],
+            ["mosquitos"],
+            ["compartilhar agulhas"],
+            ["sexo oral"]
+        ],
+        [
+            ["A infecção do HPV é disseminada através:"],
+            ["do contato de pele com pele"],
+            ["dos fluídos corporais"],
+            ["somente por contato com a verruga"]
+        ],
+        [
+            ["A principal razão para remover a verruga genital é para:"],
+            ["melhorar a aparência"],
+            ["eliminar o HPV"],
+            ["prevenir a disseminação da doença"]
+        ],
+        [
+            ["O tratamento da herpes genital com drogas antivirais tem que efeito na transmissão sexual?"],
+            ["nenhum"],
+            ["eliminação"],
+            ["reduz transmissão"]
+        ],
+        [
+            ["O diagnóstico positivo do vírus papiloma humano (HPV) significa que a pessoa deve obrigatoriamente apresentar:"],
+            ["nenhuma das anteriores"],
+            ["verrugas genitais"],
+            ["lesões na pele"]
+        ],
+        [
+            ["O herpes simples genital apresenta feridas e ulcerações:"],
+            ["no homem e na mulher"],
+            ["no homem"],
+            ["na mulher"]
+        ],
+        [
+            ["Qual é a doença sexualmente transmitida mais comum entre as mulheres?"],
+            ["tricomoníase"],
+            ["gonorréia"],
+            ["sífilis"]
+        ],
+        [
+            ["Qual das DST’s seguintes pode ser curada?"],
+            ["sífilis"],
+            ["herpes"],
+            ["HPV"]
+        ],
+        [
+            ["Que DST não é prevenida pelo uso da camisinha?"],
+            ["herpes"],
+            ["sífilis"],
+            ["gonorréia"]
+        ]
+    ]
+}

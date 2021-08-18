@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["É uma doença causada por vírus, que provoca inflamação e necrose do fígado. A transmissão é feita pela ingestão de água e alimentos contaminados ou através da transfusão de sangue."],
+            ["hepatite"],
+            ["febre amarela"],
+            ["doença de Chagas"]
+        ],
+        [
+            ["Quando uma pessoa tem uma doença que afeta a produção de células do sangue ela provavelmente deverá fazer um transplante de:"],
+            ["medula óssea"],
+            ["rim"],
+            ["fígado"]
+        ],
+        [
+            ["A anemia falciforme é uma doença genética que é causada pela produção de uma hemoglobina mutante. Em países desse continente ela chega a ser quase 300 vezes mais comum do que nos Estados Unidos por exemplo:"],
+            ["África"],
+            ["Europa"],
+            ["Ásia"]
+        ],
+        [
+            ["Para sua própria segurança, quando a mulher está grávida, amamentando ou nos primeiros seis meses depois do parto, não é permitido que ela:"],
+            ["doe sangue"],
+            ["receba sangue"],
+            ["faça cirurgia"]
+        ],
+        [
+            ["É um dos componentes sólidos do sangue, e também conhecido como leucócito. Eles defendem nosso organismo do ataque de vírus e bactérias."],
+            ["glóbulos brancos"],
+            ["linfócitos"],
+            ["eritrócitos"]
+        ],
+        [
+            ["Quando uma pessoa precisa receber sangue devido à perda significativa, é necessário fazer:"],
+            ["transfusão sanguínea"],
+            ["doação de sangue"],
+            ["hemodiálise"]
+        ],
+        [
+            ["É um dos componentes sólidos do sangue. Ajuda a coagular o sangue e cicatrizar os ferimentos."],
+            ["plaqueta"],
+            ["plasma"],
+            ["pulso"]
+        ],
+        [
+            ["É um líquido amarelo claro que representa 55% do volume total do sangue. Ele é constituído por 90% de água alem de proteínas, açúcares, gorduras e sais minerais."],
+            ["plasma"],
+            ["medula óssea"],
+            ["glóbulo branco"]
+        ],
+        [
+            ["É um tipos mais comuns de doença caracterizada pela falta ferro para produzir as hemácias (eritrócitos). Geralmente a pessoa se queixa de fraqueza, desânimo e palidez. Chamada anemia:"],
+            ["ferropriva"],
+            ["falciforme"],
+            ["nitropriva"]
+        ],
+        [
+            ["É uma doença transmitida geneticamente, onde as hemácias tomam um formado de “foice”, ao invés do formato de discos achatados. Problemas acontecem quando as hemácias se agrupam entopem um vaso sanguíneo causando a falta de oxigênio a um órgão. Anemia:"],
+            ["falciforme"],
+            ["ferropriva"],
+            ["nitropriva"]
+        ],
+        [
+            ["É a perda de sangue que ocorre geralmente quando uma veia ou artéria se rompe."],
+            ["hemorragia"],
+            ["hematoma"],
+            ["hemodiálise"]
+        ],
+        [
+            ["É um acúmulo de sangue em algum tecido do corpo causado por um vaso rompido."],
+            ["hematoma"],
+            ["hemorragia"],
+            ["hemólise"]
+        ],
+        [
+            ["Sua transmissão pode ser através da placenta, pelo contato direto entre os seres humanos, pela transfusão de sangue ou plasma infectado onde, a bactéria Treponema pallidum circula pelo sangue."],
+            ["sífilis"],
+            ["AIDS"],
+            ["hepatite B"]
+        ],
+        [
+            ["É uma proteína conjugada consistindo de um pigmento contendo ferro, denominada heme, e uma proteína simples, a globina. Sua função é transportar o oxigênio."],
+            ["hemoglobina"],
+            ["glóbulos vermelhos"],
+            ["eritrócitos"]
+        ],
+        [
+            ["Formação de uma substância gelatinosa a partir do sangue que extravasa no local de uma lesão de um vaso sangüíneo. Comumente esta ação interrompe o fluxo sangüíneo pela ferida."],
+            ["coagulação"],
+            ["vasoconstrição"],
+            ["vasodilatação"]
+        ],
+        [
+            ["É um dos componentes sólidos do sangue, tem a cor vermelha devido à presença da hemoglobina, que transporta o oxigênio para as células. É também chamado de eritrócito."],
+            ["hemácia"],
+            ["plaqueta"],
+            ["linfócito"]
+        ],
+        [
+            ["Doença infecciosa e parasitária provocada pelo protozoário Trypanosoma cruzi e transmitida pelo inseto barbeiro. Pode provocar insuficiência e arritmia cardíaca, que podem levar à morte."],
+            ["doença de Chagas"],
+            ["malaria"],
+            ["febre amarela"]
+        ],
+        [
+            ["Quais são os riscos que um doador de sangue corre?"],
+            ["nenhum"],
+            ["engrossar o sangue"],
+            ["afinar o sangue"]
+        ],
+        [
+            ["A sigla que se refere ao rompimento de um vaso sanguíneo dentro do cérebro."],
+            ["AVC"],
+            ["ATP"],
+            ["DVD"]
+        ],
+        [
+            ["Evento causado pelo entupimento de vaso sanguíneo e a conseqüente falta de oxigenação causando a morte do tecido."],
+            ["infarto"],
+            ["trombose"],
+            ["artrose"]
+        ],
+        [
+            ["Procedimento que as pessoas com insuficiência renal devem realizar periodicamente. Um aparelho filtra todo o sangue e retira as impurezas e o excesso de água que o rim doente não consegue fazer."],
+            ["hemodiálise"],
+            ["hemofílico"],
+            ["hepatodiálise"]
+        ],
+        [
+            ["É um exame que conta os vários tipos de células existentes em nosso sangue, como os glóbulos brancos, plaquetas e os eritrócitos."],
+            ["hemograma"],
+            ["hemolítico"],
+            ["hemocentro"]
+        ],
+        [
+            ["É um local especializado em receber doações de sangue e realizar tratamento de doenças do sangue."],
+            ["hemocentro"],
+            ["hemodiálise"],
+            ["hemólise"]
+        ],
+        [
+            ["Acidente em que o sangue fica parado por muito tempo dentro do vaso sanguíneo, ele começa a ficar mais grosso, até formar uma massa dentro do vaso, entupindo-o:"],
+            ["trombose"],
+            ["infarto"],
+            ["artrite"]
+        ],
+        [
+            ["No frio sua mão fica com uma cor mais pálida e fica mais fria. Isso se deve a esse fenômeno que causa a diminuição do diâmetro do vaso sanguíneo visando guardar o calor do corpo."],
+            ["vasoconstrição"],
+            ["vasodilatação"],
+            ["vasoprospecção"]
+        ],
+        [
+            ["Após o exercício físico seu rosto fica mais vermelho e quente. Isso se deve a esse fenômeno que é um aumento do diâmetro dos vasos com o propósito de ajudar o corpo a perder calor através do sangue."],
+            ["vasodilatação"],
+            ["vasoconstrição"],
+            ["vasocoagulação"]
+        ],
+        [
+            ["São pequenos vasos dentro dos órgãos, nos quais passam uma hemácia de cada vez para facilitar as trocas gasosas."],
+            ["capilares"],
+            ["aorta"],
+            ["artérias"]
+        ],
+        [
+            ["Qual é a quantidade de sangue que um homem adulto possui em média?"],
+            ["5L"],
+            ["7,5 L"],
+            ["3L"]
+        ],
+        [
+            ["Quantidade de sangue que se coleta numa doação de sangue:"],
+            ["450 ml"],
+            ["590 ml"],
+            ["230 ml"]
+        ],
+        [
+            ["A vasoconstrição, que é a contração dos vasos pode acontecer quando você sente muito frio resultando em:"],
+            ["mão e unha roxa"],
+            ["arrepio"],
+            ["suor"]
+        ],
+        [
+            ["O que deve se evitar no dia da doação de sangue?"],
+            ["cigarro, alimentos gordurosos"],
+            ["se alimentar"],
+            ["beber água"]
+        ],
+        [
+            ["Quais são os tipos sanguíneos do sistema ABO?"],
+            ["A, B, AB, O"],
+            ["ABO, O, AB"],
+            ["A, B, O"]
+        ],
+        [
+            ["Qual é a proporção normal de hemácias / glóbulos brancos no sangue?"],
+            ["600/1"],
+            ["30/1"],
+            ["190/1"]
+        ],
+        [
+            ["Que tipo de sangue tem o individuo que é considerado doador universal"],
+            ["0-"],
+            ["AB-"],
+            ["AB+"]
+        ],
+        [
+            ["Qual é o peso mínimo para uma mulher doar sangue sem que haja risco para a sua saúde"],
+            ["50 kg"],
+            ["40 kg"],
+            ["60 kg"]
+        ],
+        [
+            ["Qual é a faixa etária em que é permitido doar sangue?"],
+            ["dos 18 aos 65 anos"],
+            ["dos 16 aos 50 anos"],
+            ["dos 21 aos 80 anos"]
+        ],
+        [
+            ["Causada pelo vírus HIV leva a perda das defesas naturais do organismo sendo mais fácil a pessoa ficar doente, podendo ser transmissível por transfusão de sangue."],
+            ["AIDS"],
+            ["sífilis"],
+            ["gonorréia"]
+        ],
+        [
+            ["Qual é um documento obrigatório para se doar sangue?"],
+            ["RG"],
+            ["CPF"],
+            ["certidão de nascimento"]
+        ],
+        [
+            ["A chance de encontrar na população uma medula óssea que seja compatível com a sua para o transplante é de:"],
+            ["1/100. 000"],
+            ["1/10. 000"],
+            ["1/5. 000"]
+        ],
+        [
+            ["Quanto tempo demora para a medula óssea de um doador se recompor após a retirada?"],
+            ["2 semanas"],
+            ["3 semanas"],
+            ["4 semanas"]
+        ],
+        [
+            ["Dia dedicado para homenagear as pessoas que doam sangue, e que salvam muitas vidas."],
+            ["25 de novembro"],
+            ["7 de julho"],
+            ["10 de dezembro"]
+        ],
+        [
+            ["Chagas, hepatite, sífilis, AIDS, HTLV, malaria são algumas das doenças que impedem a pessoa de:"],
+            ["doar sangue"],
+            ["receber sangue"],
+            ["receber plasma"]
+        ],
+        [
+            ["Quanto tempo uma mulher deve esperar para poder doar sangue novamente?"],
+            ["90 dias"],
+            ["60 dias"],
+            ["120 dias"]
+        ],
+        [
+            ["Quanto tempo um homem deve esperar para poder doar sangue novamente?"],
+            ["60 dias"],
+            ["120 dias"],
+            ["150 dias"]
+        ],
+        [
+            ["São substâncias que surgem como reação a qualquer elemento estranho que penetre no organismo. Eles aprendem a identificar e combater futuras invasões."],
+            ["anticorpos"],
+            ["antígenos"],
+            ["eritrócitos"]
+        ],
+        [
+            ["Elemento estranho no organismo que leva a produção de anticorpos:"],
+            ["antígeno"],
+            ["plaqueta"],
+            ["plasma"]
+        ],
+        [
+            ["São vasos com paredes grossas que carregam sangue rico em oxigênio. Ao passar por órgãos e músculos elas reduzem seu diâmetro e passam a parecer com fios de cabelo e chamar capilar que é onde ocorrem as trocas gasosas."],
+            ["artérias"],
+            ["veias"],
+            ["túbulos"]
+        ],
+        [
+            ["São vasos que levam o sangue do corpo para o coração rico em dióxido de carbono. Possuem válvulas que se fecham quando o sangue passa para impedir que ele retorne."],
+            ["veias"],
+            ["capilares"],
+            ["artérias"]
+        ],
+        [
+            ["É o sangue que passou pelo pulmão recebendo oxigênio pela inspiração."],
+            ["arterial"],
+            ["venoso"],
+            ["plasmático"]
+        ],
+        [
+            ["É o sangue que vai das células para o pulmão e que está rico em dióxido de carbono e resíduo."],
+            ["venoso"],
+            ["arterial"],
+            ["venenoso"]
+        ],
+        [
+            ["Quantos dias duram em média as hemácias?"],
+            ["entre 90 e 120 dias"],
+            ["entre 30 e 40 dias"],
+            ["entre 210 e 240 dias"]
+        ],
+        [
+            ["Se o seu tipo de sangue é B-, você poderá doar seu sangue para pessoas com os tipos:"],
+            ["B+, B-, AB+, AB-"],
+            ["B-, O-"],
+            ["todos com Rh negativo"]
+        ],
+        [
+            ["Se o seu tipo de sanguíneo é O+, você poderá doar seu sangue para as pessoas com os tipos O+, A+, B+ e AB+, mas somente poderá receber de pessoas que tenham o sangue tipo:"],
+            ["O- e O+"],
+            ["A+, B+, AB+ e O+"],
+            ["todos que tenham Rh positivo"]
+        ],
+        [
+            ["Se o seu tipo de sangue é AB+, você poderá receber sangue de pessoas com os tipos:"],
+            ["todos os tipos"],
+            ["somente AB+"],
+            ["somente Rh+"]
+        ],
+        [
+            ["Procedimento realizado no centro cirúrgico com anestesia, para ajudar alguém que está com problemas na produção de células do sangue. Doação de:"],
+            ["medula óssea"],
+            ["sangue"],
+            ["plasma"]
+        ],
+        [
+            ["Doença hereditária causada pela ausência de fatores de coagulação. Seus portadores são constantemente sujeitos a hemorragias."],
+            ["hemofilia"],
+            ["hemocitose"],
+            ["leucemia"]
+        ],
+        [
+            ["O gene da hemofilia está localizado no cromossomo X. Por isso essa doença é muito mais comum:"],
+            ["nos homens"],
+            ["nas mulheres"],
+            ["igual em ambos os sexos"]
+        ],
+        [
+            ["É o tecido que produz as células sangüíneas, ocupa a cavidade dos ossos e é conhecido como tutano. Nele são encontradas as células mães que originam os elementos figurados do sangue: glóbulos brancos, hemácias e plaquetas."],
+            ["medula óssea"],
+            ["tecido adiposo"],
+            ["tecido conjuntivo"]
+        ],
+        [
+            ["É considerado um tecido que auxilia na distribuição de elementos essenciais e removendo resíduos prejudiciais do organismo. É formado por uma parte líquida (plasma), na qual estão misturadas as partes sólidas; hemácias, leucócitos e plaquetas."],
+            ["sangue"],
+            ["rim"],
+            ["pâncreas"]
+        ],
+        [
+            ["É uma doença que provoca a proliferação desordenada das células dos tecidos formadores de sangue. Um tipo específico dessa doença pode ser causado por uma anomalia cromossômica:"],
+            ["leucemia"],
+            ["malária"],
+            ["hemofilia"]
+        ],
+        [
+            ["Se a mãe que possui o Rh -der a luz a uma criança com Rh +, deverá tomar cuidado, pois se seu próximo bebê possuir o Rh+, poderá apresentar entre outras dificuldades anemia, icterícia e retardo mental podendo levar a morte do recém nascido."],
+            ["eritroblastose fetal"],
+            ["amarelão"],
+            ["síndrome do Rhesus"]
+        ],
+        [
+            ["Qual é a porcentagem de indivíduos que possuem o Rh negativo no mundo?"],
+            ["15%"],
+            ["83%"],
+            ["64%"]
+        ],
+        [
+            ["Qual é a porcentagem de indivíduos que possuem o Rh positivo no mundo?"],
+            ["85%"],
+            ["15%"],
+            ["64%"]
+        ],
+        [
+            ["O coração bombeia o sangue para os demais órgãos do corpo por meio das artérias. Quando o sangue é bombeado, ele é 'empurrado' contra a parede dos vasos sangüíneos. Esta tensão gerada na parede das artérias é chamada de:"],
+            ["pressão arterial"],
+            ["pequena circulação"],
+            ["grande circulação"]
+        ],
+        [
+            ["Doença em que a pressão sangüínea da pessoa é mais alta do que os níveis normais. Se não controlada pode levar a doença cardíaca, renal, entre outras."],
+            ["hipertensão arterial"],
+            ["hipotensão arterial"],
+            ["pressão máxima"]
+        ],
+        [
+            ["Quando sua pressão arterial é medida, dois números são anotados, tais como 140/90. O maior número é a pressão do sangue nos vasos, quando o coração se contrai, ou bombeia, para impulsionar o sangue para o resto do corpo, sendo chamada de pressão:"],
+            ["sistólica"],
+            ["diastólica"],
+            ["mesostólica"]
+        ],
+        [
+            ["Quando sua pressão arterial é medida, dois números são anotados, tais como 140/90. O menor número é a pressão do sangue nos vasos quando o coração encontra-se na fase de relaxamento, sendo chamada de pressão:"],
+            ["diastólica"],
+            ["sistólica"],
+            ["dialística"]
+        ],
+        [
+            ["Doença infecciosa, grave, causada por protozoários do gênero Plasmodium, que são transmitidos de uma pessoa para outra pela picada de mosquitos (Anopheles), muito comum ao norte do Brasil. Esse protozoário se reproduz no sangue."],
+            ["malária"],
+            ["dengue"],
+            ["febre amarela"]
+        ],
+        [
+            ["E um órgão muscular oco que se localiza no meio do peito sob o osso esterno ligeiramente deslocado para a esquerda responsável pelo bombeamento do sangue através da contração de suas paredes de maneira rítmica."],
+            ["coração"],
+            ["pulmão esquerdo"],
+            ["fígado"]
+        ],
+        [
+            ["É considerado o bom colesterol. Além de não participar do processo de obstrução das artérias, tem ainda um efeito protetor retirando o colesterol dos tecidos e o leva para o fígado, onde é eliminado ou reaproveitado."],
+            ["HDL"],
+            ["LDL"],
+            ["VLDL"]
+        ],
+        [
+            ["É chamado de colesterol ruim. Participa da formação das placas de gordura que obstruem as artérias. Seu excesso no organismo é, portanto, indesejável e deve ser combatida."],
+            ["LDL"],
+            ["VLDL"],
+            ["HDL"]
+        ],
+        [
+            ["É um tipo de gordura essencial ao nosso organismo produzido pelo fígado e presente em alguns alimentos. Mas em excesso no sangue, causa distúrbios como doenças cardíacas, tornando-se um inimigo do coração."],
+            ["colesterol"],
+            ["esteróide"],
+            ["glicogênio"]
+        ],
+        [
+            ["O tempo de coagulação é o tempo necessário para que uma pequena quantidade de sangue coagule. O tempo normal para que ocorra é de:"],
+            ["6 a 17 minutos"],
+            ["1 a 3 minutos"],
+            ["15 a 60 segundos"]
+        ],
+        [
+            ["As populações nativas da América do Sul se diferenciam por apresentarem praticamente 100% de seus indivíduos com sangue do tipo:"],
+            ["O"],
+            ["A"],
+            ["B"]
+        ],
+        [
+            ["A hemofilia é causada por um gene presente no cromossomo X. Entre os homens sua ocorrência é de 1 caso em cada 4.000 pessoas. Portanto, sua ocorrência entre mulheres deve ser aproximadamente de uma pessoa entre:"],
+            ["16.000.000"],
+            ["8.000"],
+            ["16.000"]
+        ]
+    ]
+}

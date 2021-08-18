@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["Combustível líquido produzido a partir de plantas oleaginosas como dendê, babaçu e mamona:"],
+            ["biodiesel"],
+            ["GLP"],
+            ["etanol"]
+        ],
+        [
+            ["O aditivo chumbo tetraetila é usado para aumentar a octanagem da gasolina. No Brasil esse aditivo altamente poluente foi substituído por"],
+            ["álcool anidro"],
+            ["álcool hidratado"],
+            ["biodiesel"]
+        ],
+        [
+            ["Combustível líquido renovável obtido da fermentação do caldo de cana. O tipo anidro se mistura à gasolina:"],
+            ["álcool"],
+            ["biodiesel"],
+            ["gás natural"]
+        ],
+        [
+            ["Medida da corrente elétrica; expressa em Amperes (A)."],
+            ["amperagem"],
+            ["voltagem"],
+            ["resistência"]
+        ],
+        [
+            ["Corte de energia elétrica pela empresa distribuidora."],
+            ["apagão"],
+            ["demanda de pico"],
+            ["fuga de energia"]
+        ],
+        [
+            ["Levantamento dos aparelhos e maneiras de uso de energia visando identificar modos de evitar gastos excessivos do consumidor."],
+            ["auditoria energética"],
+            ["planejamento energético"],
+            ["sustentabilidade"]
+        ],
+        [
+            ["Derivado fibroso da moagem da cana-de-açúcar usado como combustível nas usinas e destilarias."],
+            ["bagaço"],
+            ["levedura"],
+            ["álcool"]
+        ],
+        [
+            ["Processo de transformação de biomassa em gás e fertilizante. Processo usado para tratar efluentes com resíduos industriais ou restos de animais ou plantas."],
+            ["biodigestão"],
+            ["cogeração"],
+            ["destilaria"]
+        ],
+        [
+            ["Matéria de origem animal ou vegetal que pode ser usada na produção de energia."],
+            ["biomassa"],
+            ["genoma"],
+            ["citoplasma"]
+        ],
+        [
+            ["Quantidade máxima de produção de energia de um sistema."],
+            ["capacidade instalada"],
+            ["eficiência energética"],
+            ["racionamento de energia"]
+        ],
+        [
+            ["Fonte primária de energia originada de matéria vegetal fóssil:"],
+            ["carvão mineral"],
+            ["carvão vegetal"],
+            ["hidrogênio"]
+        ],
+        [
+            ["Fonte secundária de energia obtida através da pirólise da madeira."],
+            ["carvão vegetal"],
+            ["carvão mineral"],
+            ["metanol"]
+        ],
+        [
+            ["Célula de silício usada na conversão de radiação solar em energia elétrica."],
+            ["célula fotovoltaica"],
+            ["coletor solar"],
+            ["turbo gerador"]
+        ],
+        [
+            ["Motor bi-combustível desenvolvido pela indústria automobilística brasileira, capaz de utilizar gasolina, etanol ou a combinação de ambos."],
+            ["flex power"],
+            ["turbo power"],
+            ["metro power"]
+        ],
+        [
+            ["Geração de mais de uma forma de energia a partir do mesmo combustível. O uso de gás natural para gerar eletricidade e refrigerar o ar condicionado num shopping center é um exemplo."],
+            ["cogeração"],
+            ["sustentabilidade"],
+            ["flex power"]
+        ],
+        [
+            ["Equipamento que coleta luz solar para aquecimento direto da água."],
+            ["coletor solar"],
+            ["turbo gerador"],
+            ["célula fotovoltaica"]
+        ],
+        [
+            ["Medida adotada numa residência, indústria ou num país para reduzir o consumo de energia."],
+            ["conservação de energia"],
+            ["faixa de consumo"],
+            ["demanda de pico"]
+        ],
+        [
+            ["Nome do equipamento instalado no escapamento de veículos no Brasil, a partir de 1992, com a finalidade de reduzir os gases tóxicos produzidos pela queima de combustível:"],
+            ["catalizador"],
+            ["distribuidor"],
+            ["silencioso"]
+        ],
+        [
+            ["Período de maior consumo de eletricidade, em geral das 18 às 21 horas."],
+            ["demanda de pico"],
+            ["curva de carga"],
+            ["gerenciamento de demanda"]
+        ],
+        [
+            ["Fábrica de álcool a partir da cana -de- açúcar."],
+            ["destilaria"],
+            ["engenho"],
+            ["usina termoelétrica"]
+        ],
+        [
+            ["Aumento da temperatura atmosférica decorrente do aumento do gás carbônico derivado da queima de combustíveis fósseis por veículos e usinas termoelétricas."],
+            ["efeito estufa"],
+            ["pirólise"],
+            ["poluição"]
+        ],
+        [
+            ["Relação entre a energia útil e a utilizada num processo. Ela é máxima onde a perda é mínima:"],
+            ["eficiência energética"],
+            ["tarifa horo-sazonal"],
+            ["KWH( Quilowatt hora)"]
+        ],
+        [
+            ["Tudo aquilo que faz ou é capaz de fazer mover, aquecer ou esfriar um corpo."],
+            ["energia"],
+            ["biomassa"],
+            ["calor"]
+        ],
+        [
+            ["Energia gerada pela ação dos ventos:"],
+            ["eólica"],
+            ["nuclear"],
+            ["potencial"]
+        ],
+        [
+            ["Energia gerada pela ação da água:"],
+            ["hidráulica"],
+            ["solar"],
+            ["eólica"]
+        ],
+        [
+            ["Energia gerada pela ação de reações atômicas:"],
+            ["nuclear"],
+            ["hidráulica"],
+            ["solar"]
+        ],
+        [
+            ["Energia gerada pela ação da luz da estrela do nosso sistema planetário:"],
+            ["solar"],
+            ["gravitacional"],
+            ["eólica"]
+        ],
+        [
+            ["Fonte de energia oriunda de um processo sem limitação aparente como a luz do sol. Fonte:"],
+            ["renovável de energia"],
+            ["não renovável de energia"],
+            ["infinita de energia"]
+        ],
+        [
+            ["Dispositivo usado para ligar ou desligar um aparelho ou iluminação; acionado pela luz do sol. Usado para economizar energia."],
+            ["fotocélula"],
+            ["termostato"],
+            ["isolante"]
+        ],
+        [
+            ["Gás incolor com forte odor. Em combinação com a água e o oxigênio do ar, transforma-se em ácido sulfúrico, um dos principais formadores da chuva ácida. Resulta da queima de combustíveis que contêm enxofre, especialmente o óleo diesel:"],
+            ["dióxido de enxôfre"],
+            ["monóxido de carbono"],
+            ["dióxido de nitrogênio"]
+        ],
+        [
+            ["Gás incolor e inodoro resultante da queima incompleta de combustíveis. Inexistia na atmosfera antes do homem. Tem 210 vezes mais afinidade pela hemoglobina que o oxigênio, sendo por isso muito perigoso."],
+            ["monóxido de carbono"],
+            ["dióxido de carbono"],
+            ["dióxido de nitrogênio"]
+        ],
+        [
+            ["Combustível gasoso de origem fóssil. Sua composição é majoritariamente metano."],
+            ["gás natural"],
+            ["gás liquefeito de petróleo"],
+            ["xisto"]
+        ],
+        [
+            ["Equipamento autônomo usado para produzir energia. Normalmente funciona a partir de óleo diesel ou gasolina."],
+            ["gerador ou grupo gerador"],
+            ["bateria"],
+            ["célula fotovoltaica"]
+        ],
+        [
+            ["Gás usado na cozinha. Sua composição é majoritariamente butano e propano"],
+            ["glp (gás liquefeito de petróleo)"],
+            ["hidrogênio"],
+            ["gás natural"]
+        ],
+        [
+            ["Combustível usado nas células de combustível:"],
+            ["hidrogênio"],
+            ["gasolina"],
+            ["luz solar"]
+        ],
+        [
+            ["Aproveitamento da luz solar para iluminação de ambientes, reduzindo a necessidade do uso de eletricidade."],
+            ["iluminação natural"],
+            ["iluminação articial"],
+            ["pirólise"]
+        ],
+        [
+            ["Abreviatura de imposto cobrado pelo governo sobre o consumo de energia elétrica. Aparece na conta de luz no cálculo do valor devido:"],
+            ["ICMS"],
+            ["INSS"],
+            ["IPTU"]
+        ],
+        [
+            ["Material utilizado para reduzir a transferência de calor. Usado para economizar energia, por exemplo, em geladeiras e câmaras frias."],
+            ["isolante"],
+            ["fotocélula"],
+            ["termostato"]
+        ],
+        [
+            ["O etanol ou álcool combustível encontrado em postos foi inicialmente usado para mover automóveis comerciais (Ford) no ano:"],
+            ["1880"],
+            ["1978"],
+            ["1945"]
+        ],
+        [
+            ["É um combustível usado em carros de corrida nos EUA (formula Indy), neurotóxico, porem, misturado com gasolina é pouco poluente. Foi usado no Brasil como aditivo da gasolina por um breve período:"],
+            ["metanol"],
+            ["chumbo tetraetila"],
+            ["etanol"]
+        ],
+        [
+            ["O etanol foi usado inicialmente como combustível automotivo em 1880. A empresa que introduziu seu uso e logo depois parou por questão de disponibilidade foi:"],
+            ["Ford"],
+            ["Mercedes Benz"],
+            ["Alfa Romeo"]
+        ],
+        [
+            ["Tipo de lâmpada que produz luz pelo aquecimento de um fio metálico e consome muita energia. Produz muito calor e relativamente pouca luz. Lâmpada:"],
+            ["incandescente"],
+            ["de vapor de sódio"],
+            ["fluorescente"]
+        ],
+        [
+            ["Tabela que computa todas as formas e quantidades de energia consumidas no país num determinado ano. É elaborada anualmente pelo Ministério de Minas e Energia dentro do Balanço Energético Nacional."],
+            ["matriz energética"],
+            ["tarifa horo-sazonal"],
+            ["faixa de consumo"]
+        ],
+        [
+            ["Madeira usada para fins energéticos através de sua queima."],
+            ["lenha"],
+            ["carvão vegetal"],
+            ["bagaço"]
+        ],
+        [
+            ["Entre as principais fontes dos gases que contribuem para o efeito estufa está o metano que é responsável por 20 % do total. Uma das principais fontes desse metano é:"],
+            ["criação de gado bovino"],
+            ["queima de combustíveis fósseis"],
+            ["indústria de alumínio"]
+        ],
+        [
+            ["Atualmente no mundo 75% da energia gerada é consumida por que fração da população mundial?"],
+            ["25%"],
+            ["10%"],
+            ["50%"]
+        ],
+        [
+            ["Segundo o Ministério de Minas e Energia (2.000) que porcentagem da produção total de energia primária é fornecida por biomassa (inclui lenha, bagaço de cana, álcool, carvão e resíduos vegetais)?"],
+            ["21%"],
+            ["11%"],
+            ["16%"]
+        ],
+        [
+            ["Painel capaz de converter a luz solar em eletricidade."],
+            ["painel fotovoltaico"],
+            ["painel de operação"],
+            ["coletor solar"]
+        ],
+        [
+            ["Sistema compensatório que visa possibilitar que os países industrializados atinjam suas metas de redução de emissão de gases de efeito estufa por meio de investimentos em projetos de energia limpa nos países em desenvolvimento:"],
+            ["crédito de carbono"],
+            ["protocolo de Kioto"],
+            ["gestão ambiental"]
+        ],
+        [
+            ["Fonte primária de energia de origem fóssil:"],
+            ["petróleo"],
+            ["álcool"],
+            ["luz solar"]
+        ],
+        [
+            ["Programação ou projeto de ações na área de energia com a devida antecedência, evitando crises."],
+            ["planejamento energético"],
+            ["selo de eficiência energética"],
+            ["sustentabilidade"]
+        ],
+        [
+            ["Programa brasileiro do álcool, criado em 1975 para estimular o uso de álcool combustível no Brasil."],
+            ["Proálcool"],
+            ["Petrobrás"],
+            ["AA"]
+        ],
+        [
+            ["Dispositivo usado para programar o funcionamento diário ou semanal de um certo equipamento ou iluminação. Usado para economizar energia."],
+            ["programador horário"],
+            ["turbo gerador"],
+            ["amperagem"]
+        ],
+        [
+            ["Medida de contenção obrigatória de uso, adotada pelo governo a fim de reduzir o consumo de energia."],
+            ["racionamento de energia"],
+            ["capacidade instalada"],
+            ["sustentabilidade"]
+        ],
+        [
+            ["Rede usada no transporte de energia elétrica desde as usinas até os consumidores:"],
+            ["de transmissão"],
+            ["de cogeração"],
+            ["de iluminação"]
+        ],
+        [
+            ["Uma etiqueta que resume as características de consumo de eletricidade de um equipamento e apresenta sua classificação entre os similares:"],
+            ["selo de eficiência energética"],
+            ["selo de qualidade"],
+            ["etiqueta de voltagem"]
+        ],
+        [
+            ["Tarifa que varia de valor de acordo com horários do dia e períodos do ano:"],
+            ["horo-sazonal"],
+            ["ICMS"],
+            ["máxima"]
+        ],
+        [
+            ["Dispositivo usado para controlar a temperatura de um equipamento. Na geladeira pode ser regulado de modo a economizar energia."],
+            ["termostato"],
+            ["termômetro"],
+            ["fotômetro"]
+        ],
+        [
+            ["Equipamento que transforma energia da água ou energia térmica em energia elétrica."],
+            ["turbo-gerador"],
+            ["célula fotovoltaica"],
+            ["coletor hidráulico"]
+        ],
+        [
+            ["Dispositivo simples e econômico usado nas residências brasileiras para secar roupas usando a energia do sol."],
+            ["varal"],
+            ["coletor solar"],
+            ["secadoras elétricas"]
+        ],
+        [
+            ["Usina geradora de eletricidade a partir da energia da água represada."],
+            ["hidroelétrica"],
+            ["nuclear"],
+            ["termoelétrica"]
+        ],
+        [
+            ["Usina geradora de eletricidade a partir da energia atômica."],
+            ["nuclear"],
+            ["hidráulica"],
+            ["hidroelétrica"]
+        ],
+        [
+            ["Usina geradora de eletricidade a partir da queima de um combustível (gás, óleo ou biomassa)."],
+            ["termoelétrica"],
+            ["nuclear"],
+            ["hidroelétrica"]
+        ],
+        [
+            ["É a maneira de expressar o potencial elétrico:"],
+            ["voltagem"],
+            ["amperagem"],
+            ["centímetro cúbico"]
+        ],
+        [
+            ["Classificação que divide os consumidores de acordo com seus gastos de energia."],
+            ["faixa de consumo"],
+            ["programador horário"],
+            ["selo de eficiência energética"]
+        ],
+        [
+            ["Unidade do Sistema Internacional de Unidades (SI) para potência elétrica."],
+            ["W (Watt)"],
+            ["A (Amperes)"],
+            ["V (Volts)"]
+        ],
+        [
+            ["Representa 1.000 watts."],
+            ["KW (Quilowatt)"],
+            ["MW (Milliwatt)"],
+            ["MLW (Millionwatt)"]
+        ],
+        [
+            ["É a unidade que se mede consumo numa residência. Equivale ao dispêndio de uma lâmpada de 100 W durante 10 horas. Custa aproximadamente R$ 0,24 em São Paulo."],
+            ["KWH (Quilowatt hora)"],
+            ["KWM (Quilowatt minuto)"],
+            ["KWA (Quilowatt ano)"]
+        ],
+        [
+            ["Perda de energia numa casa por fios com problema isolamento, conexões mal feitas ou condutores mal dimensionados."],
+            ["fuga de energia"],
+            ["eficiência energética"],
+            ["curto circuito"]
+        ],
+        [
+            ["Fornecido em porcentagem, valor que indica quanto há de água em relação à capacidade total do reservatório."],
+            ["nível dos reservatórios"],
+            ["altitude"],
+            ["gerenciamento de demanda"]
+        ],
+        [
+            ["Gráfico que mostra o consumo de eletricidade ao longo do dia em uma região ou para um grupo de consumidores."],
+            ["curva de carga"],
+            ["tarifa horo-sazonal"],
+            ["faixa de consumo"]
+        ],
+        [
+            ["Empresa à qual se concede ou se delega o serviço de venda de energia elétrica aos consumidores finais."],
+            ["concessionária"],
+            ["usina termoelétrica"],
+            ["matriz energética"]
+        ],
+        [
+            ["Processo ou reação química em que se usa pouco ar, usado, por exemplo, na obtenção de carvão vegetal."],
+            ["pirólise"],
+            ["hidrólise"],
+            ["fotossíntese"]
+        ],
+        [
+            ["Conceito que tenta definir um modo de existência mais duradoura para a vida no planeta."],
+            ["sustentabilidade"],
+            ["planejamento energético"],
+            ["ecologia"]
+        ],
+        [
+            ["Controle do consumo de eletricidade ao longo de um período de tempo"],
+            ["gerenciamento de demanda"],
+            ["KWH (quilowatt hora)"],
+            ["eficiência energética"]
+        ]
+    ]
+}

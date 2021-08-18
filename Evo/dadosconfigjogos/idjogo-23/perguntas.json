@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["Órgão sexual feminino interno que prepara sua parede interna com uma camada de pequenos vasos sanguíneos para receber e alimentar o óvulo fecundado."],
+            ["útero"],
+            ["ovário"],
+            ["vagina"]
+        ],
+        [
+            ["São dois canais que saem do útero, um de cada lado, para receber o óvulo. Local onde geralmente ocorre a fecundação. Antigamente era chamada trompa."],
+            ["tuba uterina"],
+            ["ureter"],
+            ["útero"]
+        ],
+        [
+            ["São um par de glândulas do tamanho e da forma de uma amêndoa, onde a cada mês alternadamente amadurece e é liberado um óvulo. Produzem hormônios femininos, o estrógeno e a progesterona."],
+            ["ovários"],
+            ["rins"],
+            ["útero"]
+        ],
+        [
+            ["Processo no qual, quando o óvulo está maduro, ele rompe a parede do ovário, é acolhido pela tuba uterina e caminha ao encontro do espermatozóide."],
+            ["ovulação"],
+            ["menstruação"],
+            ["nidação"]
+        ],
+        [
+            ["É o nome dado ao processo em que o óvulo fecundado (agora chamado ovo) adere à parede do útero (endométrio) para continuar o desenvolvimento."],
+            ["nidação"],
+            ["fecundação"],
+            ["ovulação"]
+        ],
+        [
+            ["É a eliminação do óvulo não fecundado e da camada interna do útero, na forma de sangramento, através do canal vaginal. É sinal de vida, fertilidade e maturidade de nosso corpo."],
+            ["menstruação"],
+            ["ovulação"],
+            ["nidação"]
+        ],
+        [
+            ["Órgão sensível da mulher que quando estimulado se torna ereto. Fica logo abaixo do monte púbis e acima da abertura da uretra, envolvida pelos pequenos lábios que quando puxados mostram a cabeça ou glande do órgão."],
+            ["clitóris"],
+            ["vagina"],
+            ["vulva"]
+        ],
+        [
+            ["Região compreendida por toda área externa da genitália feminina. Composta por lábios maiores, lábios menores, monte púbis, clitóris."],
+            ["vulva"],
+            ["vagina"],
+            ["útero"]
+        ],
+        [
+            ["São os lados exteriores da vulva que vão do monte púbis até o ânus envolvendo a uretra e a vagina."],
+            ["lábios maiores"],
+            ["lábios menores"],
+            ["clitóris"]
+        ],
+        [
+            ["São dobras de pele úmida dentro dos lábios maiores. Eles começam logo acima do clitóris e terminam abaixo da abertura da vagina."],
+            ["lábios menores"],
+            ["lábios maiores"],
+            ["monte púbis"]
+        ],
+        [
+            ["É a entrada do útero que faz a ligação com a vagina. Normalmente permanece fechado, abrindo ligeiramente durante a menstruação e completamente apenas para o nascimento do bebê. É o local onde se colhem células e secreções para realizar exame anual de prevenção de câncer."],
+            ["colo do útero"],
+            ["vulva"],
+            ["lábios menores"]
+        ],
+        [
+            ["Canal por onde sai a urina. Nos homens termina na ponta do pênis e nas mulheres acima da vagina."],
+            ["uretra"],
+            ["ureter"],
+            ["bexiga"]
+        ],
+        [
+            ["É o caminho que liga o útero ao lado de fora do corpo. É por ela que o sangue menstrual sai e é nela que o pênis entra. Suas paredes além de macias e úmidas, tem a capacidade de se distender para permitir a passagem de um bebê. "],
+            ["vagina"],
+            ["vulva"],
+            ["colo do útero"]
+        ],
+        [
+            ["É uma membrana fina que cobre incompletamente a entrada do canal vaginal. Antigamente, as pessoas diziam que uma pessoa era virgem se ele não tivesse sido rompido."],
+            ["hímen"],
+            ["clitóris"],
+            ["lábios menores"]
+        ],
+        [
+            ["É a abertura do corpo que se usada para a prática do sexo, exige cuidados, pois pode transmitir muitas doenças. É por onde saem as fezes."],
+            ["ânus"],
+            ["vagina"],
+            ["vulva"]
+        ],
+        [
+            ["Órgão que contém gordura e glândulas mamárias que produzem o leite para alimentar o bebê."],
+            ["seio ou mama"],
+            ["ovário"],
+            ["glúteo"]
+        ],
+        [
+            ["É o órgão sexual masculino composto de tecido com muitas veias e artérias que se enchem de sangue causando seu aumento de tamanho e rigidez quando estimulado."],
+            ["pênis"],
+            ["glande"],
+            ["testículo"]
+        ],
+        [
+            ["É a célula reprodutora (gameta) masculina. Ele começa a ser produzido pelos testículos na puberdade. A cada ejaculação são liberados milhões deles."],
+            ["espermatozóide"],
+            ["sêmem"],
+            ["óvulo"]
+        ],
+        [
+            ["Para ela acontecer é interessante que haja o desejo. Quando isso ocorre o corpo passa por modificações transitórias como a ereção do pênis, a umidificação da vulva, a ereção dos pelos, entre outros; podendo ou não atingir o orgasmo. É realizada entre parceiros."],
+            ["relação sexual"],
+            ["vaginite"],
+            ["ejaculação"]
+        ],
+        [
+            ["É um ato saudável e normal para obter satisfação sexual conhecido como “brincadeira solitária”. As mulheres geralmente massageiam a vagina o clitóris ou os seios e os homens fazem o mesmo com o pênis e outras partes do corpo."],
+            ["masturbação"],
+            ["ejaculação"],
+            ["menstruação"]
+        ],
+        [
+            ["Glândulas masculinas que ficam dentro do saco escrotal. Produzem grande quantidade de espermatozóides e o hormônio masculino, a testosterona."],
+            ["testículos"],
+            ["ovários"],
+            ["epidídimo"]
+        ],
+        [
+            ["É uma bolsa pequena de pele, localizada abaixo do pênis, que contém os testículos. Ele mantém a temperatura em torno de 35º C para garantir o desenvolvimento das células germinativas."],
+            ["escroto ou saco escrotal"],
+            ["epidídimo"],
+            ["glande"]
+        ],
+        [
+            ["Líquido no qual os espermatozóides estão contidos e fornece as condições para que eles permaneçam vivos dentro do corpo da mulher até o momento de fecundar o óvulo."],
+            ["sêmem"],
+            ["ejaculação"],
+            ["polução noturna"]
+        ],
+        [
+            ["Jato de sêmem que sai através da uretra. Em cada uma são liberados em média 400 a 600 milhões de espermato-zóides, mas somente um consegue penetrar no óvulo."],
+            ["ejaculação"],
+            ["orgasmo"],
+            ["ereção"]
+        ],
+        [
+            ["É uma ejaculação involuntária que ocorre à noite enquanto a pessoa está dormindo. Muitos meninos ficam assustados porque acordam molhados como se tivessem voltado a fazer 'xixi' na cama."],
+            ["polução noturna"],
+            ["incontinência urinária"],
+            ["lubrificação"]
+        ],
+        [
+            ["É a sensação mais forte durante a relação sexual, o coração bate mais forte, o corpo fica tremulo como se você estivesse numa montanha russa. Na descida essas sensações ficam ainda mais intensas. Ao chegar lá em baixo, você relaxa e seu corpo parece descansar."],
+            ["orgasmo"],
+            ["penetração"],
+            ["lubrificação"]
+        ],
+        [
+            ["É o estado em que o pênis se encontra rígido (duro). Isso acontece por causa do aumento da quantidade de sangue no pênis."],
+            ["ereção"],
+            ["penetração"],
+            ["orgasmo"]
+        ],
+        [
+            ["Presença de substâncias produzidas por glândulas no canal vaginal. A vulva fica úmida, causado por um estímulo, geralmente de prazer. Ela facilita a penetração do pênis e aumenta a sensação de prazer."],
+            ["lubrificação vaginal"],
+            ["gel espermicida"],
+            ["ejaculação"]
+        ],
+        [
+            ["É ato em que o pênis entra na vagina. Nesse ato eles se encaixam, aumentando o prazer de estar junto com o outro, podendo ou não chegar ao orgasmo."],
+            ["penetração"],
+            ["ejaculação"],
+            ["ereção"]
+        ],
+        [
+            ["É a célula reprodutora feminina (gameta). Possui a parte das informações da mãe que determinarão as características do bebê."],
+            ["óvulo"],
+            ["corpo lúteo"],
+            ["espermatozóide"]
+        ],
+        [
+            ["São substancias produzidas por órgãos chamados glândulas. Os da mulher são o estrógeno e a progesterona, o do homem é a testosterona."],
+            ["hormônios sexuais"],
+            ["hormônios da hipófise"],
+            ["hormônios da supra renal"]
+        ],
+        [
+            ["É a fase do desenvolvimento em que as mudanças secundárias do corpo ocorrem de maneira intensa e rápida. Crescem as mãos e os pés, aumentam os pelos, o tronco se modifica, há variação da voz e os órgãos internos quase dobram de tamanho. Fisiologicamente a pessoa já pode ter filhos, mas mental e socialmente ainda não é aconselhável."],
+            ["puberdade"],
+            ["virilidade"],
+            ["fertilidade"]
+        ],
+        [
+            ["Hormônio feminino responsável pela manutenção da gravidez."],
+            ["progesterona"],
+            ["estrógeno"],
+            ["testosterona"]
+        ],
+        [
+            ["É a capacidade de produção e liberação de gametas viáveis (óvulos ou espermatozóides)."],
+            ["fertilidade"],
+            ["fecundidade"],
+            ["esterilidade"]
+        ],
+        [
+            ["É a entrada do espermatozóide no óvulo que ocorre na tuba uterina formando o ovo ou zigoto. É a criação de um novo indivíduo."],
+            ["fecundação"],
+            ["contração"],
+            ["geração"]
+        ],
+        [
+            ["É o período de tempo que, em geral, vai de três dias antes até três dias após a ovulação em que a mulher tem maior chance de engravidar."],
+            ["período fértil"],
+            ["diapausa"],
+            ["período inviável"]
+        ],
+        [
+            ["Característica da mulher ou do homem que pode gerar filhos."],
+            ["fecundidade"],
+            ["esterilidade"],
+            ["fertilidade"]
+        ],
+        [
+            ["Revestimento que recobre o útero. Todos os meses, quando não há fecundação do óvulo, ele é removido pela vagina através da menstruação. Quando ocorre fecundação, é ele que recebe o ovo e garante as condições para o desenvolvimento do embrião."],
+            ["endométrio"],
+            ["colo do útero"],
+            ["miométrio"]
+        ],
+        [
+            ["É a condição que ocorre antes da menstruação, caracterizada por sintomas físicos desconfortáveis (inchaço, cólica, dor de cabeça) e alterações do humor (irritabilidade, tristeza, raiva)."],
+            ["tensão pré-menstrual"],
+            ["tensão pós menstrual"],
+            ["alteração menstrual"]
+        ],
+        [
+            ["É caracterizada por uma dor na região do útero, causada pela contração da musculatura uterina em preparação para a menstruação."],
+            ["cólica menstrual"],
+            ["cólica renal"],
+            ["cólica abdominal"]
+        ],
+        [
+            ["É o estágio de desenvolvimento do bebê que vai da quar-ta até a oitava semana da gravidez. Durante esse período ele fica particularmente sensível a agentes tóxicos como o álcool e a fumaça do tabaco."],
+            ["embrião"],
+            ["feto"],
+            ["ovo"]
+        ],
+        [
+            ["Nome que se dá ao bebê desde a nona semana de desenvolvimento até o seu nascimento."],
+            ["feto"],
+            ["embrião"],
+            ["recém nascido"]
+        ],
+        [
+            ["Interrupção da gravidez antes que o feto tenha condi-ções de sobreviver. Pode ocorrer naturalmente por proble-mas no desenvolvimento do feto ou algo relacionado à mãe (uso de medicamentos ou drogas). No Brasil só é autorizado em casos especiais (estupro, feto mal-formado, risco de morte à mãe). Por ser um procedimento de alto risco, só deve ser feito por um médico e dentro de hospitais."],
+            ["aborto"],
+            ["parto induzido"],
+            ["cesariana"]
+        ],
+        [
+            ["É momento em que a criança já formada sai do corpo da mãe. Pode ocorrer de duas maneiras: natural e cesariana."],
+            ["parto"],
+            ["contração"],
+            ["concepção"]
+        ],
+        [
+            ["É o parto realizado pelo corte da parede do abdômen e do útero. Só é recomendado quando for mais seguro que o parto via vaginal. De modo geral traz mais inconvenientes para a mãe e para o recém-nascido."],
+            ["parto cesariano"],
+            ["parto natural"],
+            ["parto prematuro"]
+        ],
+        [
+            ["É o parto em que a criança sai pelo canal vaginal da mãe."],
+            ["parto natural"],
+            ["parto cesariano"],
+            ["parto pré maturo"]
+        ],
+        [
+            ["É o fenômeno da abertura do colo útero que permite a passagem do bebê para o canal vaginal."],
+            ["dilatação"],
+            ["contração"],
+            ["dispersão"]
+        ],
+        [
+            ["É uma membrana que envolve o feto e contem o líquido amniótico que protege o bebê de choques e evita que ele se desidrate. Logo antes do parto ela se rompe e o líquido sai pela vagina."],
+            ["bolsa"],
+            ["amnésia"],
+            ["amenorréia"]
+        ],
+        [
+            ["Movimentos que os músculos do útero fazem ajudando a mãe na hora do parto, empurrando o bebê para fora do seu corpo."],
+            ["contração"],
+            ["contracepção"],
+            ["dilatação"]
+        ],
+        [
+            ["Tipo de anestesia que é completa e afeta todo o corpo onde a pessoa dorme, perde a sensibilidade e deixa de sentir dor."],
+            ["geral"],
+            ["raquidiana"],
+            ["local"]
+        ],
+        [
+            ["Anestesia aplicada próxima aos nervos contidos dentro da coluna vertebral. Indicada nas cirurgias feitas nas regiões do umbigo para baixo. Nestes tipos de anestesias a pessoa fica acordada, não perde a sensibilidade e deixa de sentir dor."],
+            ["peridural"],
+            ["local"],
+            ["geral"]
+        ],
+        [
+            ["Anestesia indicada para operações simples que envolvem pequenas áreas."],
+            ["local"],
+            ["peridural"],
+            ["geral"]
+        ],
+        [
+            ["Pratica de atos sexuais com parceiro do mesmo sexo:"],
+            ["homossexualismo"],
+            ["heterosexualismo"],
+            ["pansexualismo"]
+        ],
+        [
+            ["É o primeiro leite que a mãe produz durante 3 ou 4 dias após o parto. É um líquido transparente de cor amarelada. É um leite muito nutritivo e capaz de proteger o recém-nascido contra várias doenças."],
+            ["colostro"],
+            ["bile"],
+            ["linfa"]
+        ],
+        [
+            ["O aleitamento materno garante um alimento completo, protege contra infecções e melhora a relação entre mãe e filho. Recomenda-se manter durante, no mínimo:"],
+            ["seis meses"],
+            ["um mês"],
+            ["doze semanas"]
+        ],
+        [
+            ["Métodos como a camisinha, o DIU, e a tabelinha, usados com o propósito de evitar que aconteça a gravidez são chamados:"],
+            ["contraceptivos"],
+            ["conceptivos"],
+            ["peridurais"]
+        ],
+        [
+            ["É o nome comum de um método contraceptivo, usado pelo homem, capaz de prevenir a gravidez e também as DST’s (doenças sexualmente transmitidas)."],
+            ["camisinha"],
+            ["diafragma"],
+            ["coito interrompido"]
+        ],
+        [
+            ["É o estado em que deve estar o pênis para colocação correta da camisinha."],
+            ["ereto"],
+            ["flácido"],
+            ["em qualquer estado"]
+        ],
+        [
+            ["É um outro nome dado à camisinha."],
+            ["preservativo"],
+            ["espermicida"],
+            ["diafragma"]
+        ],
+        [
+            ["Material produzido a partir da seringueira, do qual, em geral, são feitas as camisinhas."],
+            ["látex"],
+            ["silicone"],
+            ["polietileno"]
+        ],
+        [
+            ["É um método contraceptivo, usado pela mulher, capaz de prevenir a gravidez e também as DST's (doenças sexualmente transmitidas)."],
+            ["camisinha feminina"],
+            ["pílula contraceptiva"],
+            ["gel espermicida"]
+        ],
+        [
+            ["É o lubrificante seguro que pode ser usado com a camisinha por não danificar o látex."],
+            ["lubrificante a base de água"],
+            ["vaselina"],
+            ["lubrificante a base de óleo"]
+        ],
+        [
+            ["É um lubrificante a base de petróleo que não deve ser usado com a camisinha porque danifica o látex levando ao rompimento desta."],
+            ["vaselina"],
+            ["DIU"],
+            ["gel espermicida"]
+        ],
+        [
+            ["Método contraceptivo que não é muito indicado para as mulheres que possuem ciclos menstruais não regulares. O método constitui na abstinência sexual durante o período fértil."],
+            ["tabelinha"],
+            ["pílula contraceptiva"],
+            ["camisinha"]
+        ],
+        [
+            ["Hormônio feminino que estimula o desenvolvimento e manutenção das características sexuais secundárias."],
+            ["estrógeno"],
+            ["testosterona"],
+            ["progesterona"]
+        ],
+        [
+            ["Hormônio masculino que estimula o desenvolvimento e manutenção das características sexuais secundárias."],
+            ["testosterona"],
+            ["estrógeno"],
+            ["progesterona"]
+        ],
+        [
+            ["São características sexuais que diferenciam os sexos como a pele mais macia e a menor quantidade de pelos na mulher. Também a distribuição de gordura pelo corpo que faz com que a mulher tenha quadris mais largos, ventre mais saliente e coxas mais roliças."],
+            ["secundárias"],
+            ["terciárias"],
+            ["primárias"]
+        ],
+        [
+            ["É um dispositivo de plástico ou metálico colocado dentro do útero que evita a implantação do ovo. Deve ser colocado por um profissional especializado com revisões realizadas em intervalos regulares."],
+            ["DIU"],
+            ["diafragma"],
+            ["camisinha feminina"]
+        ],
+        [
+            ["Anel flexível, côncavo, coberto de borracha, que cobre a entrada do útero, usado pela mulher como método contraceptivo. Deve ser colocado 30 minutos antes da relação e retirado somente 6 horas após a relação."],
+            ["diafragma"],
+            ["DIU"],
+            ["camisinha feminina"]
+        ],
+        [
+            ["Pomada que inativa os espermatozóides e que deve sempre ser usado junto com o diafragma."],
+            ["gel espermicida"],
+            ["lubrificante a base de água"],
+            ["lubrificante a base de óleo"]
+        ],
+        [
+            ["Método contraceptivo que consiste na retirada do pênis antes de ocorrer a ejaculação."],
+            ["coito interrompido"],
+            ["ejaculação precoce"],
+            ["ejaculação tardia"]
+        ],
+        [
+            ["Método contraceptivo baseado no uso de hormônios, na forma de pílula que deve ser tomado diariamente, de preferência no mesmo horário. Toma-se as pílulas seguindo o sentido das setas contidas no verso da cartela."],
+            ["anticoncepcional oral"],
+            ["pílula do dia seguinte"],
+            ["injeção hormonal"]
+        ],
+        [
+            ["Método contraceptivo consistindo de aplicação intramuscular de hormônios sexuais femininos, usados para impedir a gravidez. Pode ser aplicado mensal ou trimestralmente."],
+            ["injeção hormonal"],
+            ["diafragma"],
+            ["DIU"]
+        ],
+        [
+            ["É um método contraceptivo que pode ser utilizado após a relação sexual e que impede a implantação do embrião no útero. Por conter altas taxas de hormônio deve ser usado somente em situações de emergência."],
+            ["pílula do dia seguinte"],
+            ["DIU"],
+            ["injeção hormonal"]
+        ],
+        [
+            ["Métodos contraceptivos definitivos realizados por meio de cirurgia respectivamente em mulheres e homens."],
+            ["laqueadura e vasectomia"],
+            ["endoscopia e laqueadura"],
+            ["vasectomia e laqueadura"]
+        ]
+    ]
+}

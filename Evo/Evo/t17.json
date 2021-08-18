@@ -1,0 +1,452 @@
+
+{
+    "c2array": true,
+    "size": [74,4,1],
+    "data":
+    [
+        [
+            ["Primeira era geológica iniciada há 4,6 bilhões de anos na qual surgiram os primeiros seres vivos há 3,5 bilhões de anos, que foram chamados de microsferas:"],
+            ["Proteozóica"],
+            ["Cambriana"],
+            ["Mesozóica"]
+        ],
+        [
+            ["Nome dado aos primeiros seres vivos surgidos há 3,5 bilhões de anos na 1ª era geológica, a Proteozóica ou Pré-Cambriana, e que eram semelhantes aos procariotos atuais, as bactérias e cianofíceas:"],
+            ["microsfera"],
+            ["trilobitas"],
+            ["algas azuis"]
+        ],
+        [
+            ["Organismos unicelulares que não possuem núcleo delimitado, aos quais se assemelhavam as microsferas, os primeiros seres vivos surgidos há 3,5 bilhões de anos na 1ª era geológica, a Proteozóica ou Pré-Cambriana:"],
+            ["procariotos"],
+            ["eucariotos"],
+            ["protocordados"]
+        ],
+        [
+            ["Organismos multicelulares com núcleo delimitado que surgiram há 2 bilhões de anos, na 1ª era geológica, a Proteozóica ou Pré-Cambriana e dos quais evoluíram os primeiros invertebrados:"],
+            ["eucariotos"],
+            ["procariotos"],
+            ["protocordados"]
+        ],
+        [
+            ["Organismos procariotos aos quais as microsferas se assemelhavam, que surgiram há 3,5 bilhões de anos, na 1ª era geológica, a Proteozóica ou Pré-Cambriana:"],
+            ["bactérias"],
+            ["vírus"],
+            ["leveduras"]
+        ],
+        [
+            ["Organismos procariotos aos quais as microsferas se assemelhavam, que surgiram há 3,5 bilhões de anos, na 1ª era geológica, a Proteozóica ou Pré-Cambriana:"],
+            ["cianofíceas"],
+            ["leveduras"],
+            ["protozoários"]
+        ],
+        [
+            ["Segunda era geológica, iniciada há 390 milhões anos e que se divide em 6 períodos: Cambriano, Ordoviciano, Siluriano, Devoniano, Carbonífero e Permiano:"],
+            ["Paleozóica"],
+            ["Cenozóica"],
+            ["Mesozóica"]
+        ],
+        [
+            ["Primeiro período da 2ª era geológica, Paleozóica, iniciada há 590 milhões de anos, no qual ocorreu o surgimento dos moluscos e artrópodes aquáticos, ocorrendo o domínio dos trilobitas, organismos semelhantes aos crustáceos:"],
+            ["Cambriano"],
+            ["Siluriano"],
+            ["Devoniano"]
+        ],
+        [
+            ["Organismos semelhantes aos crustáceos que tiveram seu domínio no Cambriano há cerca de 590 milhões de anos, 1º período da 2ª era geológica, a Paleozóica:"],
+            ["trilobitas"],
+            ["cianobactérias"],
+            ["anfioxo"]
+        ],
+        [
+            ["Segundo período da 2ª era geológica, a Paleozóica, iniciada há 505 milhões de anos, no qual surgem os primeiros vertebrados, representado pelo anfioxo:"],
+            ["Ordoviciano"],
+            ["Devoniano"],
+            ["Permiano"]
+        ],
+        [
+            ["Representante do 1º vertebrado que surgiu há cerca de 505 milhões de anos no Ordoviciano, 2º período da 2ª era geológica, a Paleozóica:"],
+            ["anfioxo"],
+            ["alga azul"],
+            ["trilobita"]
+        ],
+        [
+            ["Terceiro período da 2ª era geológica, a Paleozóica, que iniciou há 438 milhões de anos, no qual ocorreu a conquista do ambiente terrestre pelos artrópodes:"],
+            ["Siluriano"],
+            ["Carbonífero"],
+            ["Ordoviciano"]
+        ],
+        [
+            ["Quarto período da 2ª era geológica, a Paleozóica, iniciado há 408 milhões de anos, no qual houve evolução dos peixes condrictes e osteíctes e o surgimento dos primeiros insetos sem asas e anfíbios:"],
+            ["Devoniano"],
+            ["Permiano"],
+            ["Triássico"]
+        ],
+        [
+            ["Terceira era geológica, iniciada há 248 milhões de anos e que se dividiu em 3 períodos: Triássico, Jurássico e Cretáceo:"],
+            ["Mesozóica"],
+            ["Pré-Cambriana"],
+            ["Paleozóica"]
+        ],
+        [
+            ["Primeiro período da 3ª era geológica, a Mesozóica, iniciado há 248 milhões de anos, no qual houve domínio dos répteis e no qual surgiram os primeiros dinossauros e mamíferos:"],
+            ["Triássico"],
+            ["Jurássico"],
+            ["Cretáceo"]
+        ],
+        [
+            ["Segundo período da 3° era geológica, a Mesozóica, iniciado há aproximadamente 213 milhões de anos, conhecido como o período dos dinossauros, com o surgimento do alossauro (ancestral do tiranossauro) e de répteis semelhantes a aves:"],
+            ["Jurássico"],
+            ["Triássico"],
+            ["Carbonífero"]
+        ],
+        [
+            ["Terceiro período da 3° era geológica, a Mesozóica, iniciado há 144 milhões de anos, no qual surge o tiranossauro e em cujo final há também a extinção dos dinossauros:"],
+            ["Cretáceo"],
+            ["Devoniano"],
+            ["Jurássico"]
+        ],
+        [
+            ["Réptil surgido há 248 milhões de anos no Triássico, 1° período da 3° era geológica, a Mesozóica, que dominou o segundo período da mesma era, o Jurássico, há 213 milhões de anos, e que se extinguiu no 3° período desta era, o Cretáceo, há 144 milhões de anos:"],
+            ["dinossauro"],
+            ["anfioxo"],
+            ["crocodilo"]
+        ],
+        [
+            ["Um dos maiores dinossauros carnívoros que surgiu no final do Cretáceo (há 144 milhões de anos), 3° período da 3° era geológica, a Mesozóica, e que teve como ancestral o alossauro, vivido há 213 milhões de anos no Jurássico, 2° período da mesma era:"],
+            ["tiranossauro"],
+            ["velociraptor"],
+            ["braquiossauro"]
+        ],
+        [
+            ["Dinossauro ancestral do tiranossauro que surgiu no Jurássico (há 213 milhões de anos), 2° período da 3° era geológica, a Mesozóica:"],
+            ["alossauro"],
+            ["braquiossauro"],
+            ["velociraptor"]
+        ],
+        [
+            ["Quarta era geológica, iniciada há 65 milhões de anos, que se divide em 2 períodos: Terciário e Quaternário:"],
+            ["Cenozóica"],
+            ["Mesozóica"],
+            ["Proterozóica"]
+        ],
+        [
+            ["Primeiro período da 4° era geológica, a Cenozóica, iniciado há 65 milhões de anos, no qual ocorreu a diversificação dos mamíferos. Nele surgem os primeiros primatas, que evoluíram para a família dos hominídeos, há 20 milhões de anos, à qual pertence o Homo sapiens sapiens surgido há 90 mil anos:"],
+            ["Terciário"],
+            ["Quaternário"],
+            ["Carbonífero"]
+        ],
+        [
+            ["Segundo e atual período da 4° era geológica, a Cenozóica, iniciado há 1,8 milhões de anos, no qual houve o surgimento da espécie Homo erectus, que descobriu o fogo; da espécie Homo sapiens (há 300 mil de anos), que evoluiu para nossa espécie Homo sapiens sapiens; e das primeiras civilizações, há 12 mil anos:"],
+            ["Quaternário"],
+            ["Terciário"],
+            ["Cretáceo"]
+        ],
+        [
+            ["Iniciou-se a primeira era geológica, Proteozóica ou Pré-cambriana, na qual surgiram os primeiros seres vivos que foram chamados de microsferas. Data em bilhões de anos:"],
+            ["4,6"],
+            ["3,4"],
+            ["1,5"]
+        ],
+        [
+            ["Iniciou-se a segunda era geológica, Paleozóica, que é dividida em cinco períodos geológicos: Cambriano, Ordoviciano, Siluriano, Devoniano e Carbonífero, sendo o Cambriano seu primeiro período datado da mesma época. Era em que surgem os trilobitas. Data em milhões de anos:"],
+            ["590"],
+            ["505"],
+            ["438"]
+        ],
+        [
+            ["Início do período Ordoviciano, 2º período da 2ª era geológica, a Paleozóica, que ficou marcado pelo surgimento do 1º vertebrado. Data em milhões de anos:"],
+            ["505"],
+            ["590"],
+            ["408"]
+        ],
+        [
+            ["Início do Siluriano, 3º período da era Paleozóica, 2ª era geológica, período no qual houve a conquista do ambiente terrestre pelos artrópodes. Data em milhões de anos:"],
+            ["438"],
+            ["408"],
+            ["505"]
+        ],
+        [
+            ["Início do Devoniano, 4º período da 2ª era geológica, a Paleozóica, na qual surgem os primeiros insetos sem asas e os primeiros anfíbios. Data em milhões de anos:"],
+            ["408"],
+            ["360"],
+            ["438"]
+        ],
+        [
+            ["Início do 5º e último período da era Paleozóica, o Carbonífero, no qual surgem os primeiros insetos com asas e os primeiros répteis. Data em milhões de anos:"],
+            ["360"],
+            ["248"],
+            ["438"]
+        ],
+        [
+            ["Início da 3ª era geológica, a Mesozóica que se divide em 3 períodos: Triássico, Jurássico e Cretáceo, dos quais o Triássico é o 1º datado da mesma época. Era em que surgiram os mamíferos. Data em milhões de anos:"],
+            ["248"],
+            ["213"],
+            ["360"]
+        ],
+        [
+            ["Início do Jurássico, 2º período da 3ª era geológica, a Mesozóica, período conhecido também como “Período dos Dinossauros” com o surgimento do alossauro e dos primeiros ancestrais das aves. Data em milhões de anos:"],
+            ["213"],
+            ["144"],
+            ["248"]
+        ],
+        [
+            ["Início do Cretáceo, 3º período da era Mesozóica, no qual surge o tiranossauro e em cujo final se extinguem os dinossauros. Data em milhões de anos:"],
+            ["144"],
+            ["213"],
+            ["65"]
+        ],
+        [
+            ["Início da era Cenozóica que é dividida em dois períodos: Terciário e Quaternário. Início também do primeiro período dessa era, o Terciário. Data em milhões de anos:"],
+            ["65"],
+            ["144"],
+            ["213"]
+        ],
+        [
+            ["Início do Quaternário, 2º e último período da era Cenozóica no qual surgiram espécies importantes como Homo erectus, Homo sapiens e Homo sapiens sapiens. Data em milhões de anos:"],
+            ["1,8"],
+            ["144"],
+            ["6"]
+        ],
+        [
+            ["Data que marca o surgimento da espécie Homo sapiens que posteriormente evoluiu para Homo sapiens sapiens:"],
+            ["300.000 anos"],
+            ["90.000 anos"],
+            ["1,8 milhões de anos"]
+        ],
+        [
+            ["Data estimada de surgimento da subespécie Homo sapiens sapiens que é o ser humano derivado da espécie Homo sapiens que são indivíduos da família dos Hominídeos. Data em milhares de anos:"],
+            ["120"],
+            ["300"],
+            ["12"]
+        ],
+        [
+            ["Característica dos organismos eucariotos que surgiram há 2 bilhões de anos na era Paleozóica ou Pré-Cambriana atribuída aos organismos que possuem mais de uma célula:"],
+            ["multicelulares"],
+            ["unicelulares"],
+            ["acelulares"]
+        ],
+        [
+            ["Organismos vivos que surgiram há 3,5 bilhões de anos na era Proteozóica ou Pré-Cambriana e que eram seres semelhantes aos procariotos:"],
+            ["primeiros seres vivos"],
+            ["trilobitas"],
+            ["anfioxos"]
+        ],
+        [
+            ["Característica dos organismos procariotos que surgiram na era Proteozóica ou Pré-Cambriana e que podem ser representados por bactérias e/ou cianofíceas:"],
+            ["unicelulares"],
+            ["multicelulares"],
+            ["acelulares"]
+        ],
+        [
+            ["Animais aos quais se assemelhavam os trilobitas que eram animais que dominavam o Cambriano, 1º período da era Paleozóica:"],
+            ["crustáceos"],
+            ["insetos"],
+            ["vermes"]
+        ],
+        [
+            ["Animais surgidos no Cambriano, período que iniciou-se há 590 milhões de anos no início da era Paleozóica:"],
+            ["moluscos"],
+            ["artrópodes aquáticos"],
+            ["crustáceos"]
+        ],
+        [
+            ["Grandes grupos de animais que surgiram no período Ordoviciano, 2º período da era Paleozóica e que primeiramente foi representado pelo anfioxo há cerca de 505 milhões de anos e posteriormente evoluí para outros grupos, como por exemplo, peixes agnatas:"],
+            ["vertebrados"],
+            ["invertebrados"],
+            ["protocordados"]
+        ],
+        [
+            ["Animais surgidos no Cambriano, período que se iniciou há 590 milhões de anos no início da era Paleozóica:"],
+            ["artrópodes aquáticos"],
+            ["aves"],
+            ["dinossauros"]
+        ],
+        [
+            ["Grupo de peixes que não possuem mandíbulas evoluídos do grande grupo dos vertebrados, no Ordoviciano, 2º período da era Paleozóica:"],
+            ["peixes agnatas"],
+            ["anfioxos"],
+            ["osteíctes"]
+        ],
+        [
+            ["Ambiente conquistado pelos artrópodes, no Siluriano, 3º período da era Paleozóica, datado em 438 milhões de anos:"],
+            ["terrestre"],
+            ["aquático"],
+            ["marinho"]
+        ],
+        [
+            ["Animais que primeiro conquistaram o ambiente terrestre, no Siluriano, há cerca de 400 milhões de anos na era Paleozóica:"],
+            ["artrópodes"],
+            ["peixes"],
+            ["mamíferos"]
+        ],
+        [
+            ["Grupo de peixes que possuem esqueleto cartilaginoso que evoluíram no Devoniano, 4º período da era Paelozóica datado em 408 milhões de anos. Grupo a que pertencem os tubarões:"],
+            ["condrictes"],
+            ["agnatas"],
+            ["osteíctes"]
+        ],
+        [
+            ["Grupo de peixes de esqueleto ósseo que evoluíram no Devoniano, 4º período da era Paleozóica iniciado há 408 milhões de anos:"],
+            ["osteíctes"],
+            ["condríctes"],
+            ["agnatas"]
+        ],
+        [
+            ["Animais surgidos no Devoniano, 4º período da era Paleozóica no qual surgiram também os primeiros anfíbios:"],
+            ["insetos sem asas"],
+            ["peixes"],
+            ["moluscos"]
+        ],
+        [
+            ["Animais surgidos no Devoniano, 4º período da era Paleozóica. Período no qual surgiram também os primeiros insetos sem asas:"],
+            ["anfíbios"],
+            ["répteis"],
+            ["peixes"]
+        ],
+        [
+            ["Animais que dominaram a Terra, surgidos no Carbonífero, 5º período da era Paelozóica iniciado há 360 milhões de anos. Período no qual surgiram também os primeiros insetos com asas:"],
+            ["répteis"],
+            ["anfíbios"],
+            ["moluscos"]
+        ],
+        [
+            ["Animais que dominaram a Terra, surgidos no Carbonífero, 5º período da era Paelozóica iniciado há 360 milhões de anos. Período no qual surgiram também os primeiros répteis:"],
+            ["insetos com asas"],
+            ["insetos sem asas"],
+            ["crustáceos"]
+        ],
+        [
+            ["Ambiente dominado pelos répteis no período Carbonífero há cerca de 360 milhões de anos:"],
+            ["terra"],
+            ["água"],
+            ["ar"]
+        ],
+        [
+            ["Animais que surgiram no Triássico, 1º período da era Mesozóica iniciado há 248 milhões de anos. Nesse período também surgiram os primeiros dinossauros. Esses animais tiveram grande diversificação no Terciário, na era Cenozóica:"],
+            ["mamíferos"],
+            ["répteis"],
+            ["anfíbios"]
+        ],
+        [
+            ["Animais aos quais alguns répteis se assemelhavam no Jurássico, 2º período da era Mesozóica marcando início do seu surgimento. Tiveram grande diversificação no período Terciário na era Cenozóica:"],
+            ["aves"],
+            ["mamíferos"],
+            ["anfíbios"]
+        ],
+        [
+            ["Período iniciado no Triássico e com fim no Cretáceo existente durante toda era Mesozóica e que teve grande dominância no Jurássico:"],
+            ["era dos dinossauros"],
+            ["glaciação"],
+            ["vulcanismo"]
+        ],
+        [
+            ["Data que marca o surgimento da família dos hominídeos que é uma evolução dos primatas que surgiram no Terciário, 1º período da era Cenozóica:"],
+            ["20 milhões de anos"],
+            ["1,8 milhão de anos"],
+            ["300.000 anos"]
+        ],
+        [
+            ["Organização social iniciada no Quaternário, 2º período da era Cenozóica há cerca de 12 mil anos num processo conhecido como evolução cultural:"],
+            ["civilização"],
+            ["agricultura"],
+            ["tribalismo"]
+        ],
+        [
+            ["Data que marca o início das primeiras civilizações no Quaternário na era Cenozóica num processo chamado de evolução cultural:"],
+            ["12 mil anos"],
+            ["15 mil anos"],
+            ["90 mil anos"]
+        ],
+        [
+            ["Processo que ocorreu há 12 mil anos no Quaternário na era Cenozóica a partir do qual surgiram as primeiras civilizações:"],
+            ["evolução cultural"],
+            ["descoberta do fogo"],
+            ["surgimento da agricultura"]
+        ],
+        [
+            ["Importante descoberta pela espécie Homo erectus, no período Quaternário, na era Cenozóica, há 1,8 milhões de anos:"],
+            ["fogo"],
+            ["sílex"],
+            ["roda"]
+        ],
+        [
+            ["Ambiente no qual viviam os primeiros seres vivos que surgiram há 3,5 bilhões de anos na era Proteozóica ou Pré-Cambriana, primeira era geológica e que foram chamados de microsferas e eram semelhantes aos procariotos:"],
+            ["marinho"],
+            ["terrestre"],
+            ["lacustre"]
+        ],
+        [
+            ["É o hábito de vida exclusivo dos primeiros invertebrados que evoluíram a partir dos eucariotos da era Proteozóica ou Pré-Cambriana:"],
+            ["aquático"],
+            ["terrestre"],
+            ["sub-aquático"]
+        ],
+        [
+            ["Data que marca a conquista do ambiente terrestre pelos artrópodes no período Siluriano na era Paleozóica:"],
+            ["400 milhões de anos"],
+            ["213 milhões de anos"],
+            ["108 milhões de anos"]
+        ],
+        [
+            ["Sexto e último período da era Paleozóica iniciado há 286 milhões de anos, foi um período marcado pelo frio e seca e que favoreceu o domínio dos répteis:"],
+            ["Permiano"],
+            ["Devoniano"],
+            ["Siluriano"]
+        ],
+        [
+            ["Data de início do período Permiano, 6º período da 2ª era geológica, a Paleozóica. Esse foi um período marcado pelo clima frio e seco e que favoreceu o domínio dos répteis. Em milhões de anos atrás:"],
+            ["286"],
+            ["108"],
+            ["400"]
+        ],
+        [
+            ["Características marcantes do clima do Permiano, 6º período da era Paleozóica e que favoreceram o domínio dos répteis:"],
+            ["frio e seco"],
+            ["quente e úmido"],
+            ["frio e úmido"]
+        ],
+        [
+            ["Espécie próxima à do homem atual que surgiu há 1,8 milhões de anos, no Quaternário, 2° e último período da 4° era geológica, a Cenozóica, e que foi caracterizada pelo descobrimento do fogo:"],
+            ["Homo erectus"],
+            ["Homo sapiens"],
+            ["Homo sapiens sapiens"]
+        ],
+        [
+            ["Espécie que surgiu há aproximadamente 300 mil anos, no Quartenário (período em que surgiram as primeiras civilizações em um processo chamado evolução cultural). Essa espécie evoluiu para o ser humano atual:"],
+            ["Homo sapiens"],
+            ["Homo erectus"],
+            ["Homo habilis"]
+        ],
+        [
+            ["Subespécie que surgiu há 90 mil anos que é representada pelo primeiro homem moderno e evoluiu da espécie Homo sapiens. Também conhecido como Cro-magnos:"],
+            ["Homo sapiens sapiens"],
+            ["Homo sapiens archaic"],
+            ["Homo sapiens neandertalensis"]
+        ],
+        [
+            ["Data de aparecimento dos primeiros hominídeos (gênero Australopithecus) na África. Eram bípedes e tinham cérebros aumentados. Em milhões de anos atrás:"],
+            ["4,5"],
+            ["25"],
+            ["2,0"]
+        ],
+        [
+            ["Data da extinção dos dinossauros no período Cretáceo. Em milhões de anos atrás:"],
+            ["65"],
+            ["144"],
+            ["40"]
+        ],
+        [
+            ["Data estimada da formação do Planeta Terra. Em bilhões de anos atrás:"],
+            ["4,5"],
+            ["14,7"],
+            ["3,5"]
+        ],
+        [
+            ["Data de aparecimento da reprodução sexual (e do sexo) na Terra com meiose e recombinação. Em milhões de anos atrás:"],
+            ["1.500"],
+            ["200"],
+            ["670"]
+        ]
+    ]
+}

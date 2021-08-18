@@ -1,0 +1,458 @@
+
+{
+    "c2array": true,
+    "size": [75,4,1],
+    "data":
+    [
+        [
+            ["A base física da herança é determinada pelos (as):"],
+            ["genes"],
+            ["gônadas"],
+            ["hormônios"]
+        ],
+        [
+            ["O núcleo do zigoto humano contém 46 cromossomos que são de origem:"],
+            ["materna e paterna"],
+            ["materna"],
+            ["paterna"]
+        ],
+        [
+            ["Animal ou vegetal contendo DNA de outra espécie inserido artificialmente."],
+            ["transgênico"],
+            ["clone"],
+            ["biotecnologia"]
+        ],
+        [
+            ["Um homem recebe, através do esperma de seu pai, um cromossomo:"],
+            ["Y"],
+            ["X"],
+            ["X ou Y"]
+        ],
+        [
+            ["Ramo da Biologia que estuda as semelhanças e as diferenças entre organismos de uma mesma linhagem, através das gerações:"],
+            ["Genética"],
+            ["Evolução"],
+            ["Citologia"]
+        ],
+        [
+            ["Os indivíduos que formam dois tipos de gametas são denominados:"],
+            ["heterozigotos"],
+            ["homozigotos"],
+            ["hemizigotos"]
+        ],
+        [
+            ["A característica genética que pode “permanecer” oculta em algumas gerações é chamada:"],
+            ["recessiva"],
+            ["dominante"],
+            ["heterozigota"]
+        ],
+        [
+            ["As células somáticas, na espécie humana, quanto ao número de cromossomos, são:"],
+            ["diplóides"],
+            ["haplóides"],
+            ["germinativas"]
+        ],
+        [
+            ["As características genéticas dos organismos são condicionadas por pares de:"],
+            ["alelos"],
+            ["cromátides"],
+            ["fenótipos"]
+        ],
+        [
+            ["Quanto ao número de cromossomos, o gameta apresenta (...) daquele encontrado no zigoto."],
+            ["a metade"],
+            ["o dobro"],
+            ["o mesmo número"]
+        ],
+        [
+            ["Para formar um indivíduo, o ovo sofre:"],
+            ["mitose"],
+            ["meiose"],
+            ["clonagem"]
+        ],
+        [
+            ["As informações hereditárias estão contidas em estruturas denominadas:"],
+            ["genes"],
+            ["centríolos"],
+            ["plastos"]
+        ],
+        [
+            ["O conjunto cromossômico nos espermatozóides do homem é representado pelo cromossomo X ou Y mais (...) autossomos."],
+            ["22"],
+            ["23"],
+            ["46"]
+        ],
+        [
+            ["O sexo de uma criança que se origina da união de um óvulo com um espermatozóide contendo 22 autossomos mais um X será:"],
+            ["feminino"],
+            ["masculino"],
+            ["masculino ou feminino"]
+        ],
+        [
+            ["Um caráter recessivo que se expressa num indivíduo não pode estar em:"],
+            ["heterozigose"],
+            ["hemizigose"],
+            ["homozigose"]
+        ],
+        [
+            ["Nos animais, a divisão celular denominada meiose ocorre nas:"],
+            ["gônadas"],
+            ["células somáticas"],
+            ["células hepáticas"]
+        ],
+        [
+            ["Tipo de divisão celular em que as células-filhas recebem o mesmo número de cromossomos da célula-mãe:"],
+            ["mitose"],
+            ["meiose"],
+            ["metáfase"]
+        ],
+        [
+            ["Nas gônadas dos animais ocorre, principalmente, divisões celulares do tipo:"],
+            ["meiose"],
+            ["mitose"],
+            ["osmose"]
+        ],
+        [
+            ["Divisão celular em que há produção de 4 células, cada uma com metade do número de cromossomos que caracteriza a espécie:"],
+            ["meiose"],
+            ["osmose"],
+            ["mitose"]
+        ],
+        [
+            ["Herança ligada ao sexo, que resulta em uma anomalia que impede a coagulação do sangue, como no caso de um ferimento:"],
+            ["hemofilia"],
+            ["diabetes"],
+            ["albinismo"]
+        ],
+        [
+            ["Os óvulos de uma mulher, quanto ao número cromossômico, são células do tipo:"],
+            ["haplóide"],
+            ["diplóide"],
+            ["tetraplóide"]
+        ],
+        [
+            ["Os espermatozóides, quanto ao número cromossômico, são exemplos de células:"],
+            ["haplóides"],
+            ["diplóides"],
+            ["tetraplóides"]
+        ],
+        [
+            ["Do ponto de vista genético, o ambiente é um dos fatores que determina o:"],
+            ["fenótipo"],
+            ["genótipo"],
+            ["cromossomo"]
+        ],
+        [
+            ["Nas espécies com reprodução sexuada, a meiose impede que o número de cromossomos (...) de geração para geração."],
+            ["duplique"],
+            ["continue o mesmo"],
+            ["reduza à metade"]
+        ],
+        [
+            ["A mitose de células diplóides resulta na produção de células:"],
+            ["diplóides"],
+            ["haplóides"],
+            ["sexuais"]
+        ],
+        [
+            ["A meiose nas gônadas de indivíduos diplóides resulta na produção de células:"],
+            ["haplóides"],
+            ["diplóides"],
+            ["sexuais"]
+        ],
+        [
+            ["Em uma mulher normal, o conjunto cromossômico presente em seus óvulos é constituído por um cromossomo X mais:"],
+            ["22 autossomos"],
+            ["22 sexuais"],
+            ["23 autossomos"]
+        ],
+        [
+            ["Em uma mulher, sem anomalias, o conjunto cromossômico de seus óvulos é representado por 22 autossomos mais:"],
+            ["X ou Y"],
+            ["XX"],
+            ["X"]
+        ],
+        [
+            ["As células do tecido epitelial são exemplos de células:"],
+            ["somáticas"],
+            ["mutantes"],
+            ["germinativas"]
+        ],
+        [
+            ["Estrutura localizada no núcleo da célula eucariota que contém os genes:"],
+            ["cromossomo"],
+            ["embrião"],
+            ["nucléolo"]
+        ],
+        [
+            ["Em um loco gênico, o alelo que não é expresso na presença de outro é chamado:"],
+            ["recessivo"],
+            ["dominante"],
+            ["homozigoto"]
+        ],
+        [
+            ["O sexo de uma criança gerada pela união de um óvulo X e um espermatozóide X será:"],
+            ["feminino"],
+            ["masculino"],
+            ["indeterminado"]
+        ],
+        [
+            ["O fenótipo resulta da interação do genótipo com o (os):"],
+            ["ambiente"],
+            ["alelos"],
+            ["heterozigoto"]
+        ],
+        [
+            ["Do ponto de vista genético, a aparência de um indivíduo constitui o seu:"],
+            ["fenótipo"],
+            ["genótipo"],
+            ["cromossomo"]
+        ],
+        [
+            ["Quando se diz que um indivíduo é sardento e heterozigoto para esse caráter, isso significa que sardento é um caráter:"],
+            ["dominante"],
+            ["recessivo"],
+            ["homozigoto"]
+        ],
+        [
+            ["Na espécie humana o número diplóide (2n) de cromossomos é:"],
+            ["46"],
+            ["23"],
+            ["44"]
+        ],
+        [
+            ["Considera-se como herança ligada ao sexo a que ocorre através do cromossomo:"],
+            ["X"],
+            ["Y"],
+            ["X e Y"]
+        ],
+        [
+            ["As células somáticas apresentam cromossomos sexuais em número de:"],
+            ["2"],
+            ["0"],
+            ["1"]
+        ],
+        [
+            ["A mulher recebe de sua mãe os cromossomos sexuais:"],
+            ["X"],
+            ["Y"],
+            ["X ou Y"]
+        ],
+        [
+            ["O cromossomo sexual responsável pela determinação do sexo, na espécie humana, é o:"],
+            ["Y"],
+            ["X"],
+            ["X e Y"]
+        ],
+        [
+            ["No homem, os dois cromossomos sexuais são representados por:"],
+            ["XY"],
+            ["XX"],
+            ["XO"]
+        ],
+        [
+            ["Na mulher, os cromossomos sexuais são representados por:"],
+            ["XX"],
+            ["XO"],
+            ["XY"]
+        ],
+        [
+            ["Os gametas humanos normais apresentam quantos cromossomos sexuais?"],
+            ["1"],
+            ["4"],
+            ["2"]
+        ],
+        [
+            ["A probabilidade de um casal heterozigoto, para um par de alelos de um gene, ter um filho homozigoto é:"],
+            ["50%"],
+            ["25%"],
+            ["75%"]
+        ],
+        [
+            ["A probabilidade de um casal heterozigoto, para um par de alelos de um gene, ter um filho homozigoto recessivo é de:"],
+            ["25%"],
+            ["75%"],
+            ["50%"]
+        ],
+        [
+            ["A mãe de uma criança que nasceu com eritroblastose fetal deve ter tipo sangüíneo:"],
+            ["Rh-"],
+			["Rh+"],
+            ["essa doença não é ligada ao fator Rh"]
+        ],
+        [
+            ["Em relação aos alelos do loco gênico Rh, um indivíduo Rh- é obrigatoriamente:"],
+            ["homozigoto"],
+            ["hemizigoto"],
+            ["heterozigoto"]
+        ],
+        [
+            ["Em relação aos alelos do loco gênico Rh, os indivíduos Rh+ são:"],
+            ["homozigotos ou heterozigotos"],
+            ["homozigotos"],
+            ["heterozigotos"]
+        ],
+        [
+            ["Num mamífero adulto, as células haplóides são os:"],
+            ["gametas"],
+            ["neurônios"],
+            ["glóbulos vermelhos"]
+        ],
+        [
+            ["A filha de um pai portador de um alelo dominante, ligado ao cromossomo X, tem que de chance de exibir essa característica?"],
+            ["100%"],
+            ["nenhuma"],
+            ["50%"]
+        ],
+        [
+            ["A porcentagem de gametas de um homem hemofílico que contém o alelo para a doença é de:"],
+            ["50%"],
+            ["100%"],
+            ["75%"]
+        ],
+        [
+            ["A chance do filho de um homem com uma doença ligada ao cromossomo X receber o alelo é:"],
+            ["nenhuma"],
+            ["50%"],
+            ["100%"]
+        ],
+        [
+            ["O filho de um casal recebe os alelos ligados ao cromossomo X de:"],
+            ["sua mãe"],
+            ["seu pai"],
+            ["seu pai e sua mãe"]
+        ],
+        [
+            ["Tipo de herança ligada ao sexo, que é um defeito visual que torna a pessoa incapaz de distinguir certas cores:"],
+            ["daltonismo"],
+            ["hemofilia"],
+            ["albinismo"]
+        ],
+        [
+            ["Um animal que apresenta órgãos sexuais masculinos e femininos é chamado:"],
+            ["hermafrodita"],
+            ["homossexual"],
+            ["dimórfico"]
+        ],
+        [
+            ["Doença na qual o sangue não coagula, causada por uma mutação no gene para uma proteína chamada fator de coagulação:"],
+            ["hemofilia"],
+            ["hemoglobina"],
+            ["hematoma"]
+        ],
+        [
+            ["Um homem com sangue tipo A foi acusado de ser pai de uma criança com sangue tipo O. Essa hipótese é:"],
+            ["possível"],
+            ["impossível"],
+            ["improvável"]
+        ],
+        [
+            ["Característica exibida por diversos seres vivos, inclusive o homem, resultante da falta de pigmentação no corpo:"],
+            ["albinismo"],
+            ["daltonismo"],
+            ["hemofilia"]
+        ],
+        [
+            ["Doença geneticamente transmitida, que se caracteriza pelo retardo no tempo de coagulação do sangue:"],
+            ["hemofilia"],
+            ["daltonismo"],
+            ["albinismo"]
+        ],
+        [
+            ["Substância fundamental que compõe os genes dos organismos, desde as bactérias até o homem:"],
+            ["DNA"],
+            ["cromossomos"],
+            ["cromatina"]
+        ],
+        [
+            ["Anomalia genética recessiva que determina a incapacidade de distinguir composições da cor verde e vermelha:"],
+            ["daltonismo"],
+            ["hemofilia"],
+            ["fenilcetonúria"]
+        ],
+        [
+            ["Do casamento de um pai com sangue tipo A e uma mãe com tipo B foi gerado um filho com sangue tipo O. Esse resultado é:"],
+            ["possível"],
+            ["impossível"],
+            ["raro"]
+        ],
+        [
+            ["São células isoladas de embriões e que tem a capacidade de se diferenciar em muitos tipos diferentes de células do corpo (pluripotente):"],
+            ["tronco"],
+            ["somáticas"],
+            ["germinativas"]
+        ],
+        [
+            ["Os pesquisadores preferem esse tipo de células tronco por considerarem com maior potencial e capaz de gerar praticamente todos os tipos de células:"],
+            ["embrião de 5 dias"],
+            ["cordão umbelical"],
+            ["células de adultos"]
+        ],
+        [
+            ["É uma técnica para corrigir genes defeituosos responsáveis por doenças. Um gene normal pode ser inserido para repor um gene não funcional:"],
+            ["terapia gênica"],
+            ["terapia hormonal"],
+            ["genômica"]
+        ],
+        [
+            ["Nome dado ao uso da Tecnologia do DNA Recombinante ou Engenharia Genética para produção de bens de consumo:"],
+            ["biotecnologia"],
+            ["clonagem"],
+            ["terapia gênica"]
+        ],
+        [
+            ["Estudo que objetiva conhecer a localização e composição de todos os genes num organismo:"],
+            ["genômica"],
+            ["terapia gênica"],
+            ["biotecnologia"]
+        ],
+        [
+            ["O controle de casamentos humanos, com base em noções de genótipos desejáveis e indesejáveis, é chamado:"],
+            ["eugenia"],
+            ["epistasia"],
+            ["sinapse"]
+        ],
+        [
+            ["Sistema de informação em que uma determinada seqüência de bases nitrogenadas corresponde a um aminoácido:"],
+            ["código genético"],
+            ["codominância"],
+            ["mutagênese"]
+        ],
+        [
+            ["Processo em que há alteração na informação de um gene, ocorrida espontaneamente ou provocada artificialmente:"],
+            ["mutação gênica"],
+            ["seleção natural"],
+            ["interação gênica"]
+        ],
+        [
+            ["Agente infeccioso constituído unicamente por uma molécula protéica. Causa doença neurodegenerativa (vaca louca):"],
+            ["prion"],
+            ["viróide"],
+            ["vírus"]
+        ],
+        [
+            ["População de seres geneticamente idênticos, originados pela multiplicação assexuada de um único genitor:"],
+            ["clone"],
+            ["gêmeos"],
+            ["fenocópia"]
+        ],
+        [
+            ["A introdução do gene humano do fator de coagulação IX (hemofilia b) em ovelhas caracteriza um animal:"],
+            ["transgênico"],
+            ["mutante"],
+            ["hemofílico"]
+        ],
+        [
+            ["A introdução na soja de um gene que a torna resistente ao herbicida glifosato é um exemplo da vantagem de uma planta:"],
+            ["transgênica"],
+            ["mutante"],
+            ["híbrida"]
+        ],
+        [
+            ["Uma substância química ou agente físico capaz de aumentar a taxa de mutação é chamado agente:"],
+            ["mutagênico"],
+            ["mutante"],
+            ["modificador"]
+        ]
+    ]
+}

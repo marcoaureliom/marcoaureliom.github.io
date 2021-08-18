@@ -1,0 +1,452 @@
+
+{
+    "c2array": true,
+    "size": [74,4,1],
+    "data":
+    [
+        [
+            ["O basquetebol é um esporte disputado com 2 equipes de 5 jogadores com objetivo de colocar a bola dentro da cesta colocada a 3,05 m de altura. Foi criado:"],
+            ["nos Estados Unidos"],
+            ["no Brasil"],
+            ["na Inglaterra"]
+        ],
+        [
+            ["É a maneira de segurar a bola de basquete, também chamada de pegada de bola:"],
+            ["empunhadura"],
+            ["drible"],
+            ["rebote"]
+        ],
+        [
+            ["O jogo de basquetebol foi criado nos Estados Unidos em:"],
+            ["1891"],
+            ["1946"],
+            ["1911"]
+        ],
+        [
+            ["É o ato de receber e segurar a bola após um passe:"],
+            ["recepção"],
+            ["empunhadura"],
+            ["rebote"]
+        ],
+        [
+            ["É o diâmetro da bola de basquete em centímetros:"],
+            ["23,9 - 24,8"],
+            ["35 - 35,9"],
+            ["19,4 - 20,3"]
+        ],
+        [
+            ["É a ação de lançar a bola a outro jogador:"],
+            ["passe"],
+            ["rebote"],
+            ["tapinha"]
+        ],
+        [
+            ["Tipos de passes feitos com as duas mãos. Alem do passe de peito e por cima da cabeça temos:"],
+            ["peito picado"],
+            ["lateral por baixo"],
+            ["gancho"]
+        ],
+        [
+            ["Tipos de passes feitos com uma das mãos. Alem do passe lateral picado temos:"],
+            ["gancho"],
+            ["peito"],
+            ["peito picado"]
+        ],
+        [
+            ["Recursos para uma melhor proteção da bola contra a defesa:"],
+            ["giros"],
+            ["rebote"],
+            ["tapinha"]
+        ],
+        [
+            ["É o nome dado ao domínio da bola arremessada a cesta não convertida, antes que ela toque no solo ou caia de posse do adversário:"],
+            ["rebote"],
+            ["ponte-aérea"],
+            ["jump"]
+        ],
+        [
+            ["É o nome dado ao rebote dominado na quadra adversária:"],
+            ["ofensivo"],
+            ["defensivo"],
+            ["ponte-aérea"]
+        ],
+        [
+            ["É o nome dado ao rebote dominado na própria quadra:"],
+            ["defensivo"],
+            ["ofensivo"],
+            ["ponte-aérea"]
+        ],
+        [
+            ["É a finalização de um arremesso em movimento, com salto e equilíbrio no ar:"],
+            ["tapinha"],
+            ["rebote"],
+            ["jump"]
+        ],
+        [
+            ["Arremesso em direção a cesta, concluído por outro jogador:"],
+            ["ponte aérea"],
+            ["jump"],
+            ["gancho"]
+        ],
+        [
+            ["É o ato de lançar a bola à cesta:"],
+            ["arremesso"],
+            ["ponte aérea"],
+            ["gancho"]
+        ],
+        [
+            ["Uma bola de basquete oficial está entrando num aro oficial exatamente no seu centro. O espaço sobrando de cada lado é de aproximadamente de:"],
+            ["10 cm"],
+            ["5 cm"],
+            ["7,5 cm"]
+        ],
+        [
+            ["É um arremesso em progressão a cesta com três passadas:"],
+            ["bandeja"],
+            ["gancho"],
+            ["drible"]
+        ],
+        [
+            ["Movimentos rápidos e sinuosos para desequilibrar o marcador:"],
+            ["finta"],
+            ["manejo de bola"],
+            ["ponte aérea"]
+        ],
+        [
+            ["Defesa usada quando o jogador é responsável por um setor da quadra:"],
+            ["por zona"],
+            ["individual"],
+            ["orgânica"]
+        ],
+        [
+            ["Defesa usada quando o jogador é responsável por um determinado jogador:"],
+            ["individual"],
+            ["orgânica"],
+            ["por zona"]
+        ],
+        [
+            ["É fundamental para coordenação motora e postura em quadra:"],
+            ["manejo de corpo"],
+            ["manejo de bola"],
+            ["finta"]
+        ],
+        [
+            ["Prática que tem como objetivo desenvolver uma maior intimidade com a bola:"],
+            ["manejo de bola"],
+            ["finta"],
+            ["manejo de corpo"]
+        ],
+        [
+            ["Número total de jogadores que formam uma equipe de basquete:"],
+            ["doze"],
+            ["cinco"],
+            ["seis"]
+        ],
+        [
+            ["Número de jogadores que iniciam o jogo de basquete:"],
+            ["cinco"],
+            ["seis"],
+            ["onze"]
+        ],
+        [
+            ["Número de períodos que tem o jogo de basquete:"],
+            ["quatro"],
+            ["dois"],
+            ["três"]
+        ],
+        [
+            ["Duração, em minutos cronometrados, de cada período no jogo de basquete:"],
+            ["dez"],
+            ["quinze"],
+            ["vinte"]
+        ],
+        [
+            ["Duração, em minutos, do intervalo entre o 1º e o 2º período do jogo de basquete:"],
+            ["dois"],
+            ["cinco"],
+            ["sete"]
+        ],
+        [
+            ["O tempo, em minutos, de intervalo entre o 2º e o 3º período do jogo de basquete:"],
+            ["quinze"],
+            ["dez"],
+            ["cinco"]
+        ],
+        [
+            ["Duração, em minutos, de cada pedido de tempo do técnico de basquete:"],
+            ["um"],
+            ["dois"],
+            ["cinco"]
+        ],
+        [
+            ["O ato de empurrar a bola de encontro ao solo, fazendo-a retornar à própria mão:"],
+            ["drible"],
+            ["finta"],
+            ["arremesso"]
+        ],
+        [
+            ["O drible usado quando o jogador está livre da marcação:"],
+            ["drible alto"],
+            ["drible baixo"],
+            ["finta"]
+        ],
+        [
+            ["É o drible usado quando o jogador está pressionado pelo marcador:"],
+            ["drible baixo"],
+            ["drible alto"],
+            ["finta"]
+        ],
+        [
+            ["Forma como se dá início oficial ao jogo de basquete:"],
+            ["bola ao alto"],
+            ["lateral"],
+            ["saída do garrafão"]
+        ],
+        [
+            ["São os 5 minutos adicionais a cada empate de placar, após o término do jogo de basquete:"],
+            ["prorrogação"],
+            ["acréscimos"],
+            ["tempo técnico"]
+        ],
+        [
+            ["Número de pedidos de tempo que cada técnico tem a cada prorrogação:"],
+            ["um"],
+            ["dois"],
+            ["três"]
+        ],
+        [
+            ["Tempo, em segundos, que cada equipe de basquete tem para concluir o seu ataque:"],
+            ["vinte e quatro"],
+            ["trinta"],
+            ["sessenta"]
+        ],
+        [
+            ["Tempo máximo, em segundos, permitido para passar da quadra de defesa para a de ataque:"],
+            ["oito"],
+            ["cinco"],
+            ["dez"]
+        ],
+        [
+            ["Tempo máximo, em segundos, que o jogador tem para colocar a bola em jogo, em movimento:"],
+            ["cinco"],
+            ["vinte e quatro"],
+            ["oito"]
+        ],
+        [
+            ["Na equipe de arbitragem ideal para o jogo alem do árbitro e do fiscal temos:"],
+            ["cronometrista e operador de 24 segundos"],
+            ["bandeirinha e cronometrista"],
+            ["2º árbitro e mesário"]
+        ],
+        [
+            ["É um documento oficial, em três cópias, que contêm o jogo escrito:"],
+            ["súmula"],
+            ["ficha técnica"],
+            ["sumário"]
+        ],
+        [
+            ["Cores das canetas utilizadas no preenchimento da súmula:"],
+            ["azul e vermelha"],
+            ["vermelha e preta"],
+            ["azul e preta"]
+        ],
+        [
+            ["Falta que o jogador comete quando desrespeita as advertências dos oficiais de quadra:"],
+            ["falta técnica"],
+            ["falta antidesportiva"],
+            ["falta indireta"]
+        ],
+        [
+            ["Falta pessoal cometida por um jogador fora do espírito e intenções das regras do jogo:"],
+            ["falta antidesportiva"],
+            ["falta técnica"],
+            ["falta indireta"]
+        ],
+        [
+            ["É indicado pelo oficial de quadra com os braços elevados acima da cabeça formando um “T” com o dedo indicador na palma da mão:"],
+            ["tempo técnico"],
+            ["fim da partida"],
+            ["falta técnica"]
+        ],
+        [
+            ["Limite máximo de faltas cometidas para um jogador deixar de participar do jogo de basquete:"],
+            ["cinco"],
+            ["quatro"],
+            ["oito"]
+        ],
+        [
+            ["É a partir desse momento que uma equipe tem o direito a dois lances livres a cada falta sofrida:"],
+            ["quatro faltas coletivas"],
+            ["duas faltas coletivas"],
+            ["seis faltas individuais"]
+        ],
+        [
+            ["A oportunidade dada a um jogador de marcar ponto livremente dentro do semi-círculo do garrafão:"],
+            ["lance livre"],
+            ["lance direto"],
+            ["arremesso"]
+        ],
+        [
+            ["Número de pontos que vale uma bandeja convertida:"],
+            ["dois"],
+            ["três"],
+            ["um"]
+        ],
+        [
+            ["Número de pontos que vale um lance livre convertido:"],
+            ["um"],
+            ["dois"],
+            ["três"]
+        ],
+        [
+            ["Número de pontos que vale uma cesta convertida à distância de mais de 6,25m da tabela:"],
+            ["três"],
+            ["dois"],
+            ["quatro"]
+        ],
+        [
+            ["Cor do aro de basquete:"],
+            ["laranja"],
+            ["preto"],
+            ["branco"]
+        ],
+        [
+            ["É indicado pelo oficial de quadra que se posiciona com os antebraços cruzados a frente do peito:"],
+            ["substituição de jogadores"],
+            ["tempo técnico"],
+            ["falta técnica"]
+        ],
+        [
+            ["Falta por qualquer comportamento flagrantemente antidesportivo por um jogador, substituto, técnico, assistente ou acompanhante da equipe:"],
+            ["desqualificante"],
+            ["técnica"],
+            ["grave"]
+        ],
+        [
+            ["Motivo de interrupção do jogo indicado pelo oficial de quadra fazendo a rotação dos punhos com os braços à frente do corpo na altura da cintura:"],
+            ["caminhar com a bola"],
+            ["substituição de jogadores"],
+            ["tempo técnico"]
+        ],
+        [
+            ["Motivo de interrupção do jogo indicado pelo oficial de quadra com o braço estendido em direção ao garrafão mostrando 3 dedos:"],
+            ["três segundos no garrafão"],
+            ["caminhar com a bola"],
+            ["falta técnica"]
+        ],
+        [
+            ["Dimensões da quadra nas principais competições oficiais da FIBA. Comprimento x largura:"],
+            ["28m X 15m"],
+            ["20m X 12"],
+            ["30m X 18"]
+        ],
+        [
+            ["Dimensões da tabela de basquete. Medida horizontal X vertical:"],
+            ["1,80 m X 1,05 m"],
+            ["1,70 m X 1,00 m"],
+            ["1,90 m X 1,20 m"]
+        ],
+        [
+            ["Diâmetro do aro de basquete:"],
+            ["45cm a 45,7cm"],
+            ["40cm a 50cm"],
+            ["50cm a 55cm"]
+        ],
+        [
+            ["Altura a partir da quadra do aro de basquete:"],
+            ["3,05m"],
+            ["2,98m"],
+            ["3,25m"]
+        ],
+        [
+            ["Material ideal da bola de basquete:"],
+            ["couro"],
+            ["fibra sintética"],
+            ["borracha"]
+        ],
+        [
+            ["Piso ideal da quadra de basquete:"],
+            ["madeira"],
+            ["borracha"],
+            ["cimento"]
+        ],
+        [
+            ["Peso ideal da bola de basquete:"],
+            ["567 a 650gr"],
+            ["428 a 564gr"],
+            ["300 a 400gr"]
+        ],
+        [
+            ["Cor da bola de basquete oficial:"],
+            ["laranja"],
+            ["prata"],
+            ["preta"]
+        ],
+        [
+            ["O perímetro (circunferência) da bola de basquete é de:"],
+            ["74,9 a 78cm"],
+            ["60 a 70cm"],
+            ["65 a 75cm"]
+        ],
+        [
+            ["Número de pontos que vale uma cesta convertida dentro da área restrita:"],
+            ["dois"],
+            ["um"],
+            ["três"]
+        ],
+        [
+            ["Material que é feito o aro de basquete:"],
+            ["ferro sólido"],
+            ["tubo de ferro"],
+            ["acrílico"]
+        ],
+        [
+            ["Cor da redinha da cesta de basquete:"],
+            ["branca"],
+            ["laranja"],
+            ["azul"]
+        ],
+        [
+            ["Comprimento da redinha da cesta de basquete:"],
+            ["40cm"],
+            ["30cm"],
+            ["50cm"]
+        ],
+        [
+            ["Material ideal da tabela de basquete:"],
+            ["vidro de segurança temperado"],
+            ["acrílico"],
+            ["madeira"]
+        ],
+        [
+            ["A iluminação ideal no jogo de basquete deve ser maior do que:"],
+            ["1500 LUX"],
+            ["1000 LUX"],
+            ["2000 LUX"]
+        ],
+        [
+            ["Número ideal de limpadores de piso na quadra de basquete:"],
+            ["quatro (dois para cada lado da quadra)"],
+            ["três(um central e um em cada lado da quadra)"],
+            ["dois(um em cada lado da quadra)"]
+        ],
+        [
+            ["Para outros eventos e competições, são as medidas mínimas para aprovação da quadra de basquete. Comprimento X largura:"],
+            ["26 m X 14 m"],
+            ["30m X 14 m"],
+            ["25m X 15 m"]
+        ],
+        [
+            ["É a medida do diâmetro do círculo central da quadra de basquete:"],
+            ["1,80m"],
+            ["2,00m"],
+            ["2,30m"]
+        ],
+        [
+            ["É o número de pedidos de tempo que o técnico tem direito durante o jogo de basquete:"],
+            ["cinco"],
+            ["quatro"],
+            ["três"]
+        ]
+    ]
+}
