@@ -1,0 +1,182 @@
+﻿{
+	"c2array": true,
+	"size": [25,5,1],
+	"data":
+	[
+		[
+			["Elaboram as leis do município:"],
+			["Vereadores"],
+			["Senadores"],
+			["Deputados Estaduais"],
+			["Deputados Federais"]
+		],
+		[
+			["É a autoridade máxima do Poder Executivo Nacional:"],
+			["Presidente"],
+			["Governador"],
+			["Prefeito"],
+			["Senador"]
+		],
+		[
+			["É o chefe do Poder Executivo Municipal:"],
+			["Prefeito"],
+			["Vereador"],
+			["Senador"],
+			["Governador"]
+		],
+		[
+			["Trabalham no fórum e fazem com que as leis sejam cumpridas:"],
+			["Juízes"],
+			["Vereadores"],
+			["Senadores"],
+			["Ministros"]
+		],
+		[
+			["A história do Brasil não teria sido a mesma se os africanos não tivessem ajudado a construir a nação brasileira. São personalidades afro-descendentes:"],
+			["Pixinguinha; Pelé; Gilberto Gil"],
+			["Clara Nunes; Ivete Sangalo; Hebe Camargo"],
+			["Pelé; Xuxa; Preta Gil"],
+			["Preta Gil; Gilberto Gil; Hebe Camargo"]
+		],
+		[
+			["Poder que executa as leis:"],
+			["Executivo"],
+			["Judiciário"],
+			["Legislativo"],
+			["Ministerial"]
+		],
+		[
+			["Exerce o governo estadual:"],
+			["Governador"],
+			["Secretário"],
+			["Prefeito"],
+			["Presidente"]
+		],
+		[
+			["Os habitantes do Brasil que os portugueses encontraram foram:"],
+			["Os Índios"],
+			["Os Homens Pré-Históricos"],
+			["Os Espanhóis"],
+			["Os Negros"]
+		],
+		[
+			["Ajudou a formar o povo brasileiro:"],
+			["Imigração"],
+			["Integração"],
+			["Deslocamento"],
+			["Mudança"]
+		],
+		[
+			["No dia 15 de novembro é comemorada a:"],
+			["Proclamação da República"],
+			["Consciência Negra"],
+			["Independência do Brasil"],
+			["Fundação de Brasília"]
+		],
+		[
+			["Na data de 19 de novembro temos o:"],
+			["Dia da bandeira nacional"],
+			["Dia da árvore"],
+			["Dia do professor"],
+			["Dia do folclore"]
+		],
+		[
+			["Comemorado no dia 22 de agosto:"],
+			["Dia do folclore"],
+			["Dia da criança"],
+			["Dia do professor"],
+			["Dia do índio"]
+		],
+		[
+			["Na data de 19 de abril temos o:"],
+			["Dia do índio"],
+			["Dia da árvore"],
+			["Dia da criança"],
+			["Dia do folclore"]
+		],
+		[
+			["Os portugueses exploraram do Brasil:"],
+			["Ouro"],
+			["Ferro"],
+			["Prata"],
+			["Cobre"]
+		],
+		[
+			["Pedro Álvares Cabral chegou ao Brasil em:"],
+			["22 de abril de 1500"],
+			["23 de abril de 1500"],
+			["19 de abril de 1550"],
+			["22 de maio de 1500"]
+		],
+		[
+			["O primeiro nome dado ao Brasil foi:"],
+			["Ilha de Vera Cruz"],
+			["Monte Pascoal"],
+			["Terra de Santa Cruz"],
+			["Pindorama"]
+		],
+		[
+			["Os africanos foram escravizados porque os indígenas:"],
+			["Não se adaptaram à escravidão"],
+			["Fugiam"],
+			["Não gostavam de trabalhar"],
+			["Não saíam de suas ocas"]
+		],
+		[
+			["Na colonização do Brasil, os negros:"],
+			["Não aceitaram pacificamente a escravidão"],
+			["Aceitaram pacificamente a escravidão"],
+			["Aceitaram trabalhar para os brancos"],
+			["Não se importavam com a escravidão"]
+		],
+		[
+			["Nome do lugar para onde os negros fugiam durante o período da escravidão:"],
+			["Quilombo"],
+			["Comunidade"],
+			["Taba"],
+			["Sociedade"]
+		],
+		[
+			["Quilombo famoso que durou quase cem anos:"],
+			["Palmares"],
+			["Cafundó"],
+			["Campinho da Independência"],
+			["Mangal"]
+		],
+		[
+			["Encontrar um novo caminho para as Índias era de grande interesse para:"],
+			["Comerciantes, Rei e Igreja"],
+			["Rei e Igreja"],
+			["Comerciantes e Igreja"],
+			["Comerciantes e Rei"]
+		],
+		[
+			["A corte portuguesa chegou ao Brasil em:"],
+			["1808"],
+			["1888"],
+			["1500"],
+			["1882"]
+		],
+		[
+			["País que apoiou D. João na fuga para o Brasil:"],
+			["Inglaterra"],
+			["Espanha"],
+			["França"],
+			["Portugal"]
+		],
+		[
+			["Primeira medida tomada por D. João ao desembarcar no Brasil:"],
+			["Abertura dos portos às nações amigas"],
+			["Formação de um exército"],
+			["Inauguração de uma biblioteca"],
+			["Abertura do Banco do Brasil"]
+		],
+		[
+			["Cidade que se beneficiou com a mudança da corte portuguesa para o Brasil:"],
+			["Rio de Janeiro"],
+			["São Paulo"],
+			["Salvador"],
+			["Vitória"]
+		]
+	]
+}

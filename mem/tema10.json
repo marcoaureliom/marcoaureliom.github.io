@@ -1,0 +1,182 @@
+﻿{
+	"c2array": true,
+	"size": [25,5,1],
+	"data":
+	[
+		[
+			["O computador não deve ser ligado diretamente na tomada, deve ser ligado no:"],
+			["Estabilizador"],
+			["Monitor"],
+			["Teclado"],
+			["CPU"]
+		],
+		[
+			["Para apagar uma letra, à esquerda do cursor, utiliza-se a tecla:"],
+			["Backspace"],
+			["Del"],
+			["Enter"],
+			["Caps Lock"]
+		],
+		[
+			["Para a digitação ficar com letras maiúsculas é preciso acionar a tecla:"],
+			["Caps Lock"],
+			["Del"],
+			["Enter"],
+			["Esc"]
+		],
+		[
+			["É um dispositivo de entrada de informações:"],
+			["Teclado"],
+			["CPU"],
+			["Estabilizador"],
+			["Impressora"]
+		],
+		[
+			["É responsável pela execução das tarefas do computador:"],
+			["CPU"],
+			["Mouse"],
+			["Estabilizador"],
+			["Monitor"]
+		],
+		[
+			["É através do clique que transmite informações para a CPU:"],
+			["Mouse"],
+			["Impressora"],
+			["Estabilizador"],
+			["Teclado"]
+		],
+		[
+			["A CPU é um:"],
+			["Hardware"],
+			["Gabinete"],
+			["Software"],
+			["Estabilizador"]
+		],
+		[
+			["Parece uma televisão e exibe informações do computador:"],
+			["Monitor"],
+			["Teclado"],
+			["CPU"],
+			["Estabilizador"]
+		],
+		[
+			["Rede mundial de computadores conectados:"],
+			["Internet"],
+			["Internauta"],
+			["Website"],
+			["Homepage"]
+		],
+		[
+			["Dispositivo de entrada e saída de dados:"],
+			["Drive de DVD"],
+			["Internet"],
+			["Mouse"],
+			["Website"]
+		],
+		[
+			["Popularmente o mesmo que download:"],
+			["Baixar"],
+			["On-line"],
+			["Software"],
+			["Provedor"]
+		],
+		[
+			["É o correio eletrônico:"],
+			["E-mail"],
+			["Intranet"],
+			["Site"],
+			["Homepage"]
+		],
+		[
+			["É a primeira página de um site:"],
+			["Homepage"],
+			["Internet"],
+			["Link"],
+			["E-mail"]
+		],
+		[
+			["É parecido com a internet, porém restrito aos funcionários de uma empresa:"],
+			["Intranet"],
+			["Internet"],
+			["Homepage"],
+			["Link"]
+		],
+		[
+			["Empresa que disponibiliza o acesso aos usuários de Internet. Pode ser paga ou gratuita:"],
+			["Provedor"],
+			["Internet"],
+			["Intranet"],
+			["Homepage"]
+		],
+		[
+			["O HD do computador situa-se no:"],
+			["Gabinete"],
+			["Monitor"],
+			["Drive"],
+			["Teclado"]
+		],
+		[
+			["Na edição de um texto, a tecla ENTER serve para:"],
+			["Mudar de linha"],
+			["Selecionar uma palavra"],
+			["Apagar uma letra"],
+			["Digitar letra maiúscula"]
+		],
+		[
+			["Dispositivo usado para movimentar o ponteiro do cursor:"],
+			["Mouse"],
+			["Pad Mouse"],
+			["Teclado"],
+			["Setas"]
+		],
+		[
+			["O caminho para desligar o computador na maioria das versões do Windows é:"],
+			["Iniciar - desligar"],
+			["Iniciar - desativar"],
+			["Iniciar - hibernar"],
+			["Iniciar - reiniciar"]
+		],
+		[
+			["A tecla DELETE ou DEL, em um computador com Windows, serve para:"],
+			["Apagar uma letra à direita"],
+			["Apagar uma letra à esquerda"],
+			["Copiar um arquivo"],
+			["Colar um arquivo"]
+		],
+		[
+			["O que significa USB:"],
+			["Universal Serial Bus"],
+			["Unavailable Set Bug"],
+			["Unique Serial Bus"],
+			["Universal Special Bus"]
+		],
+		[
+			["Chat é o mesmo que:"],
+			["Bate Papo"],
+			["Área de Trabalho"],
+			["Jornal Virtual"],
+			["Diário Virtual"]
+		],
+		[
+			["Arial é:"],
+			["Um tipo de fonte (letra)"],
+			["Uma Pasta"],
+			["Um Arquivo"],
+			["Uma ferramenta de cor"]
+		],
+		[
+			["A opção reset serve para:"],
+			["Reiniciar o computador"],
+			["Travar a tela principal"],
+			["Liberar um arquivo travado"],
+			["Mudar de programa"]
+		],
+		[
+			["Pen drive é:"],
+			["Um dispositivo de memória portátil"],
+			["Um dispositivo de video portátil"],
+			["Um dispositivo de impressão portátil"],
+			["Um dispositivo de músicas portátil"]
+		]
+	]
+}
