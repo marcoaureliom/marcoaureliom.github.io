@@ -51,22 +51,31 @@ const scriptsInEvents = {
 			
 		},
 
-		async Es_funcoes_Event73(runtime, localVars)
+		async Es_funcoes_Event74(runtime, localVars)
 		{
 			var frames = runtime.globalVars.auxCompartilhar;
 			var chutesDados = runtime.globalVars.chutesDados;
-			var texto = "#"+runtime.globalVars.dias+" "+chutesDados+"/6 @Mariletra\n\n";
+			var texto;
 			
-			for(let i=0;i<chutesDados;i++){
-				for(let j=0;j<5;j++)
-					if(frames.charAt(i*5+j)==4)texto+="🟢";
-					else if(frames.charAt(i*5+j)==3)texto+="🟡";
-					else texto+="⚫";
-				texto+="\n";
+			if(chutesDados==0){
+				texto = "Tente adivinhar a palavra do dia em https://marcoaureliom.github.io/Mariletra";
 			}
+			else{
+				texto = "#"+runtime.globalVars.dias+" "+chutesDados+"/6 @Mariletra\n\n";
 			
-			texto+="\nE você? Consegue acertar a palavra do dia?";
-			//navigator.clipboard.writeText(texto);
+				for(let i=0;i<chutesDados;i++){
+					for(let j=0;j<5;j++)
+						if(frames.charAt(i*5+j)==4)texto+="🟢";
+						else if(frames.charAt(i*5+j)==3)texto+="🟡";
+						else texto+="⚫";
+					texto+="\n";
+				}
+			
+				if(runtime.globalVars.acertouPalavraDia==0)
+					texto += "\nOh, não. Ainda não consegui acertar a palavra do dia :/\nVocê consegue? https://marcoaureliom.github.io/Mariletra";
+				else
+					texto+="\nYup! Você também consegue acertar a palavra do dia?\nhttps://marcoaureliom.github.io/Mariletra";
+			}
 			
 			var myTextBox=document.createElement("textarea");
 			
