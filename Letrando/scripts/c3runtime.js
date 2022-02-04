@@ -3859,7 +3859,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Json,
 		C3.Plugins.AJAX,
 		C3.Plugins.System.Cnds.OnLayoutStart,
-		C3.Plugins.AJAX.Acts.RequestFile,
+		C3.Plugins.AJAX.Acts.Request,
 		C3.Plugins.Browser.Cnds.IsOnline,
 		C3.Plugins.Text.Cnds.CompareInstanceVar,
 		C3.Plugins.Text.Acts.SetText,
@@ -4092,6 +4092,7 @@ function or(l, r)
 
 self.C3_ExpressionFuncs = [
 		() => "info",
+		() => "https://marcoaureliom.github.io/Letrando/inform.json",
 		() => 88,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
