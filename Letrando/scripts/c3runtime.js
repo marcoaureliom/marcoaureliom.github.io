@@ -4357,14 +4357,14 @@ self.C3_ExpressionFuncs = [
 			const n0 = p._GetNode(0);
 			return () => subtract(n0.ExpObject(4, 1), 1);
 		},
+		() => "dia",
+		() => "mes",
+		() => "ano",
 		() => "atualizacaoAnterior",
 		p => {
 			const n0 = p._GetNode(0);
 			return () => n0.ExpObject("atualizacao");
 		},
-		() => "dia",
-		() => "mes",
-		() => "ano",
 		() => 0.2,
 		() => "atualizacao"
 ];
