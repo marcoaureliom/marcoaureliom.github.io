@@ -51,7 +51,7 @@ const scriptsInEvents = {
 			
 		},
 
-		async Es_funcoes_Event78(runtime, localVars)
+		async Es_funcoes_Event77(runtime, localVars)
 		{
 			var frames = runtime.globalVars.auxCompartilhar;
 			var chutesDados = runtime.globalVars.chutesDados;

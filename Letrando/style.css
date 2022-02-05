@@ -37,3 +37,18 @@ html, body, canvas {
 }
 
 
+@font-face {
+	font-family: 'dmsans-bold';
+	src: url('fonts/dmsans-bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'dmsans-medium';
+	src: url('fonts/dmsans-medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'dmsans-regular';
+	src: url('fonts/dmsans-regular.ttf') format('truetype');
+}
+

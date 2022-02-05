@@ -3978,7 +3978,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.ForEach,
 		C3.Plugins.Sprite.Acts.SetWidth,
 		C3.Plugins.Sprite.Exps.AnimationName,
-		C3.ScriptsInEvents.Es_funcoes_Event78,
+		C3.ScriptsInEvents.Es_funcoes_Event77,
 		C3.Plugins.Arr.Exps.At,
 		C3.Plugins.Sprite.Acts.SetAnim,
 		C3.Plugins.Sprite.Acts.SetOpacity,
@@ -4027,9 +4027,9 @@ self.C3_JsPropNameTable = [
 	{AJAX: 0},
 	{Fade: 0},
 	{fundoAviso: 0},
-	{lbCopiado: 0},
+	{lbMensagem: 0},
 	{fundoJanela: 0},
-	{Text: 0},
+	{lbTitulo: 0},
 	{btnSom: 0},
 	{Audio: 0},
 	{palavraSorteadaComAcento: 0},
@@ -4371,6 +4371,10 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(0, 1);
+		},
+		p => {
+			const n0 = p._GetNode(0);
 			return () => n0.ExpObject(1, 0);
 		},
 		p => {
@@ -4389,6 +4393,10 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const n0 = p._GetNode(0);
 			return () => subtract(n0.ExpObject(1, 1), 1);
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(1, 1);
 		},
 		p => {
 			const n0 = p._GetNode(0);
@@ -4413,6 +4421,10 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(2, 1);
+		},
+		p => {
+			const n0 = p._GetNode(0);
 			return () => n0.ExpObject(3, 0);
 		},
 		p => {
@@ -4434,6 +4446,10 @@ self.C3_ExpressionFuncs = [
 		},
 		p => {
 			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(3, 1);
+		},
+		p => {
+			const n0 = p._GetNode(0);
 			return () => n0.ExpObject(4, 0);
 		},
 		p => {
@@ -4448,6 +4464,10 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const n0 = p._GetNode(0);
 			return () => subtract(n0.ExpObject(4, 1), 1);
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(4, 1);
 		},
 		() => 100,
 		() => "dia",
