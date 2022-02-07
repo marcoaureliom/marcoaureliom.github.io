@@ -3870,6 +3870,262 @@ CurrentTime(){if(self["C3_GetAudioContextCurrentTime"])return self["C3_GetAudioC
 }
 
 {
+"use strict";
+
+{
+	const DOM_COMPONENT_ID = "ppstudio_handy_DOM";
+	const C3=self.C3;
+	
+	C3.Plugins.ppstudio_handy_utilities = class ppstudio_handy_utilities_plugin extends C3.SDKPluginBase
+	{
+		constructor(opts)
+		{
+			//super(opts);
+			super(opts, DOM_COMPONENT_ID);
+		}
+		
+		Release()
+		{
+			super.Release();
+		}
+	};
+}
+}
+
+{
+"use strict";
+
+{
+	const C3=self.C3;
+	C3.Plugins.ppstudio_handy_utilities.Type = class DrawingType extends C3.SDKTypeBase
+	{
+		constructor(objectClass)
+		{
+			super(objectClass);
+		}
+		
+		Release()
+		{
+			super.Release();
+		}
+		
+		OnCreate()
+		{
+
+		}
+
+		LoadTextures(renderer)
+		{
+		}
+
+		ReleaseTextures()
+		{
+		}
+	};
+}
+}
+
+{
+"use strict";
+
+{
+	const DOM_COMPONENT_ID = "ppstudio_handy_DOM";
+	const C3=self.C3;
+	
+	C3.Plugins.ppstudio_handy_utilities.Instance = class ppstudio_handy_utilities_Instance extends C3.SDKInstanceBase
+	{		
+		constructor(inst, properties)
+		{
+			super(inst, DOM_COMPONENT_ID); //Registering the DOM component for the 
+			debugger;
+
+			if (properties){
+				this._gaID = properties[0];
+				this._trackPreview = properties[1];
+				this._GAEnabled=null;
+			}
+						
+			if ((this._trackPreview || !this._runtime.IsPreview())&&this._loadtype==0){
+				this._initAnalytics();
+			}
+		}
+		
+		createCSSData(data){
+			if (data){
+				this.PostToDOM("inject-css", data)
+			}
+		}
+		
+		Release()
+		{
+			super.Release();
+		}
+		
+		Draw(renderer)
+		{
+		}
+		
+		SaveToJson()
+		{
+			return {
+				// data to be saved for savegames
+			};
+		}
+		
+		LoadFromJson(o)
+		{
+			// load state for savegames
+		}
+
+		_initAnalytics(){
+			// Get initial state from DOM. Make runtime loading wait for the response.
+			const data = {
+				"gaID":this._gaID,
+				"GAEnabled":this._GAEnabled
+			}
+			// First we need to add a LoadPromise to make sure that GA is loaded before continuing
+			this._runtime.AddLoadPromise(
+				this.PostToDOMAsync("load", data)
+					.then((data) => {
+							this._GAEnabled = data["GAEnabled"];
+						})
+			)
+		}
+	};
+	
+}
+}
+
+{
+"use strict";
+
+{
+	const C3=self.C3;
+	C3.Plugins.ppstudio_handy_utilities.Cnds =
+	{
+		IsTracking(){
+			return this._GAEnabled;
+		}
+	};
+}
+}
+
+{
+"use strict";
+
+{
+	const C3=self.C3;
+	C3.Plugins.ppstudio_handy_utilities.Acts =
+	{
+		InitGA(){
+			if (!this._GAEnabled)
+				this._initAnalytics();
+		},
+
+		ImportCSSData(data)
+		{
+			const dat = {
+				"css-code":data
+			}
+			this.createCSSData(dat);
+		},
+		
+		ImportScriptData(data){
+			var head = document.getElementsByTagName("head")[0];
+			var scriptTag = document.createElement("script");
+			scriptTag.innerHTML = data;
+			head.appendChild(scriptTag);
+		},
+		
+		ImportScriptSrc(data){
+			var head = document.getElementsByTagName("head")[0];
+			var scriptTag = document.createElement("script");
+			scriptTag.setAttribute("src",data);
+			head.appendChild(scriptTag);
+		},
+		
+		GASendEvent(cat,act,lbl,val){
+			
+			if (this._GAEnabled){
+				const data = {
+					"category":cat,
+					"activity":act,
+					"label":lbl,
+					"value":val
+				}
+				
+				this.PostToDOM("send-event", data);
+			}
+		}
+	};
+}
+}
+
+{
+"use strict";
+
+{
+	const C3=self.C3;
+	C3.Plugins.ppstudio_handy_utilities.Exps =
+	{
+		GetCurrentTime()
+		{
+			return new Date().getTime();
+		},
+		
+		GetLocalTime(){
+			var dtime = new Date();
+			var time = dtime.getTimezoneOffset()+dtime.getTime();
+			return time;
+		},
+		
+		NowUTCTimestamp(){
+			var dTime = new Date();
+			var time = dTime.toUTCString();
+			return time;
+		},
+		
+		FormatUTCDate(milli){
+			var date = new Date(milli);
+			return date.toUTCString();
+		},
+		
+		FormatTime(number){
+			var d=new Date(number);
+			
+			//var time = Math.floor(number/1000);
+			var hours = Math.floor(number/3600000); //sd.getHours();
+			var seconds = d.getSeconds();
+			var minutes = d.getMinutes();
+			
+			var timeFormat = "";
+			var hoursStr = "";
+			var secondsStr = "";
+			var minutesStr = "";
+			
+			hoursStr = (hours<10)?"0"+hours.toString():hours.toString();
+			minutesStr = (minutes>=60)?"00": (minutes<10)?"0"+minutes.toString():minutes.toString();
+			secondsStr= (seconds>=60)?"00": (seconds<10)?"0"+seconds.toString():seconds.toString();
+			
+			timeFormat = hoursStr+":"+minutesStr+":"+secondsStr;
+			
+			return timeFormat;
+		},
+		
+		CreateDate(year, month, day, hours, minutes, seconds, milliseconds){
+			return new Date(year,month,day,hours,minutes,seconds,milliseconds).getTime();
+		},
+		
+		FormatISODate(milli){
+			return new Date(milli).toISOString();
+		}
+		
+	};
+	
+}
+}
+
+{
 'use strict';const C3=self.C3;C3.Behaviors.Fade=class FadeBehavior extends C3.SDKBehaviorBase{constructor(opts){super(opts)}Release(){super.Release()}};
 
 }
@@ -3921,7 +4177,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.AJAX,
 		C3.Behaviors.Fade,
 		C3.Plugins.Audio,
+		C3.Plugins.ppstudio_handy_utilities,
 		C3.Plugins.System.Cnds.OnLayoutStart,
+		C3.Plugins.ppstudio_handy_utilities.Acts.InitGA,
 		C3.Plugins.AJAX.Acts.Request,
 		C3.Plugins.Browser.Cnds.IsOnline,
 		C3.Plugins.Text.Cnds.CompareInstanceVar,
@@ -3949,6 +4207,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.Compare,
 		C3.Plugins.System.Exps.loopindex,
 		C3.Plugins.System.Exps.lowercase,
+		C3.Plugins.ppstudio_handy_utilities.Acts.GASendEvent,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.ScriptsInEvents.Es_funcoes_Event2,
 		C3.Plugins.System.Exps.uppercase,
@@ -4032,6 +4291,7 @@ self.C3_JsPropNameTable = [
 	{lbTitulo: 0},
 	{btnSom: 0},
 	{Audio: 0},
+	{HandyUtilitiesPlugin: 0},
 	{palavraSorteadaComAcento: 0},
 	{palavraSorteadaSemAcento: 0},
 	{chutesDados: 0},
@@ -4219,6 +4479,10 @@ self.C3_ExpressionFuncs = [
 			const v1 = p._GetNode(1).GetVar();
 			return () => f0(v1.GetValue());
 		},
+		() => "Palavras",
+		() => "Chute",
+		() => "Teste",
+		() => 0,
 		() => "0",
 		() => "Palavra inválida",
 		() => 6,
@@ -4248,7 +4512,6 @@ self.C3_ExpressionFuncs = [
 			const v3 = p._GetNode(3).GetVar();
 			return () => (((((v0.GetValue() - 1)) < ((v1.GetValue() * 5)) ? 1 : 0)) ? ((v2.GetValue() * 5)) : ((v3.GetValue() - 1)));
 		},
-		() => 0,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const v1 = p._GetNode(1).GetVar();
