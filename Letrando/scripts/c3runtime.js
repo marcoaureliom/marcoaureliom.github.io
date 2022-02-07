@@ -4245,7 +4245,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Behaviors.Fade.Acts.StartFade,
 		C3.Plugins.Audio.Acts.Play,
 		C3.Plugins.System.Cnds.TriggerOnce,
-		C3.Plugins.System.Acts.LoadState,
 		C3.Plugins.Dictionary.Exps.Get,
 		C3.Plugins.LocalStorage.Acts.CheckItemExists,
 		C3.Plugins.LocalStorage.Cnds.OnItemExists,
