@@ -4186,7 +4186,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.System.Exps.replace,
 		C3.Plugins.Text.Exps.Text,
-		C3.Plugins.Browser.Acts.ConsoleLog,
 		C3.Plugins.System.Cnds.Else,
 		C3.Plugins.System.Acts.SetLayerVisible,
 		C3.Plugins.Browser.Acts.ExecJs,
@@ -4317,6 +4316,7 @@ self.C3_JsPropNameTable = [
 	{tentativa6: 0},
 	{dias: 0},
 	{acertouPalavraDia: 0},
+	{auxAnalyticsIndexPalavraChute: 0},
 	{auxCompartilhar: 0},
 	{encontrouLetraVazia: 0},
 	{cor: 0},
@@ -4433,7 +4433,6 @@ self.C3_ExpressionFuncs = [
 			const n1 = p._GetNode(1);
 			return () => f0(n1.ExpObject(), "\\n", "\n");
 		},
-		() => "sss",
 		() => "SemConexao",
 		() => "document.body.style.backgroundColor = '#b0a9ea';",
 		() => "document.documentElement.style.backgroundColor = '#b0a9ea';",
@@ -4482,7 +4481,6 @@ self.C3_ExpressionFuncs = [
 		() => "Palavras",
 		() => "Chute",
 		() => "Teste",
-		() => 0,
 		() => "0",
 		() => "Palavra inválida",
 		() => 6,
@@ -4512,6 +4510,7 @@ self.C3_ExpressionFuncs = [
 			const v3 = p._GetNode(3).GetVar();
 			return () => (((((v0.GetValue() - 1)) < ((v1.GetValue() * 5)) ? 1 : 0)) ? ((v2.GetValue() * 5)) : ((v3.GetValue() - 1)));
 		},
+		() => 0,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const v1 = p._GetNode(1).GetVar();
@@ -4559,6 +4558,9 @@ self.C3_ExpressionFuncs = [
 			const v2 = p._GetNode(2).GetVar();
 			return () => f0(v1.GetValue(), v2.GetValue());
 		},
+		() => "Jogo",
+		() => "Pontuacao",
+		() => "Ganhou",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			return () => (v0.GetValue() * 6);
@@ -4569,6 +4571,7 @@ self.C3_ExpressionFuncs = [
 			return () => (6 * v0.GetValue());
 		},
 		() => "Oh, não!",
+		() => "Perdeu",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			return () => (1 + (5 * v0.GetValue()));
