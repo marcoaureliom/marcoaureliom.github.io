@@ -4208,6 +4208,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Exps.lowercase,
 		C3.Plugins.ppstudio_handy_utilities.Acts.GASendEvent,
 		C3.Plugins.System.Cnds.CompareVar,
+		C3.Plugins.Browser.Acts.GoToURL,
 		C3.ScriptsInEvents.Es_funcoes_Event2,
 		C3.Plugins.System.Exps.uppercase,
 		C3.Plugins.System.Acts.CreateObject,
@@ -4489,6 +4490,8 @@ self.C3_ExpressionFuncs = [
 			return () => n0.ExpObject();
 		},
 		() => "Copiado para o Ctrl+V",
+		() => 55,
+		() => "https://marcoaureliom.github.io/Letrando/Download/Letrando.apk",
 		() => -1,
 		() => 1,
 		p => {
