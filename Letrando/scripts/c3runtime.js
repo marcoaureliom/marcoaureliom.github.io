@@ -4188,7 +4188,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Exps.Text,
 		C3.Plugins.System.Cnds.Else,
 		C3.Plugins.System.Acts.SetLayerVisible,
-		C3.Plugins.Browser.Acts.ExecJs,
 		C3.Plugins.AJAX.Cnds.OnComplete,
 		C3.Plugins.Dictionary.Acts.JSONLoad,
 		C3.Plugins.AJAX.Exps.LastData,
@@ -4427,7 +4426,7 @@ function or(l, r)
 
 self.C3_ExpressionFuncs = [
 		() => "info",
-		() => "https://marcoaureliom.github.io/Letrando/inform.json",
+		() => "inform.json",
 		() => 88,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -4435,8 +4434,6 @@ self.C3_ExpressionFuncs = [
 			return () => f0(n1.ExpObject(), "\\n", "\n");
 		},
 		() => "SemConexao",
-		() => "document.body.style.backgroundColor = '#b0a9ea';",
-		() => "document.documentElement.style.backgroundColor = '#b0a9ea';",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => f0();
@@ -4481,7 +4478,6 @@ self.C3_ExpressionFuncs = [
 		},
 		() => "Palavras",
 		() => "Chute",
-		() => "Teste",
 		() => "0",
 		() => "Palavra inválida",
 		() => 6,
