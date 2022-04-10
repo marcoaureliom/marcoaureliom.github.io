@@ -79,17 +79,33 @@ const scriptsInEvents = {
 					texto+="\nYup! Você também consegue acertar a palavra do dia?\nhttps://marcoaureliom.github.io/Letrando";
 			}
 			
-			var myTextBox=document.createElement("textarea");
+			//Verifique se o navegador pode compartilhar
+			if (navigator.share) {
 			
-			document.body.appendChild(myTextBox);
-			myTextBox.setAttribute("id","myTextBox_id");
-			document.getElementById("myTextBox_id").value=texto;
+			  navigator.share({
+			    title: 'Letrando',
+			    text: texto,
+			    url: 'https://marcoaureliom.github.io/Letrando',
+			  })
+			    //.then(() => runtime.callFunction('mensagem',['Compartilhado com sucesso!']))
+			    .catch((error) => runtime.callFunction('mensagem',['Erro ao compartilhar :/']));
 			
-			myTextBox.select();
-			myTextBox.setSelectionRange(0,99999);
+			}else{
 			
-			document.execCommand("copy");
-			document.body.removeChild(myTextBox);
+				var myTextBox=document.createElement("textarea");
+			
+				document.body.appendChild(myTextBox);
+				myTextBox.setAttribute("id","myTextBox_id");
+				document.getElementById("myTextBox_id").value=texto;
+			
+				myTextBox.select();
+				myTextBox.setSelectionRange(0,99999);
+			
+				document.execCommand("copy");
+				document.body.removeChild(myTextBox);
+				//runtime.globalVars.mensagem='Copiado para o Ctrl+V';
+				runtime.callFunction('mensagem',['Copiado para o Ctrl+V']);
+			}
 		}
 
 };
