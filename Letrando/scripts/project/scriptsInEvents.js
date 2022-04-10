@@ -85,7 +85,7 @@ const scriptsInEvents = {
 			  navigator.share({
 			    title: 'Letrando',
 			    text: texto,
-			    url: 'https://marcoaureliom.github.io/Letrando',
+			    url: '',
 			  })
 			    //.then(() => runtime.callFunction('mensagem',['Compartilhado com sucesso!']))
 			    .catch((error) => runtime.callFunction('mensagem',['Erro ao compartilhar :/']));
