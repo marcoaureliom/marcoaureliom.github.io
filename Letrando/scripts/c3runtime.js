@@ -4502,6 +4502,7 @@ self.C3_ExpressionFuncs = [
 			return () => ((v0.GetValue() * 5) + 5);
 		},
 		() => "",
+		() => "Digite uma palavra.",
 		p => {
 			const n0 = p._GetNode(0);
 			return () => n0.ExpInstVar();
@@ -4520,6 +4521,7 @@ self.C3_ExpressionFuncs = [
 		() => "Palavras",
 		() => "Chute",
 		() => "0",
+		() => "Digite uma palavra válida.",
 		() => 6,
 		p => {
 			const n0 = p._GetNode(0);
@@ -4603,10 +4605,12 @@ self.C3_ExpressionFuncs = [
 			const v0 = p._GetNode(0).GetVar();
 			return () => (v0.GetValue() * 6);
 		},
+		() => "Parabéns!",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			return () => (6 * v0.GetValue());
 		},
+		() => "Oh, não!",
 		() => "Perdeu",
 		p => {
 			const v0 = p._GetNode(0).GetVar();

@@ -84,10 +84,9 @@ const scriptsInEvents = {
 			
 			  navigator.share({
 			    title: 'Letrando',
-			    text: texto,
-			    url: '',
+			    text: texto+'',
 			  })
-			    //.then(() => runtime.callFunction('mensagem',['Compartilhado com sucesso!']))
+			    .then(() => runtime.callFunction('mensagem',['Selecione o app!']))
 			    .catch((error) => runtime.callFunction('mensagem',['Erro ao compartilhar :/']));
 			
 			}else{
